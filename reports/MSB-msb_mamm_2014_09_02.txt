@@ -1,0 +1,465 @@
+Report for Institution Code MSB, Resource msb_mamm
+Usage stats for August, 2014, generated on 2014/09/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 482
+Number of records retrieved in searches: 11600
+Number of different countries where searches have been originated: 19
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 6
+	Country: Belgium ; Times: 1
+	Country: Brazil ; Times: 9
+	Country: Canada ; Times: 6
+	Country: Chile ; Times: 17
+	Country: Colombia ; Times: 6
+	Country: Ecuador ; Times: 2
+	Country: France ; Times: 1
+	Country: Germany ; Times: 5
+	Country: Guatemala ; Times: 5
+	Country: Ireland ; Times: 1
+	Country: Israel ; Times: 5
+	Country: Mexico ; Times: 32
+	Country: Netherlands ; Times: 1
+	Country: Switzerland ; Times: 1
+	Country: United Kingdom ; Times: 6
+	Country: United States ; Times: 371
+	Country: Unknown ; Times: 5
+	Country: Venezuela ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-08-01 ; Times: 1
+	Date: 2014-08-02 ; Times: 2
+	Date: 2014-08-03 ; Times: 1
+	Date: 2014-08-04 ; Times: 8
+	Date: 2014-08-05 ; Times: 12
+	Date: 2014-08-06 ; Times: 17
+	Date: 2014-08-07 ; Times: 15
+	Date: 2014-08-08 ; Times: 17
+	Date: 2014-08-09 ; Times: 10
+	Date: 2014-08-10 ; Times: 1
+	Date: 2014-08-11 ; Times: 12
+	Date: 2014-08-12 ; Times: 10
+	Date: 2014-08-13 ; Times: 15
+	Date: 2014-08-14 ; Times: 9
+	Date: 2014-08-15 ; Times: 3
+	Date: 2014-08-16 ; Times: 9
+	Date: 2014-08-17 ; Times: 5
+	Date: 2014-08-18 ; Times: 25
+	Date: 2014-08-19 ; Times: 9
+	Date: 2014-08-20 ; Times: 9
+	Date: 2014-08-21 ; Times: 31
+	Date: 2014-08-22 ; Times: 22
+	Date: 2014-08-23 ; Times: 1
+	Date: 2014-08-24 ; Times: 8
+	Date: 2014-08-25 ; Times: 10
+	Date: 2014-08-26 ; Times: 33
+	Date: 2014-08-27 ; Times: 46
+	Date: 2014-08-28 ; Times: 19
+	Date: 2014-08-29 ; Times: 94
+	Date: 2014-08-30 ; Times: 21
+	Date: 2014-08-31 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:miurus genus:Microtus" ; Times: 1
+	Query: "lepus callotis" ; Times: 4
+	Query: "type:specimen county:"humboldt" stateprovince:"california" genus:aplodontia AND (NOT HSU)" ; Times: 1
+	Query: "Suncus murinus" ; Times: 3
+	Query: "myospalax" ; Times: 2
+	Query: "Chaetophractus" ; Times: 2
+	Query: "Corynorhinus townsendii California AND (baja)" ; Times: 1
+	Query: "stateprovince:"Valdivia"" ; Times: 2
+	Query: "canis lupus" ; Times: 1
+	Query: "specificepithet:vulpes vulpes" ; Times: 3
+	Query: "Ochotona collaris" ; Times: 4
+	Query: "Ochotona princeps year >= 1971 year <= 2014" ; Times: 1
+	Query: "tamiasciurus type:specimen (tissue) tissue:1" ; Times: 2
+	Query: "viscacia" ; Times: 1
+	Query: "country:"Colombia" specificepithet:nigricollis genus:SAguinus class:Mammalia" ; Times: 1
+	Query: "genus:Sigmodon catalognumber:5835" ; Times: 2
+	Query: "Saccopteryx bilineata distance(location,geopoint(15.615982874028395,-90.384521484375))<450063" ; Times: 1
+	Query: "specificepithet:arizonae genus:Sigmodon mappable:1" ; Times: 5
+	Query: "specificepithet:lateralis genus:spermophilus" ; Times: 1
+	Query: "urocitellus" ; Times: 2
+	Query: "toad tissue:1" ; Times: 3
+	Query: "gulo gulo mappable:1" ; Times: 1
+	Query: "tamiasciurus hudsonicus" ; Times: 2
+	Query: "tamiasciurus type:specimen stateprovince:"northwest territories" (tissue) tissue:1" ; Times: 1
+	Query: "Ailurus fulgens" ; Times: 1
+	Query: "type:specimen stateprovince:"california" genus:neurotrichus" ; Times: 1
+	Query: "tamiasciurus type:specimen stateprovince:"North Carolina" (tissue) tissue:1" ; Times: 1
+	Query: "county:"humboldt" stateprovince:"california" genus:sorex" ; Times: 1
+	Query: "puma concolor" ; Times: 3
+	Query: "specificepithet:canadensis genus:Castor" ; Times: 3
+	Query: "chaetodipus nelsoni stateprovince:"texas"" ; Times: 1
+	Query: "stateprovince:"Florida" specificepithet:parva genus:Cryptotis" ; Times: 1
+	Query: "tamiasciurus hudsonicus Canada tissue:1" ; Times: 2
+	Query: "Ochotona princeps year >= 1971 year <= 2014 mappable:1" ; Times: 3
+	Query: "Tamias dorsalis type:specimen stateprovince:"Utah" tissue:1" ; Times: 1
+	Query: "class:Mammalia distance(location,geopoint(42.25020775250944,-111.5771484375))<100000" ; Times: 1
+	Query: ""Urocitellus parryii" OR "Spermophilus parryii"" ; Times: 1
+	Query: "class:Mammalia Diaemus youngi" ; Times: 1
+	Query: "specificepithet:palustris genus:Sorex class:Mammalia" ; Times: 2
+	Query: "Chrotopterus auritus" ; Times: 3
+	Query: "scalopus aquaticus type:specimen" ; Times: 1
+	Query: "Histiotus" ; Times: 2
+	Query: "coendou" ; Times: 9
+	Query: "unknown "myotis sodalis"" ; Times: 1
+	Query: "tamiasciurus type:specimen stateprovince:"michigan" (tissue) tissue:1" ; Times: 2
+	Query: "Mustela frenata" ; Times: 9
+	Query: "sylvilagus brasiliensis type:specimen year >= 1961 year <= 2014" ; Times: 2
+	Query: "uroderma bilobatum" ; Times: 1
+	Query: "coendou prehensilis tissue:1" ; Times: 1
+	Query: "toad" ; Times: 1
+	Query: "Macropus" ; Times: 1
+	Query: "stateprovince:"Idaho" genus:Canis" ; Times: 1
+	Query: "Bullsnake" ; Times: 1
+	Query: "sigmodon arizonae" ; Times: 10
+	Query: ""myotis sodalis"" ; Times: 4
+	Query: "beldingi Nevada County (citellus OR urocitellus OR spermophilus) mappable:1" ; Times: 1
+	Query: "Antilocapra americana" ; Times: 3
+	Query: "Sorex palustris stateprovince:"New York"" ; Times: 1
+	Query: "chaetodipus intermedius" ; Times: 3
+	Query: "Geomys" ; Times: 1
+	Query: "Perognathus inornatus inornatus" ; Times: 1
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "gulo gulo" ; Times: 2
+	Query: "tamiasciurus (tissue)" ; Times: 1
+	Query: "Noctilio leporinus distance(location,geopoint(15.615982874028395,-90.384521484375))<450063" ; Times: 1
+	Query: "coendou year >= 1530 year <= 2014" ; Times: 1
+	Query: "sorex hoyi type:specimen" ; Times: 1
+	Query: "genus:Spermophilus specificepithet:parryii OR Genus:Urocitellus specificepithet:parryii" ; Times: 1
+	Query: "catalognumber:259605" ; Times: 1
+	Query: "Cerdocyon thous" ; Times: 1
+	Query: "stateprovince:"north dakota" specificepithet:lupus genus:canis" ; Times: 1
+	Query: "genus:Ctenomys AND (NOT Bolivia) year >= 1971 year <= 1971" ; Times: 3
+	Query: "Chironectes minimus" ; Times: 2
+	Query: "Tamias umbrinus type:specimen stateprovince:"Nevada" tissue:1" ; Times: 1
+	Query: "Euneomys chinchilloides" ; Times: 1
+	Query: "primate type:specimen" ; Times: 1
+	Query: "stateprovince:"illinois" specificepithet:lupus genus:canis" ; Times: 1
+	Query: "Pika year >= 1971 year <= 2014" ; Times: 2
+	Query: "tamiasciurus type:specimen stateprovince:"New Mexico" (tissue) tissue:1" ; Times: 1
+	Query: "specificepithet:septentrionalis genus:myotis" ; Times: 3
+	Query: "country:"bolivia" specificepithet:prehensilis genus:Coendou" ; Times: 1
+	Query: "Lontra canadensis" ; Times: 5
+	Query: "sylvilagus brasiliensis type:specimen year >= 1941 year <= 2014" ; Times: 1
+	Query: "stateprovince:"nevada" specificepithet:lateralis genus:spermophilus" ; Times: 1
+	Query: "genus:apodemus" ; Times: 1
+	Query: "specificepithet:septentrionalis genus:Myotis" ; Times: 3
+	Query: "Lepus othus" ; Times: 2
+	Query: "Murina" ; Times: 1
+	Query: "Martes americana type:specimen" ; Times: 1
+	Query: "Molossus molossus stateprovince:"Veracruz" country:"Mexico" year <= 2014" ; Times: 1
+	Query: "sa pa" ; Times: 1
+	Query: "corynorhinus" ; Times: 1
+	Query: "coendou (mexico)" ; Times: 1
+	Query: "french Guiana" ; Times: 1
+	Query: "neotoma cinerea" ; Times: 1
+	Query: "type:specimen stateprovince:"Virginia" class:Mammalia" ; Times: 1
+	Query: "Mustela erminea" ; Times: 1
+	Query: "chaetodipus intermedius intermedius" ; Times: 1
+	Query: "Cyclopes" ; Times: 1
+	Query: "Canis lupus baileyi" ; Times: 2
+	Query: "stateprovince:"nevada" genus:eutamias" ; Times: 1
+	Query: "Alpine" ; Times: 1
+	Query: "myotis sodalis" ; Times: 3
+	Query: "sigmodon arizonae tissue:1" ; Times: 1
+	Query: "Noctilio albiventris distance(location,geopoint(15.615982874028395,-90.384521484375))<450063" ; Times: 1
+	Query: "Sigmodon arizonae" ; Times: 4
+	Query: "Cratogeomys castanops" ; Times: 1
+	Query: "NK 120753" ; Times: 1
+	Query: "specificepithet:prehensilis genus:Coendou mappable:1" ; Times: 2
+	Query: "Marmosa mexicana" ; Times: 1
+	Query: "type:specimen genus:aplodontia" ; Times: 1
+	Query: "dinomys" ; Times: 1
+	Query: "axis axis" ; Times: 1
+	Query: "stateprovince:"illinois" specificepithet:vulpes genus:vulpes" ; Times: 1
+	Query: "Martes americana americana" ; Times: 1
+	Query: "genus:Ctenomys AND (NOT Bolivia)" ; Times: 1
+	Query: "genus:Ctenomys year >= 1971 year <= 1971" ; Times: 1
+	Query: "tamiasciurus type:specimen stateprovince:"Indiana" (tissue) tissue:1" ; Times: 2
+	Query: "gunnisoni county:"Socorro"" ; Times: 1
+	Query: "specificepithet:arizonae genus:Sigmodon mappable:1 tissue:1" ; Times: 1
+	Query: "pika" ; Times: 1
+	Query: "cow" ; Times: 1
+	Query: "Tamiasciurus hudsonicus" ; Times: 1
+	Query: "Parascalops breweri type:specimen stateprovince:"New York"" ; Times: 1
+	Query: "tamiasciurus type:specimen stateprovince:"alaska" (tissue) tissue:1" ; Times: 1
+	Query: "specificepithet:prehensilis genus:coendou mappable:1" ; Times: 1
+	Query: "Coendou prehensilis" ; Times: 25
+	Query: "display" ; Times: 1
+	Query: "tamiasciurus hudsonicus tissue:1" ; Times: 1
+	Query: "Myrmecophaga tridactyla" ; Times: 2
+	Query: "Castor canadensis" ; Times: 1
+	Query: "Diphylla ecaudata" ; Times: 2
+	Query: "vole" ; Times: 1
+	Query: "country:"Belize" class:Mammalia" ; Times: 1
+	Query: "tamiasciurus hudsonicus alaska tissue:1" ; Times: 1
+	Query: "sylvilagus brasiliensis" ; Times: 18
+	Query: "stateprovince:"minnesota" specificepithet:lupus genus:canis" ; Times: 1
+	Query: "tamiasciurus type:specimen stateprovince:"Montana" (tissue) tissue:1" ; Times: 1
+	Query: "Ochotona princeps country:"United States" year >= 1971 year <= 2014 mappable:1" ; Times: 1
+	Query: "Chaetophractus type:specimen tissue:1" ; Times: 2
+	Query: "Eumops perotis californicus" ; Times: 1
+	Query: "specificepithet:prehensilis genus:coendou" ; Times: 5
+	Query: "Peromyscus gossypinus type:specimen stateprovince:"North Carolina"" ; Times: 1
+	Query: "Histiotus tissue:1" ; Times: 1
+	Query: "county:"valdivia"" ; Times: 3
+	Query: "specificepithet:prehensilis genus:Coendou" ; Times: 13
+	Query: "type:specimen county:"humboldt" stateprovince:"california" genus:aplodontia" ; Times: 1
+	Query: "stateprovince:"Washington" genus:Canis" ; Times: 1
+	Query: "condylura cristata type:specimen" ; Times: 1
+	Query: "Mustela nivalis type:specimen" ; Times: 1
+	Query: "ursus americanus" ; Times: 4
+	Query: "genus:Coendou prehensilis" ; Times: 1
+	Query: "myocastor" ; Times: 3
+	Query: "Pteronotus personatus distance(location,geopoint(15.615982874028395,-90.384521484375))<450063" ; Times: 1
+	Query: "specificepithet:bicornis genus:diceros" ; Times: 1
+	Query: "Bradypus variegatus" ; Times: 1
+	Query: "stateprovince:"valdivia"" ; Times: 1
+	Query: "genus:Ctenomys" ; Times: 1
+	Query: "chelemys macronyx institutioncode:msb" ; Times: 1
+	Query: "chaetodipus intermedius county:"lincoln"" ; Times: 2
+	Query: "Giraffe" ; Times: 3
+	Query: "recordedby:Hansen year >= 1983 year <= 1983" ; Times: 1
+	Query: "country:"united states" specificepithet:arizonae genus:sigmodon" ; Times: 1
+	Query: "ursus" ; Times: 2
+	Query: "bison bison" ; Times: 3
+	Query: "stateprovince:"Los Santos" country:"Panama" class:Mammalia" ; Times: 6
+	Query: "specificepithet:prehensilis genus:coendou distance(location,geopoint(-4.470847172390763,-59.23828125))<1617866" ; Times: 1
+	Query: "chaetophractus tissue:1" ; Times: 1
+	Query: "Pika" ; Times: 1
+	Query: "stateprovince:"michigan" specificepithet:lupus genus:canis" ; Times: 1
+	Query: "skull specificepithet:vulpes vulpes" ; Times: 1
+	Query: "Vampyrum spectrum" ; Times: 1
+	Query: "specificepithet:prehensilis genus:Coendou mappable:1 tissue:1" ; Times: 1
+	Query: "tamiasciurus type:specimen stateprovince:"California" (tissue) tissue:1" ; Times: 1
+	Query: "Ailurus fulgens type:specimen" ; Times: 1
+	Query: "brown bear" ; Times: 1
+	Query: "rabbit" ; Times: 1
+	Query: "Spilogale putorius type:specimen" ; Times: 1
+	Query: "Chrotopterus" ; Times: 1
+	Query: "Coahuila mammals type:specimen" ; Times: 1
+	Query: "specificepithet:arizonae genus:sigmodon" ; Times: 2
+	Query: "scalopus aquaticus" ; Times: 1
+	Query: "gunnisoni stateprovince:"New Mexico"" ; Times: 7
+	Query: "tamiasciurus type:specimen stateprovince:"washington" (tissue) tissue:1" ; Times: 1
+	Query: "Paraguay Oligoryzomys chacoensis" ; Times: 1
+	Query: "class:Mammalia cyclopes" ; Times: 1
+	Query: "cynomys gunnisoni" ; Times: 1
+	Query: "Eligmodontia typus" ; Times: 2
+	Query: "tamiasciurus type:specimen stateprovince:"Michigan" (tissue) tissue:1" ; Times: 1
+	Query: "tamiasciurus type:specimen stateprovince:"yukon" (tissue) tissue:1" ; Times: 1
+	Query: "Coendou prehensilis mappable:1" ; Times: 1
+	Query: "lutra" ; Times: 1
+	Query: "type:specimen specificepithet:prehensilis genus:Coendou" ; Times: 1
+	Query: "marmosops" ; Times: 5
+	Query: "stateprovince:"Los Santos" country:"Panama" class:Mammalia institutioncode:MSB" ; Times: 1
+	Query: "Alouatta" ; Times: 4
+	Query: "stateprovince:"nevada" genus:tamias" ; Times: 2
+	Query: "tamiasciurus type:specimen stateprovince:"wyoming" (tissue) tissue:1" ; Times: 1
+	Query: "toad mappable:1 tissue:1" ; Times: 1
+	Query: "6596" ; Times: 1
+	Query: "type:specimen county:"humboldt" stateprovince:"california" genus:neurotrichus AND (NOT HSU)" ; Times: 1
+	Query: "neotoma fuscipes" ; Times: 2
+	Query: "stateprovince:"nebraska" specificepithet:cinereoargenteus genus:urocyon" ; Times: 1
+	Query: "Sciurus aberti" ; Times: 1
+	Query: "Lepus americanus" ; Times: 1
+	Query: ""tamias merriami"" ; Times: 1
+	Query: "coendou prehensilis" ; Times: 8
+	Query: "class:Mammalia distance(location,geopoint(43.09028703012894,-108.720703125))<100000" ; Times: 1
+	Query: "tamiasciurus type:specimen stateprovince:"ohio" (tissue) tissue:1" ; Times: 1
+	Query: "sus scrofa" ; Times: 1
+	Query: "stateprovince:"wisconsin" specificepithet:lupus genus:canis" ; Times: 1
+	Query: "genomic" ; Times: 1
+	Query: "Odobenus rosmarus skeleton" ; Times: 2
+	Query: "necropsy" ; Times: 1
+	Query: "tamiasciurus type:specimen stateprovince:"south dakota" (tissue) tissue:1" ; Times: 2
+	Query: "mouse" ; Times: 2
+	Query: "catalognumber:227184 institutioncode:MSB" ; Times: 1
+	Query: "county:"humboldt" stateprovince:"california" genus:thomomys" ; Times: 1
+	Query: "class:Mammalia distance(location,geopoint(38.910982971685016,-110.621337890625))<100000" ; Times: 1
+	Query: "gulo gulo type:specimen" ; Times: 1
+	Query: "Lagidium viscacia" ; Times: 1
+	Query: "castor canadensis" ; Times: 1
+	Query: "Diaemus youngi" ; Times: 1
+	Query: "Mephitis mephitis type:specimen" ; Times: 1
+	Query: "chaetophractus villosus tissue:1" ; Times: 1
+	Query: "noctilio" ; Times: 2
+	Query: "Corynorhinus townsendii California AND (baja or Baja)" ; Times: 2
+	Query: "cryptotis parva type:specimen" ; Times: 1
+	Query: "Taxidea taxus" ; Times: 1
+	Query: "stateprovince:"illinois" specificepithet:cinereoargenteus genus:urocyon" ; Times: 1
+	Query: "specificepithet:parryii genus:Spermophilus" ; Times: 2
+	Query: "tamiasciurus type:specimen stateprovince:"oregon" (tissue) tissue:1" ; Times: 1
+	Query: "Acinonyx jubatus type:specimen" ; Times: 1
+	Query: "specificepithet:prehensilis genus:Coendou tissue:1" ; Times: 2
+	Query: "chelemys macronyx" ; Times: 1
+	Query: "tamiasciurus type:specimen stateprovince:"British Columbia" (tissue) tissue:1" ; Times: 2
+	Query: "Martes americana" ; Times: 3
+	Query: "Perognathus flavescens" ; Times: 1
+	Query: "Sorex tenellus" ; Times: 2
+	Query: "pseudoryzomys simplex type:specimen country:"paraguay"" ; Times: 1
+	Query: "class:Mammalia catalognumber:55245 institutioncode:MSB" ; Times: 1
+	Query: "specificepithet:arizonae genus:Sigmodon" ; Times: 6
+	Query: "class:Mammalia distance(location,geopoint(33.553604576696955,-113.02734375))<100000" ; Times: 1
+	Query: "fruit" ; Times: 1
+	Query: "country:"Colombia" class:Mammalia" ; Times: 1
+	Query: "Peromyscus maniculatus bairdii" ; Times: 1
+	Query: "peromyscus leucopus arizona type:specimen mappable:1" ; Times: 2
+	Query: "mustela frenata" ; Times: 1
+	Query: "coendou year >= 1930 year <= 2014" ; Times: 1
+	Query: "Macrophyllum macrophyllum" ; Times: 1
+	Query: "dove" ; Times: 1
+	Query: "chaetodipus nelsoni county:"eddy" stateprovince:"new mexico"" ; Times: 1
+	Query: "Peromyscus gossypinus type:specimen" ; Times: 1
+	Query: "myocastor coypus" ; Times: 5
+	Query: "Coendou prehensilis mappable:1 tissue:1" ; Times: 4
+	Query: "macrotus waterhousii" ; Times: 1
+	Query: "heteromys" ; Times: 1
+	Query: "Tayassu pecari" ; Times: 1
+	Query: "genus:Spermophilus specificepithet:parryii OR Genus:Urocitellus" ; Times: 2
+	Query: "country:"United States" specificepithet:minutissimus genus:Sorex" ; Times: 1
+	Query: "stateprovince:"nevada" specificepithet:microps genus:dipodomys" ; Times: 1
+	Query: "stateprovince:"nevada" specificepithet:panamintinus genus:tamias" ; Times: 1
+	Query: "armadillo" ; Times: 1
+	Query: "stateprovince:"california" specificepithet:senex genus:tamias" ; Times: 1
+	Query: "Coahuila" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 87 (out of 273 download events in this period)
+Total number of records downloaded: 38872 (out of 1909881 records downloaded for all resources in this period)
+Total number of unique records downloaded: 36039
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Belgium ; Times: 1
+	Country: Brazil ; Times: 3
+	Country: Colombia ; Times: 2
+	Country: Germany ; Times: 4
+	Country: Guatemala ; Times: 3
+	Country: Israel ; Times: 1
+	Country: Mexico ; Times: 12
+	Country: United States ; Times: 59
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-08-05 ; Times: 10
+	Date: 2014-08-06 ; Times: 2
+	Date: 2014-08-08 ; Times: 2
+	Date: 2014-08-11 ; Times: 2
+	Date: 2014-08-12 ; Times: 2
+	Date: 2014-08-13 ; Times: 3
+	Date: 2014-08-14 ; Times: 2
+	Date: 2014-08-16 ; Times: 1
+	Date: 2014-08-17 ; Times: 4
+	Date: 2014-08-18 ; Times: 7
+	Date: 2014-08-19 ; Times: 1
+	Date: 2014-08-20 ; Times: 1
+	Date: 2014-08-21 ; Times: 2
+	Date: 2014-08-22 ; Times: 12
+	Date: 2014-08-25 ; Times: 3
+	Date: 2014-08-26 ; Times: 8
+	Date: 2014-08-27 ; Times: 9
+	Date: 2014-08-28 ; Times: 6
+	Date: 2014-08-29 ; Times: 1
+	Date: 2014-08-30 ; Times: 7
+	Date: 2014-08-31 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "neotoma fuscipes" ; Times: 2
+	Query: "sylvilagus brasiliensis" ; Times: 1
+	Query: "Sciurus aberti" ; Times: 1
+	Query: "tamiasciurus hudsonicus" ; Times: 1
+	Query: "Ondatra zibethicus" ; Times: 1
+	Query: "stateprovince:"Florida" specificepithet:parva genus:Cryptotis" ; Times: 2
+	Query: "Eumops perotis californicus" ; Times: 1
+	Query: "Ammospermophilus nelsoni" ; Times: 2
+	Query: "Mephitis mephitis type:specimen" ; Times: 1
+	Query: "specificepithet:septentrionalis genus:myotis" ; Times: 2
+	Query: "Peromyscus boylii" ; Times: 1
+	Query: "sorex hoyi type:specimen" ; Times: 1
+	Query: "Ochotona collaris" ; Times: 1
+	Query: "stateprovince:"Washington" genus:Canis" ; Times: 1
+	Query: "condylura cristata type:specimen" ; Times: 1
+	Query: "Desmodus rotundus" ; Times: 1
+	Query: "castor canadensis" ; Times: 1
+	Query: "Baja California Sur mammals" ; Times: 1
+	Query: "Saccopteryx bilineata distance(location,geopoint(15.615982874028395,-90.384521484375))<450063" ; Times: 1
+	Query: "Martes americana type:specimen" ; Times: 1
+	Query: "chaetodipus intermedius county:"lincoln"" ; Times: 1
+	Query: "Mustela nivalis type:specimen" ; Times: 1
+	Query: "Diphylla ecaudata" ; Times: 1
+	Query: "country:"Kenya" class:Mammalia" ; Times: 1
+	Query: "heteromys" ; Times: 1
+	Query: "neotoma macrotis" ; Times: 1
+	Query: "Ailurus fulgens" ; Times: 2
+	Query: "neotoma cinerea" ; Times: 1
+	Query: "cryptotis parva type:specimen" ; Times: 1
+	Query: "Mustela erminea" ; Times: 1
+	Query: "Marmosa mexicana" ; Times: 1
+	Query: "spermophilus beecheyi" ; Times: 1
+	Query: "nayarit" ; Times: 1
+	Query: "Dipodomys ingens" ; Times: 2
+	Query: "Acinonyx jubatus type:specimen" ; Times: 1
+	Query: "Chironectes minimus" ; Times: 1
+	Query: "Coahuila mammals type:specimen" ; Times: 1
+	Query: "Noctilio albiventris distance(location,geopoint(15.615982874028395,-90.384521484375))<450063" ; Times: 1
+	Query: "Otospermophilus beecheyi" ; Times: 1
+	Query: "stateprovince:"michigan" specificepithet:lupus genus:canis" ; Times: 1
+	Query: "class:Mammalia Panthera leo" ; Times: 1
+	Query: ""Urocitellus parryii" OR "Spermophilus parryii"" ; Times: 1
+	Query: "Lontra canadensis" ; Times: 2
+	Query: "ochotona princeps" ; Times: 1
+	Query: "type:specimen stateprovince:"Virginia" class:Mammalia" ; Times: 1
+	Query: "scalopus aquaticus type:specimen" ; Times: 1
+	Query: "Ailurus fulgens type:specimen" ; Times: 1
+	Query: "Lepus othus" ; Times: 2
+	Query: "Chrotopterus auritus" ; Times: 1
+	Query: "Vampyrum spectrum" ; Times: 1
+	Query: "Spilogale putorius type:specimen" ; Times: 2
+	Query: "ayacucho" ; Times: 1
+	Query: "country:"brazil"" ; Times: 2
+	Query: "Peromyscus gossypinus type:specimen" ; Times: 1
+	Query: "stateprovince:"Idaho" genus:Canis" ; Times: 1
+	Query: "eptesicus" ; Times: 1
+	Query: "Herpestidae type:specimen" ; Times: 1
+	Query: "rana sylvatica" ; Times: 1
+	Query: "Parascalops breweri type:specimen stateprovince:"New York"" ; Times: 2
+	Query: "Cerdocyon thous" ; Times: 1
+	Query: "Nandinia binotata type:specimen" ; Times: 1
+	Query: "Ochotona princeps country:"United States" year >= 1971 year <= 2014 mappable:1" ; Times: 1
+	Query: "Perognathus inornatus inornatus" ; Times: 4
+	Query: "stateprovince:"minnesota" specificepithet:lupus genus:canis" ; Times: 1
+	Query: "Tayassu pecari" ; Times: 1
+	Query: "genus:Spermophilus specificepithet:parryii OR Genus:Urocitellus" ; Times: 1
+	Query: "tamiasciurus (tissue)" ; Times: 1
+	Query: "Noctilio leporinus distance(location,geopoint(15.615982874028395,-90.384521484375))<450063" ; Times: 1
+	Query: "Alouatta" ; Times: 1
+	Query: "country:"Colombia" class:Mammalia" ; Times: 1
+	Query: "Dipodomys" ; Times: 1
+	Query: "myocastor coypus" ; Times: 1
+	Query: "urocitellus" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 2603
+Total number of records retrieved from searches: 60474
+Number of download events that retrieved data from the resource: 511
+Total number of records downloaded: 726322
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 2603
+Total number of records retrieved from searches: 60474
+Number of download events that retrieved data from the resource: 650
+Total number of records downloaded: 1230530
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
