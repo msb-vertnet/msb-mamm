@@ -1,0 +1,638 @@
+Report for Institution Code MSB, Resource msb_mamm
+Usage stats for January, 2015, generated on 2015/02/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 755
+Number of records retrieved in searches: 15181
+Number of different countries where searches have been originated: 24
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 1
+	Country: Brazil ; Times: 27
+	Country: Canada ; Times: 8
+	Country: Chile ; Times: 13
+	Country: Colombia ; Times: 9
+	Country: Czech Republic ; Times: 3
+	Country: France ; Times: 3
+	Country: French Guiana ; Times: 7
+	Country: Germany ; Times: 2
+	Country: Honduras ; Times: 1
+	Country: India ; Times: 1
+	Country: Israel ; Times: 5
+	Country: Latvia ; Times: 1
+	Country: Mexico ; Times: 74
+	Country: Panama ; Times: 1
+	Country: Poland ; Times: 1
+	Country: Russia ; Times: 2
+	Country: Singapore ; Times: 2
+	Country: South Korea ; Times: 2
+	Country: Spain ; Times: 19
+	Country: Sweden ; Times: 16
+	Country: United Kingdom ; Times: 4
+	Country: United States ; Times: 525
+	Country: Unknown ; Times: 28
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-01-02 ; Times: 4
+	Date: 2015-01-03 ; Times: 22
+	Date: 2015-01-04 ; Times: 21
+	Date: 2015-01-05 ; Times: 23
+	Date: 2015-01-06 ; Times: 14
+	Date: 2015-01-07 ; Times: 45
+	Date: 2015-01-08 ; Times: 42
+	Date: 2015-01-09 ; Times: 27
+	Date: 2015-01-10 ; Times: 7
+	Date: 2015-01-11 ; Times: 2
+	Date: 2015-01-12 ; Times: 18
+	Date: 2015-01-13 ; Times: 17
+	Date: 2015-01-14 ; Times: 16
+	Date: 2015-01-15 ; Times: 17
+	Date: 2015-01-16 ; Times: 4
+	Date: 2015-01-17 ; Times: 5
+	Date: 2015-01-18 ; Times: 11
+	Date: 2015-01-19 ; Times: 13
+	Date: 2015-01-20 ; Times: 22
+	Date: 2015-01-21 ; Times: 12
+	Date: 2015-01-22 ; Times: 26
+	Date: 2015-01-23 ; Times: 38
+	Date: 2015-01-24 ; Times: 18
+	Date: 2015-01-25 ; Times: 13
+	Date: 2015-01-26 ; Times: 51
+	Date: 2015-01-27 ; Times: 60
+	Date: 2015-01-28 ; Times: 93
+	Date: 2015-01-29 ; Times: 91
+	Date: 2015-01-30 ; Times: 18
+	Date: 2015-01-31 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "cyclopes didactylus" ; Times: 1
+	Query: "rodentia stateprovince:"Utah" year >= 1920 year <= 1980" ; Times: 1
+	Query: "media:1" ; Times: 1
+	Query: "27694 tissue:1" ; Times: 1
+	Query: "opossum mappable:1" ; Times: 1
+	Query: "Bidens" ; Times: 2
+	Query: "university of arizona class:mammalia" ; Times: 1
+	Query: "Scalopus aquaticus stateprovince:"Kansas"" ; Times: 1
+	Query: "215940 institutioncode:MSB" ; Times: 1
+	Query: "puma concolor" ; Times: 5
+	Query: "type:specimen county:"White Pine" stateprovince:"Nevada" class:Mammalia year >= 1928 year <= 2014 mappable:1" ; Times: 1
+	Query: "Scalopus aquaticus stateprovince:"Texas" tissue:1" ; Times: 1
+	Query: "Ailurus fulgens mappable:1" ; Times: 1
+	Query: "sturnira ludovici" ; Times: 1
+	Query: "Dasypus novemcinctus mappable:1" ; Times: 15
+	Query: "lynx rufus country:"mexico"" ; Times: 1
+	Query: "(dewoody)" ; Times: 1
+	Query: "genus:tamandua" ; Times: 3
+	Query: "stateprovince:"Herrera" country:"Panama" class:Mammalia" ; Times: 1
+	Query: "263604" ; Times: 1
+	Query: "Neovison vison stateprovince:"texas"" ; Times: 1
+	Query: "gulo mappable:1" ; Times: 1
+	Query: "Oligoryzomys magellanicus" ; Times: 1
+	Query: "type:specimen (rodentia OR Didelphimorphias AND Brazil) hastypestatus:1" ; Times: 1
+	Query: "spermophilus tereticaudus" ; Times: 1
+	Query: "cynomys type:specimen class:mammalia year >= 1938 year <= 1938" ; Times: 1
+	Query: "type:specimen class:mammalia hastypestatus:1" ; Times: 1
+	Query: "lynx rufus catalognumber:153557 institutioncode:MSB" ; Times: 1
+	Query: "Felis silvestris" ; Times: 2
+	Query: "Turkey" ; Times: 1
+	Query: "Spilogale putorius mappable:1" ; Times: 1
+	Query: "petaurista leucogenys" ; Times: 1
+	Query: "Procyon cancrivorus" ; Times: 1
+	Query: "Mus booduga" ; Times: 1
+	Query: ""puma concolor" mappable:1" ; Times: 2
+	Query: "msb 231152" ; Times: 1
+	Query: ""San Ysidro" year <= 1950" ; Times: 1
+	Query: "tadarida brasiliensis nmmnh" ; Times: 1
+	Query: "Puma concolor mappable:1" ; Times: 4
+	Query: "Microtus quasiater" ; Times: 1
+	Query: "microdipodops megacephalus stateprovince:"Utah" year >= 1920 year <= 1980" ; Times: 2
+	Query: "Caluromys lanatus" ; Times: 1
+	Query: "mephitidae country:"Mexico" year >= 1850 year <= 2014" ; Times: 1
+	Query: "216049 institutioncode:MSB" ; Times: 1
+	Query: "erethizon dorsatum mappable:1" ; Times: 5
+	Query: "spermophilus alashanicus" ; Times: 1
+	Query: "cryptotis panama" ; Times: 1
+	Query: ""Microtus pennsylvanicus" stateprovince:"North Carolina"" ; Times: 1
+	Query: "msb mus musculus stateprovince:"Alaska" mappable:1 tissue:1" ; Times: 1
+	Query: "Page looks" ; Times: 1
+	Query: "puma concolor type:specimen country:"United States"" ; Times: 3
+	Query: ""Dasypus novemcinctus" mappable:1" ; Times: 20
+	Query: "distance(location,geopoint(46.92025531537451,-100.283203125))<100000" ; Times: 1
+	Query: "Cayenne" ; Times: 1
+	Query: "249985" ; Times: 1
+	Query: "cyclopes" ; Times: 1
+	Query: "longicaudatus" ; Times: 2
+	Query: "mammals stateprovince:"durango" country:"mexico"" ; Times: 1
+	Query: ""Microtus pennsylvanicus" stateprovince:"Virginia"" ; Times: 1
+	Query: "class:Mammalia (Tijuana)" ; Times: 2
+	Query: "mus musculus stateprovince:"alaska" institutioncode:MSB (tissue ) tissue:1" ; Times: 1
+	Query: "Cmn" ; Times: 1
+	Query: "Spermophilus mexicanus" ; Times: 1
+	Query: "Tamandua mexicana" ; Times: 1
+	Query: "museum number 48060" ; Times: 1
+	Query: "county:"garfield" stateprovince:"nebraska"" ; Times: 1
+	Query: "Leptonycteris" ; Times: 3
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "coyote" ; Times: 1
+	Query: "lynx rufus" ; Times: 1
+	Query: "mammal type:specimen (holotype)" ; Times: 1
+	Query: "Sylvilagus cunicularius" ; Times: 1
+	Query: "Lepus callotis" ; Times: 3
+	Query: "didelphis virginiana" ; Times: 4
+	Query: ""Didelphis Virginiana" mappable:1" ; Times: 1
+	Query: "thomomys clusius wyoming thomomys clusius" ; Times: 1
+	Query: "lutra" ; Times: 2
+	Query: "hudspeth county texas" ; Times: 2
+	Query: "CHAETODIPUS INTERMEDIUS (KENZIN)" ; Times: 1
+	Query: "Mormoops megalophylla" ; Times: 2
+	Query: "tridecemlineatus michigan" ; Times: 1
+	Query: "didelphis virginiana mappable:1" ; Times: 7
+	Query: "canidae skull type:specimen hastypestatus:1" ; Times: 1
+	Query: ""Erethizon" mappable:1" ; Times: 2
+	Query: "Puma concolor" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 5
+	Query: "Erethizon "Erethizon dorsatum" mappable:1" ; Times: 3
+	Query: "Tylomys tumbalensis" ; Times: 1
+	Query: "dipodomys type:specimen stateprovince:"arizona" class:mammalia year >= 1961 year <= 1961" ; Times: 1
+	Query: "cardinal" ; Times: 1
+	Query: "sciurus variegatoides institutioncode:MSB" ; Times: 1
+	Query: "Taxidea taxus" ; Times: 3
+	Query: "cheetah" ; Times: 1
+	Query: "myotis yumanensis wyoming myotis yumanensis (specimen)" ; Times: 3
+	Query: ""didelphis Virginiana" mappable:1" ; Times: 1
+	Query: "Eumetopias jubatus" ; Times: 1
+	Query: "eira barbara" ; Times: 1
+	Query: ""Didelphis virginiana"" ; Times: 2
+	Query: "Metachirus nudicaudatus" ; Times: 1
+	Query: "stateprovince:"Minnesota" class:Mammalia institutioncode:MSB" ; Times: 1
+	Query: "spermophilus parryii" ; Times: 2
+	Query: "rodentia county:"Beaver" stateprovince:"Utah" year >= 1920 year <= 1980" ; Times: 1
+	Query: "Bradypus variegatus" ; Times: 3
+	Query: "dipodomys type:specimen stateprovince:"baja" year >= 1973 year <= 1973" ; Times: 1
+	Query: "Castor canadensis" ; Times: 3
+	Query: ""Microtus pennsylvanicus" stateprovince:"Maine"" ; Times: 1
+	Query: "Hydrochoerus hydrochaeris" ; Times: 1
+	Query: "wolves" ; Times: 1
+	Query: "dipodomys type:specimen county:"yuma"" ; Times: 1
+	Query: "Setonix brachyurus mappable:1" ; Times: 1
+	Query: "tamiasciurus hudsonicus" ; Times: 8
+	Query: "Scalopus aquaticus stateprovince:"Nebraska"" ; Times: 2
+	Query: "specificepithet:pilosus genus:dasypus" ; Times: 2
+	Query: "catalognumber:54959 institutioncode:MSB" ; Times: 2
+	Query: ""Sorex merriami" stateprovince:"Utah"" ; Times: 2
+	Query: "9831" ; Times: 1
+	Query: "Ursus" ; Times: 2
+	Query: "sorex palustris" ; Times: 1
+	Query: "22-Nov-1963" ; Times: 1
+	Query: "kansas university museum of natural history" ; Times: 1
+	Query: "(chaetodipus) year >= 1970 year <= 1970" ; Times: 1
+	Query: "215953 institutioncode:MSB" ; Times: 1
+	Query: "Mazama americana" ; Times: 1
+	Query: "Equus type:specimen (Skeleton)" ; Times: 1
+	Query: "Mustela frenata" ; Times: 1
+	Query: "Nasua narica" ; Times: 1
+	Query: "Ammospermophilus type:specimen county:"pima" class:mammalia year >= 1975 year <= 1976" ; Times: 1
+	Query: "Ochrotomys nuttalli" ; Times: 1
+	Query: "metachirus nudicaudatus" ; Times: 1
+	Query: "scalopus tissue:1" ; Times: 1
+	Query: "Ceratotherium simum" ; Times: 17
+	Query: "j. n. clark" ; Times: 1
+	Query: ""erethizon dorsatum" mappable:1" ; Times: 13
+	Query: "Cebidae" ; Times: 1
+	Query: "stateprovince:"Minnesota" class:Mammalia" ; Times: 3
+	Query: "G. gulo mappable:1" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "Oryzomys couesi year >= 1990 year <= 2014" ; Times: 2
+	Query: "Oryzomys couesi" ; Times: 1
+	Query: ""Mephitis mephitis" mappable:1" ; Times: 1
+	Query: "Spermophilus type:specimen county:"cochise" class:mammalia year >= 1957 year <= 1957" ; Times: 1
+	Query: "santa cruz tissue:1" ; Times: 1
+	Query: ""dorsatum" mappable:1" ; Times: 2
+	Query: "dipodomys type:specimen county:"pinal" class:mammalia year >= 1961 year <= 1961" ; Times: 1
+	Query: "carollia castanea" ; Times: 1
+	Query: "msb mus musculus stateprovince:"Alaska" tissue:1" ; Times: 1
+	Query: "paraxerus poensis" ; Times: 1
+	Query: "Eira barbara" ; Times: 3
+	Query: "marmosa canescens" ; Times: 1
+	Query: ""puma" mappable:1" ; Times: 1
+	Query: "lynx rufus institutioncode:MSB" ; Times: 1
+	Query: ""Microtus pennsylvanicus" stateprovince:"Newfoundland"" ; Times: 1
+	Query: "Spermophilus type:specimen county:"pima" class:mammalia year >= 1946 year <= 1946" ; Times: 1
+	Query: "country:"Ecuador" tissue:1" ; Times: 1
+	Query: ""didelphis virginiana"" ; Times: 2
+	Query: "ammospermophilus nelsoni" ; Times: 1
+	Query: "Coendou" ; Times: 1
+	Query: "opossum" ; Times: 1
+	Query: "felis concolor" ; Times: 1
+	Query: "65666 institutioncode:MSB" ; Times: 2
+	Query: "stateprovince:"Los Santos" country:"Panama" class:Mammalia" ; Times: 1
+	Query: "scalopus stateprovince:"Texas" tissue:1" ; Times: 1
+	Query: "peromyscus gardner" ; Times: 1
+	Query: "mus musculus stateprovince:"alaska" (tissue ) tissue:1" ; Times: 1
+	Query: "Didelphis virginiana mappable:1" ; Times: 16
+	Query: "Felidae stateprovince:"Sinaloa" country:"Mexico" year >= 1888 year <= 2014" ; Times: 1
+	Query: "marmosa mexicana" ; Times: 1
+	Query: "odocoileus virginianus" ; Times: 1
+	Query: "antilocapra americana" ; Times: 1
+	Query: "mustelidae country:"Mexico" year >= 1850 year <= 2014" ; Times: 1
+	Query: "north american porcupine" ; Times: 1
+	Query: "Artibeus bogotensis" ; Times: 1
+	Query: "peromyscus difficilis (mexico)" ; Times: 1
+	Query: "dipodomys type:specimen county:"yavapai" year >= 1970 year <= 1970" ; Times: 1
+	Query: "mink" ; Times: 2
+	Query: "12544 institutioncode:MSB" ; Times: 3
+	Query: "ant" ; Times: 1
+	Query: "Ochotona mappable:1" ; Times: 1
+	Query: "castor canadensis" ; Times: 5
+	Query: "class:mammalia catalognumber:45022" ; Times: 2
+	Query: "spixii" ; Times: 3
+	Query: "perognathus county:"cochise" year >= 1964 year <= 1964" ; Times: 1
+	Query: "Tayassu pecari" ; Times: 2
+	Query: "Erethizon dorsatum mappable:1" ; Times: 20
+	Query: "Felidae country:"Mexico" year >= 1850 year <= 2014" ; Times: 1
+	Query: ""tia juana" class:Mammalia" ; Times: 1
+	Query: "Myotis simus" ; Times: 1
+	Query: "didelphis pernigra" ; Times: 2
+	Query: "lepus californicus" ; Times: 1
+	Query: "genus:Microryzomys" ; Times: 1
+	Query: "Lynx" ; Times: 1
+	Query: ""Microtus pennsylvanicus" stateprovince:"New Brunswick"" ; Times: 1
+	Query: "mustela frenata" ; Times: 2
+	Query: ""Dasypus novemcinctus"" ; Times: 1
+	Query: "Sylvilagus brasiliensis" ; Times: 2
+	Query: "Mule deer mappable:1" ; Times: 1
+	Query: "glaucomys sabrinus" ; Times: 2
+	Query: "patzcuaro stateprovince:"Michoacan"" ; Times: 1
+	Query: "oligoryzomis" ; Times: 1
+	Query: "hildebrand" ; Times: 1
+	Query: "Lepus americanus distance(location,geopoint(45.24395342262327,-119.94873046875))<268756.1876661678" ; Times: 1
+	Query: "ovis" ; Times: 1
+	Query: "Priodontes maximus" ; Times: 1
+	Query: "215680 institutioncode:MSB" ; Times: 1
+	Query: ""didelphis virginiana" mappable:1" ; Times: 18
+	Query: "Aplodontia rufa stateprovince:"California"" ; Times: 2
+	Query: "dipodomys type:specimen county:"pima" year >= 1970 year <= 1970" ; Times: 1
+	Query: "dipodomys type:specimen county:"pima" class:mammalia year >= 1959 year <= 1959" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 3
+	Query: "Ursus americanus" ; Times: 4
+	Query: "msb 68738" ; Times: 1
+	Query: ""novemcinctus" mappable:1" ; Times: 1
+	Query: "texas tech university" ; Times: 1
+	Query: "Marmosa lepida" ; Times: 1
+	Query: "Jalisco" ; Times: 1
+	Query: "pet parasites" ; Times: 2
+	Query: "rana (skeleton)" ; Times: 1
+	Query: "apodemus" ; Times: 2
+	Query: "mule deer "odocoileus hemionus" mappable:1" ; Times: 1
+	Query: "stateprovince:"Sabah" country:"Malaysia" class:Mammalia year >= 1970 year <= 2014" ; Times: 1
+	Query: ""townsendii" stateprovince:"New Mexico" (plecotus or corynorhinus) year <= 2014" ; Times: 1
+	Query: "bison" ; Times: 1
+	Query: "mus musculus stateprovince:"Alaska" mappable:1 tissue:1" ; Times: 1
+	Query: "George L. Cook" ; Times: 1
+	Query: "alouatta" ; Times: 1
+	Query: "lion" ; Times: 1
+	Query: "stateprovince:"Carolina" class:mammalia year >= 1700 year <= 2015" ; Times: 2
+	Query: "mustelinae mappable:1" ; Times: 2
+	Query: "class:Mammalia (tijuana)" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 6
+	Query: "Clethrionomys rutilus" ; Times: 3
+	Query: "dipodomys type:specimen county:"hidalgo" year >= 1963 year <= 1963" ; Times: 1
+	Query: "dipodomys type:specimen county:"cochise" year >= 1961 year <= 1961" ; Times: 1
+	Query: "puma" ; Times: 1
+	Query: "mystacina" ; Times: 1
+	Query: "529982" ; Times: 1
+	Query: "catalognumber:83643 class:mammalia" ; Times: 2
+	Query: "Tamias quadrivittatus" ; Times: 1
+	Query: "mystacina (tissue)" ; Times: 4
+	Query: "Chironectes minimus" ; Times: 2
+	Query: "North American Porcupine mappable:1" ; Times: 1
+	Query: "zalophus californianus" ; Times: 1
+	Query: ""erethizon dorsatum"" ; Times: 1
+	Query: "Euderma maculatum" ; Times: 1
+	Query: "glaucomys type:specimen class:mammalia year >= 1932 year <= 1932" ; Times: 1
+	Query: "type:specimen county:"apache" class:mammalia (tamias eutamias) year >= 1953 year <= 1953" ; Times: 1
+	Query: "specificepithet:parva genus:Cryptotis year >= 1970" ; Times: 1
+	Query: "215038 institutioncode:MSB" ; Times: 3
+	Query: "parastrellus hesperus stateprovince:"nevada"" ; Times: 1
+	Query: "genus:melanomys tissue:1" ; Times: 8
+	Query: "Didelphis "Didelphis virginiana" mappable:1" ; Times: 3
+	Query: "215006 institutioncode:MSB" ; Times: 1
+	Query: ""Didelphis virginiana" mappable:1" ; Times: 18
+	Query: "mystacina tissue:1" ; Times: 1
+	Query: ""virginiana" mappable:1" ; Times: 1
+	Query: "mormoops megalophylla" ; Times: 2
+	Query: "genus:dasypus" ; Times: 4
+	Query: ""Didelphis" mappable:1" ; Times: 1
+	Query: ""Chaetodipus baileyi" (Weight)" ; Times: 1
+	Query: "bolivar" ; Times: 1
+	Query: ""Erethizon dorsatum" mappable:1" ; Times: 22
+	Query: "Sciurus variegatoides" ; Times: 1
+	Query: "didelphis" ; Times: 1
+	Query: "stateprovince:"Texas" genus:Neotoma tissue:1" ; Times: 1
+	Query: "bison bison" ; Times: 1
+	Query: "ceratotherium" ; Times: 1
+	Query: "pricei" ; Times: 1
+	Query: "specificepithet:caligata genus:Marmota" ; Times: 1
+	Query: "perognathus californicus" ; Times: 1
+	Query: "tamandua mexicana" ; Times: 21
+	Query: "Glaucomys volans" ; Times: 1
+	Query: "mammalia (jalisco)" ; Times: 2
+	Query: "country:"Malaysia" class:Mammalia year >= 1970 year <= 2014" ; Times: 1
+	Query: "dipodomys type:specimen county:"yuma" stateprovince:"arizona" year >= 1969 year <= 1969" ; Times: 1
+	Query: "54000 institutioncode:MSB" ; Times: 1
+	Query: "sheep type:specimen genus:Ovis" ; Times: 3
+	Query: "65659 institutioncode:MSB" ; Times: 2
+	Query: "scandentia mappable:1" ; Times: 1
+	Query: "Pecari tajacu" ; Times: 1
+	Query: "hermaphrodite" ; Times: 1
+	Query: "Xerospermophilus tereticaudus" ; Times: 1
+	Query: "Aethomys" ; Times: 1
+	Query: "spermophilus major" ; Times: 2
+	Query: "215075 institutioncode:MSB" ; Times: 2
+	Query: "sciurus griseus" ; Times: 1
+	Query: "215674 institutioncode:MSB" ; Times: 1
+	Query: ""university of arizona" class:mammalia" ; Times: 2
+	Query: "dipodomys spectabilis female 72 type:specimen class:mammalia" ; Times: 1
+	Query: "specificepithet:parva genus:Cryptotis year >= 1970 mappable:1" ; Times: 1
+	Query: "subflavus" ; Times: 2
+	Query: "Myodes rutilus" ; Times: 2
+	Query: "Mustela eversmanni (tissue) tissue:1" ; Times: 1
+	Query: "dasypus novemcinctus mappable:1" ; Times: 6
+	Query: ""no data"" ; Times: 1
+	Query: "dasypus" ; Times: 2
+	Query: "Caluromys derbianus" ; Times: 1
+	Query: "Erethizon (dorsatum) mappable:1" ; Times: 1
+	Query: "Spermophilus type:specimen county:"coconino" class:mammalia year >= 1951 year <= 1951" ; Times: 1
+	Query: "Didelphis pernigra" ; Times: 1
+	Query: "didelphis albiventris" ; Times: 2
+	Query: "dipodomys type:specimen stateprovince:"baja" year >= 1972 year <= 1972" ; Times: 1
+	Query: "Bassaricyon alleni" ; Times: 1
+	Query: "MSB 65752" ; Times: 1
+	Query: "msb 144572" ; Times: 1
+	Query: "Texas Spilogale putorius mappable:1" ; Times: 1
+	Query: "urocitellus" ; Times: 1
+	Query: "North American porcupine country:"united states" mappable:1" ; Times: 1
+	Query: "Bos grunniens mappable:1" ; Times: 2
+	Query: "Dasypus "Dasypus novemcinctus" mappable:1" ; Times: 2
+	Query: "aotus" ; Times: 1
+	Query: "Spilogale putorius interrupta mappable:1" ; Times: 1
+	Query: "ursus" ; Times: 1
+	Query: "Scalopus aquaticus stateprovince:"Texas"" ; Times: 1
+	Query: "oligoryzomys flavescens mappable:1" ; Times: 1
+	Query: "onion" ; Times: 1
+	Query: "catalognumber:83643 skeleton" ; Times: 4
+	Query: "Oligoryzomys longicaudatus" ; Times: 2
+	Query: "dipodomys type:specimen county:"pima" year >= 1958 year <= 1958" ; Times: 1
+	Query: "urocyon cinereoargenteus" ; Times: 1
+	Query: "dipodomys tank type:specimen county:"yuma"" ; Times: 1
+	Query: "lasiurus ega honduras" ; Times: 1
+	Query: "Octodon degus" ; Times: 1
+	Query: "rodentia county:"Millard" stateprovince:"Utah" year >= 1920 year <= 1980" ; Times: 4
+	Query: "oligoryzomys longicaudatus" ; Times: 2
+	Query: "Myotis septentrionalis" ; Times: 6
+	Query: "Chaetodipus fallax xerotrophicus" ; Times: 1
+	Query: "Dasypus (novemcinctus) mappable:1" ; Times: 1
+	Query: "Equus" ; Times: 1
+	Query: "giraffa camelopardalis mappable:1" ; Times: 1
+	Query: "mastomys natalensis" ; Times: 3
+	Query: "E. dorsatum mappable:1" ; Times: 1
+	Query: "Sentinel" ; Times: 1
+	Query: "Scalopus aquaticus tissue:1" ; Times: 1
+	Query: "pipistrellus subflavus" ; Times: 1
+	Query: "pika" ; Times: 2
+	Query: ""sorex monticolus" mappable:1" ; Times: 2
+	Query: "specificepithet:collaris genus:Ochotona year <= 1970" ; Times: 1
+	Query: ""Erethizon dorsatum"" ; Times: 1
+	Query: "abrothrix" ; Times: 1
+	Query: "lynx rufus catalognumber:145880 institutioncode:MSB" ; Times: 1
+	Query: "UA" ; Times: 1
+	Query: "sciurus variegatoides tissue:1" ; Times: 1
+	Query: "aquila" ; Times: 2
+	Query: "bairdi" ; Times: 1
+	Query: ""Lynx canadensis"" ; Times: 1
+	Query: "dipodomys type:specimen county:"pima" class:mammalia year >= 1956 year <= 1956" ; Times: 1
+	Query: "Chicago Field Museum" ; Times: 1
+	Query: ""ursus americanus" mappable:1" ; Times: 1
+	Query: "Sabah" ; Times: 1
+	Query: "Ctenomys boliviensis" ; Times: 3
+	Query: "269305" ; Times: 1
+	Query: "marten" ; Times: 1
+	Query: "Neusticomys" ; Times: 1
+	Query: "Potos flavus" ; Times: 2
+	Query: "type:specimen specificepithet:caligata genus:Marmota" ; Times: 1
+	Query: "scalopus aquaticus" ; Times: 2
+	Query: ""Eumops auripendulus"" ; Times: 1
+	Query: ""Dasypus" mappable:1" ; Times: 1
+	Query: "Thylamys elegans" ; Times: 2
+	Query: "didelphis marsupialis" ; Times: 2
+	Query: ""ursus arctos" mappable:1" ; Times: 1
+	Query: "dipodomys type:specimen county:"cochise" class:mammalia year >= 1960 year <= 1960" ; Times: 2
+	Query: "UNLV" ; Times: 1
+	Query: "Pilosa" ; Times: 1
+	Query: "catalognumber:264067" ; Times: 1
+	Query: "Didelphis (virginiana) mappable:1" ; Times: 2
+	Query: ""dasypus novemcinctus" mappable:1" ; Times: 20
+	Query: "distance(location,geopoint(53.54030739150022,-100.810546875))<100000" ; Times: 1
+	Query: "mammals stateprovince:"coahuila" country:"mexico"" ; Times: 1
+	Query: "mustela lutreola" ; Times: 6
+	Query: "chaetodipus county:"yavapai" year >= 1970 year <= 1970" ; Times: 1
+	Query: "sylvilagus robustus" ; Times: 1
+	Query: "test" ; Times: 1
+	Query: "36608 mammal" ; Times: 1
+	Query: ""dasypus novemcinctus"" ; Times: 4
+	Query: "dipodomys type:specimen county:"cochise" class:mammalia year >= 1961 year <= 1961" ; Times: 2
+	Query: "Scalopus aquaticus" ; Times: 2
+	Query: "castor canadensis (skin AND skeleton) tissue:1" ; Times: 1
+	Query: "enhydra lutris (fluid)" ; Times: 1
+	Query: "Spermophilus tereticaudus" ; Times: 1
+	Query: "dipodomys type:specimen year >= 1960 year <= 1960" ; Times: 1
+	Query: "philander opossum" ; Times: 1
+	Query: "Didelphis Virginiana mappable:1" ; Times: 1
+	Query: "gorilla" ; Times: 1
+	Query: "Tylomys" ; Times: 1
+	Query: "pipistrellus hesperus stateprovince:"nevada"" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 130 (out of 445 download events in this period)
+Total number of records downloaded: 99746 (out of 2849158 records downloaded for all resources in this period)
+Total number of unique records downloaded: 85737
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: Canada ; Times: 1
+	Country: Chile ; Times: 3
+	Country: Czech Republic ; Times: 1
+	Country: India ; Times: 1
+	Country: Israel ; Times: 2
+	Country: Mexico ; Times: 45
+	Country: United States ; Times: 49
+	Country: Unknown ; Times: 23
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-01-02 ; Times: 1
+	Date: 2015-01-03 ; Times: 20
+	Date: 2015-01-04 ; Times: 24
+	Date: 2015-01-05 ; Times: 4
+	Date: 2015-01-06 ; Times: 3
+	Date: 2015-01-07 ; Times: 1
+	Date: 2015-01-08 ; Times: 4
+	Date: 2015-01-09 ; Times: 10
+	Date: 2015-01-10 ; Times: 1
+	Date: 2015-01-12 ; Times: 1
+	Date: 2015-01-14 ; Times: 1
+	Date: 2015-01-16 ; Times: 2
+	Date: 2015-01-18 ; Times: 2
+	Date: 2015-01-19 ; Times: 11
+	Date: 2015-01-20 ; Times: 3
+	Date: 2015-01-21 ; Times: 2
+	Date: 2015-01-22 ; Times: 3
+	Date: 2015-01-24 ; Times: 4
+	Date: 2015-01-26 ; Times: 2
+	Date: 2015-01-27 ; Times: 7
+	Date: 2015-01-28 ; Times: 9
+	Date: 2015-01-29 ; Times: 2
+	Date: 2015-01-30 ; Times: 13
+
+List of queries that retrieved data from the resource: 
+	Query: "cyclopes didactylus" ; Times: 1
+	Query: "lepus callotis" ; Times: 1
+	Query: "Carnivora america" ; Times: 1
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "canis lupus" ; Times: 1
+	Query: "leopardus wiedii" ; Times: 1
+	Query: "lynx rufus" ; Times: 1
+	Query: "Spilogale putorius" ; Times: 1
+	Query: "Texas Spilogale putorius mappable:1" ; Times: 1
+	Query: "country:"Mexico" class:Mammalia year <= 2014" ; Times: 1
+	Query: "Scalopus aquaticus stateprovince:"Kansas"" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "type:specimen county:"White Pine" stateprovince:"Nevada" class:Mammalia year >= 1928 year <= 2014 mappable:1" ; Times: 1
+	Query: "lynx rufus country:"mexico"" ; Times: 1
+	Query: "Spilogale putorius interrupta mappable:1" ; Times: 1
+	Query: "Lepus callotis" ; Times: 1
+	Query: "Mazama americana" ; Times: 1
+	Query: "Scalopus aquaticus stateprovince:"Texas"" ; Times: 1
+	Query: ""Microtus pennsylvanicus" stateprovince:"Pennsylvania"" ; Times: 1
+	Query: "Nasua narica" ; Times: 1
+	Query: "stateprovince:"Kentucky" class:mammalia" ; Times: 1
+	Query: "didelphis albiventris" ; Times: 1
+	Query: "Ctenomys" ; Times: 1
+	Query: "Nasua nasua" ; Times: 1
+	Query: ""Microtus pennsylvanicus" stateprovince:"Maryland"" ; Times: 2
+	Query: "Oligoryzomys longicaudatus" ; Times: 1
+	Query: "metachirus nudicaudatus" ; Times: 1
+	Query: ""Microtus pennsylvanicus" stateprovince:"Newfoundland"" ; Times: 1
+	Query: "type:specimen class:mammalia hastypestatus:1" ; Times: 1
+	Query: "oligoryzomys longicaudatus" ; Times: 1
+	Query: "Procyon cancrivorus" ; Times: 1
+	Query: "Cebidae" ; Times: 1
+	Query: "class:Mammalia (tijuana)" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "Clethrionomys rutilus" ; Times: 1
+	Query: "stateprovince:"Minnesota" class:Mammalia" ; Times: 2
+	Query: "peromyscus (mexico)" ; Times: 1
+	Query: "canidae skull" ; Times: 1
+	Query: "felis wiedii" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "Chironectes minimus" ; Times: 1
+	Query: "Caluromys lanatus" ; Times: 1
+	Query: "Dasyproctidae" ; Times: 1
+	Query: "mephitidae country:"Mexico" year >= 1850 year <= 2014" ; Times: 1
+	Query: "Ammospermophilus nelsoni county:"Kern" year >= 1900 year <= 2015" ; Times: 1
+	Query: ""Microtus pennsylvanicus" stateprovince:"North Carolina"" ; Times: 1
+	Query: "agouti paca" ; Times: 1
+	Query: "didelphis virginiana" ; Times: 1
+	Query: "Myotis lucifugus nevada" ; Times: 1
+	Query: "mazama americana" ; Times: 1
+	Query: "Eira barbara" ; Times: 2
+	Query: "urocyon cinereoargenteus" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 2
+	Query: ""Microtus pennsylvanicus" stateprovince:"Virginia"" ; Times: 1
+	Query: "family:Emberizidae type:specimen mappable:1" ; Times: 1
+	Query: "mormoops megalophylla" ; Times: 1
+	Query: "distance(location,geopoint(36.12012758978149,-109.57763671875))<88224" ; Times: 1
+	Query: ""Microtus pennsylvanicus"" ; Times: 2
+	Query: ""ochotona princeps"" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "DGM" ; Times: 1
+	Query: "Coendou" ; Times: 1
+	Query: ""Microtus pennsylvanicus" stateprovince:"New Jersey"" ; Times: 1
+	Query: "felis concolor" ; Times: 1
+	Query: "Ctenomys boliviensis" ; Times: 2
+	Query: "stateprovince:"Texas" genus:Neotoma tissue:1" ; Times: 1
+	Query: "Tamandua mexicana" ; Times: 1
+	Query: "Bassariscus astutus" ; Times: 1
+	Query: "Potos flavus" ; Times: 1
+	Query: "county:"Rosebud" stateprovince:"Montana"" ; Times: 1
+	Query: "odocoileus virginianus" ; Times: 1
+	Query: "type:specimen specificepithet:caligata genus:Marmota" ; Times: 1
+	Query: "myotis myotis" ; Times: 1
+	Query: "Sylvilagus cunicularius" ; Times: 1
+	Query: "mammals stateprovince:"chihuahua" country:"mexico"" ; Times: 1
+	Query: "mustelidae country:"Mexico" year >= 1850 year <= 2014" ; Times: 1
+	Query: "Thylamys elegans" ; Times: 1
+	Query: "didelphis marsupialis" ; Times: 2
+	Query: "dermoptera" ; Times: 1
+	Query: "country:"Canada" specificepithet:canadensis genus:Lynx" ; Times: 1
+	Query: "mammals stateprovince:"durango" country:"mexico"" ; Times: 1
+	Query: "tridecemlineatus michigan" ; Times: 1
+	Query: "oligoryzomys longicaudatus mappable:1" ; Times: 1
+	Query: ""Microtus pennsylvanicus" stateprovince:"Maine"" ; Times: 1
+	Query: "Uta stansburiana" ; Times: 1
+	Query: "Pilosa" ; Times: 1
+	Query: "Pecari tajacu" ; Times: 1
+	Query: "Puma concolor" ; Times: 1
+	Query: "Akodon aerosus" ; Times: 2
+	Query: "Diprotodontia mappable:1" ; Times: 1
+	Query: "Mephitis macroura" ; Times: 1
+	Query: "mammals stateprovince:"coahuila" country:"mexico"" ; Times: 1
+	Query: "Felidae country:"Mexico" year >= 1850 year <= 2014" ; Times: 1
+	Query: "Taxidea taxus" ; Times: 2
+	Query: "Mustela frenata" ; Times: 1
+	Query: "Steatomys" ; Times: 1
+	Query: "Scalopus aquaticus" ; Times: 1
+	Query: "lepus californicus" ; Times: 1
+	Query: "castor canadensis (skin AND skeleton) tissue:1" ; Times: 1
+	Query: "Sylvilagus audubonii" ; Times: 1
+	Query: "Sylvilagus floridanus" ; Times: 1
+	Query: "Metachirus nudicaudatus" ; Times: 1
+	Query: "stateprovince:"Minnesota" class:Mammalia institutioncode:MSB" ; Times: 1
+	Query: "Myodes rutilus" ; Times: 1
+	Query: "mustela frenata" ; Times: 1
+	Query: "Dermoptera" ; Times: 1
+	Query: "Bradypus variegatus" ; Times: 1
+	Query: "Sciurus" ; Times: 1
+	Query: "philander opossum" ; Times: 1
+	Query: "Sylvilagus brasiliensis" ; Times: 2
+	Query: "distance(location,geopoint(40.60387435807246,-73.85421752929688))<9650.626978131286" ; Times: 1
+	Query: "canis latrans" ; Times: 1
+	Query: "mus musculus" ; Times: 1
+	Query: "Bufo bufo" ; Times: 1
+	Query: "Caluromys derbianus" ; Times: 1
+	Query: "Tayassu pecari" ; Times: 2
+	Query: ""Microtus pennsylvanicus" stateprovince:"Massachusetts"" ; Times: 1
+	Query: "Hydrochoerus hydrochaeris" ; Times: 1
+	Query: "alouatta pigra" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 3951
+Total number of records retrieved from searches: 95440
+Number of download events that retrieved data from the resource: 130
+Total number of records downloaded: 99746
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 4706
+Total number of records retrieved from searches: 110621
+Number of download events that retrieved data from the resource: 1002
+Total number of records downloaded: 1703420
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
