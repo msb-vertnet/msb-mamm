@@ -1,0 +1,405 @@
+Report for Institution Code MSB, Resource msb_mamm
+Usage stats for January 2016, generated on 2016/02/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 415
+Number of records retrieved in searches: 10187
+Number of different countries where searches have been originated: 18
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 15
+	Country: Canada ; Times: 2
+	Country: Australia ; Times: 21
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 58
+	Country: Unknown ; Times: 15
+	Country: India ; Times: 1
+	Country: France ; Times: 2
+	Country: United States ; Times: 258
+	Country: Sweden ; Times: 4
+	Country: Germany ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Colombia ; Times: 4
+	Country: United Arab Emirates ; Times: 1
+	Country: Switzerland ; Times: 2
+	Country: Argentina ; Times: 3
+	Country: Russia ; Times: 23
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-04 ; Times: 10
+	Date: 2016-01-23 ; Times: 6
+	Date: 2016-01-06 ; Times: 14
+	Date: 2016-01-21 ; Times: 20
+	Date: 2016-01-26 ; Times: 23
+	Date: 2016-01-27 ; Times: 33
+	Date: 2016-01-24 ; Times: 4
+	Date: 2016-01-25 ; Times: 23
+	Date: 2016-01-28 ; Times: 28
+	Date: 2016-01-29 ; Times: 7
+	Date: 2016-01-08 ; Times: 15
+	Date: 2016-01-09 ; Times: 11
+	Date: 2016-01-22 ; Times: 10
+	Date: 2016-01-05 ; Times: 27
+	Date: 2016-01-20 ; Times: 10
+	Date: 2016-01-19 ; Times: 15
+	Date: 2016-01-07 ; Times: 24
+	Date: 2016-01-13 ; Times: 5
+	Date: 2016-01-12 ; Times: 13
+	Date: 2016-01-11 ; Times: 19
+	Date: 2016-01-10 ; Times: 1
+	Date: 2016-01-17 ; Times: 2
+	Date: 2016-01-16 ; Times: 2
+	Date: 2016-01-15 ; Times: 7
+	Date: 2016-01-14 ; Times: 11
+	Date: 2016-01-31 ; Times: 20
+	Date: 2016-01-30 ; Times: 14
+	Date: 2016-01-02 ; Times: 5
+	Date: 2016-01-03 ; Times: 7
+	Date: 2016-01-18 ; Times: 26
+	Date: 2016-01-01 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "echimys" ; Times: 1
+	Query: "order:Rodentia stateprovince:&#34;Texas&#34; year &gt;= 1985 tissue:1" ; Times: 1
+	Query: "nycticeius humeralis" ; Times: 3
+	Query: "urine" ; Times: 2
+	Query: "Lasiurus cinereus year &gt;= 2010 year &lt;= 2016" ; Times: 1
+	Query: "Lasiurus borealis Nebraska" ; Times: 1
+	Query: "lasiurus ega" ; Times: 1
+	Query: "42565" ; Times: 1
+	Query: "Didelphis &#34;virginiana&#34; mappable:1" ; Times: 3
+	Query: "genus:Sorex county:&#34;Benton&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "ailurus" ; Times: 1
+	Query: "reithrodontomys sumichrasti" ; Times: 1
+	Query: "232223" ; Times: 1
+	Query: "Choeronycteris mexicana and Arizona" ; Times: 2
+	Query: "&#34;didelphis virginiana&#34; mappable:1" ; Times: 2
+	Query: "dasypus novemcinctus type:specimen preparations:skull" ; Times: 1
+	Query: "dasypus novemcinctus tissue:1" ; Times: 1
+	Query: "Lynx lynx" ; Times: 2
+	Query: "Felis concolor year &gt;= 1960 year &lt;= 2015" ; Times: 1
+	Query: "amnh 14153" ; Times: 1
+	Query: "176998" ; Times: 1
+	Query: "long eared owl" ; Times: 1
+	Query: "class:Mammalia distance(location,geopoint(46.16493157667521,-122.23526000976562))&lt;100000" ; Times: 1
+	Query: "dasypus novemcinctus type:specimen preparations:skin" ; Times: 1
+	Query: "Leptailurus serval" ; Times: 3
+	Query: "sus scrofa" ; Times: 4
+	Query: "Lasiurus borealis type:specimen mappable:1" ; Times: 4
+	Query: "Lasiurus cinereus Nebraska" ; Times: 1
+	Query: "sorex ornatus" ; Times: 1
+	Query: "Monodelphis sanctaerosae" ; Times: 2
+	Query: "Canis lupus type:specimen stateprovince:&#34;Michigan&#34;" ; Times: 1
+	Query: "specificepithet:virginiana genus:didelphis mappable:1" ; Times: 1
+	Query: "catalognumber:50598 institutioncode:MSB" ; Times: 1
+	Query: "Molossus" ; Times: 2
+	Query: "166 county:&#34;Jeff Davis&#34;" ; Times: 1
+	Query: "216878" ; Times: 1
+	Query: "Marmosa lepida" ; Times: 1
+	Query: "Lynx canadensis" ; Times: 1
+	Query: "Myotis austroriparius" ; Times: 1
+	Query: "monodelphis glirina" ; Times: 4
+	Query: "Dasyprocta" ; Times: 3
+	Query: "wisconsin tamiasciurus" ; Times: 1
+	Query: "Canis type:specimen stateprovince:&#34;Michigan&#34; (weight)" ; Times: 1
+	Query: "type:specimen specificepithet:maniculatus genus:Peromyscus institutioncode:MSB tissue:1" ; Times: 1
+	Query: "lontra canadensis" ; Times: 1
+	Query: "79-64" ; Times: 1
+	Query: "martes americana" ; Times: 5
+	Query: "Ctenomys" ; Times: 1
+	Query: "myotis septentrionalis" ; Times: 1
+	Query: "locality:Carmen stateprovince:&#34;Baja&#34;" ; Times: 1
+	Query: "lasiurus cinereus" ; Times: 1
+	Query: "genus:Equus" ; Times: 3
+	Query: "dinosaur" ; Times: 1
+	Query: "Didelphidae" ; Times: 1
+	Query: "Galea" ; Times: 1
+	Query: "ku 1703" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+	Query: "33490" ; Times: 1
+	Query: "type:specimen specificepithet:sumichrasti genus:reithrodontomys country:&#34;mexico&#34;" ; Times: 1
+	Query: "UIMNH" ; Times: 1
+	Query: "Tursiops truncatus" ; Times: 2
+	Query: "UIMNH 35517" ; Times: 1
+	Query: "Uncia uncia" ; Times: 1
+	Query: "Sciurus nayaritensis" ; Times: 1
+	Query: "lion" ; Times: 3
+	Query: "Dipodomys merriami county:&#34;San Diego&#34;" ; Times: 4
+	Query: "type:specimen specificepithet:maniculatus genus:Peromyscus institutioncode:MSB tissue:1 distance(location,geopoint(31.95216223802497,-109.072265625))&lt;133204" ; Times: 1
+	Query: "&#34;erethizon dorsatum&#34; mappable:1" ; Times: 1
+	Query: "Sylvilagus robustus" ; Times: 5
+	Query: "Cynomys" ; Times: 1
+	Query: "116021" ; Times: 1
+	Query: "&#34;Dasypus novemcinctus &#34; mappable:1" ; Times: 1
+	Query: "mummy" ; Times: 11
+	Query: "blood sample" ; Times: 1
+	Query: "Euderma stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:californicus genus:Chaetodipus county:&#34;San Diego County&#34;" ; Times: 1
+	Query: "Ochotona princeps" ; Times: 1
+	Query: "Axis axis" ; Times: 1
+	Query: "notiosorex crawfordi mexico" ; Times: 1
+	Query: "type:specimen class:insecta" ; Times: 1
+	Query: "Equus" ; Times: 3
+	Query: "blb" ; Times: 1
+	Query: "rattus norvegicus tissue:1" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 2
+	Query: "Lonchophylla thomasi" ; Times: 1
+	Query: "monster" ; Times: 11
+	Query: "285349 msb" ; Times: 1
+	Query: "suaveolens" ; Times: 1
+	Query: "Lontra" ; Times: 4
+	Query: "class:Mammalia county:&#34;Medina&#34; stateprovince:&#34;Texas&#34; tissue:1" ; Times: 1
+	Query: "240645" ; Times: 1
+	Query: "Zygodontomys brevicauda" ; Times: 2
+	Query: "specificepithet:californicus genus:Chaetodipus county:&#34;San Diego County&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "dipodomys heermanni (Kern County)" ; Times: 2
+	Query: "witch" ; Times: 8
+	Query: "CAENOLESTES" ; Times: 5
+	Query: "Eptesicus Nebraska" ; Times: 3
+	Query: "peromyscus attwateri" ; Times: 3
+	Query: "lasiurus borealis stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "mustela frenata in Massachusetts" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-113.187516))&lt;15000" ; Times: 1
+	Query: "Nycticeius humeralis" ; Times: 1
+	Query: "Cuba tissue:1" ; Times: 1
+	Query: "class:Mammalia county:&#34;Brewster&#34; stateprovince:&#34;Texas&#34; tissue:1" ; Times: 1
+	Query: "lasiurus stateprovince:&#34;utah&#34;" ; Times: 1
+	Query: "willardi year &gt;= 1990 year &lt;= 2016" ; Times: 1
+	Query: "sylvilagus cognatus" ; Times: 5
+	Query: "apache creek" ; Times: 1
+	Query: "tcwc" ; Times: 1
+	Query: "&#34;Dasypus novemcinctus&#34; mappable:1" ; Times: 1
+	Query: "307865" ; Times: 1
+	Query: "catalognumber:77896" ; Times: 1
+	Query: "long-eared owl" ; Times: 2
+	Query: "gazella" ; Times: 1
+	Query: "&#34;Didelphis virginiana&#34; mappable:1" ; Times: 3
+	Query: "Puma concolor Arizona" ; Times: 2
+	Query: "Hippotragus niger" ; Times: 8
+	Query: "specificepithet:baileyi genus:Chaetodipus stateprovince:&#34;California&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:sumichrasti genus:reithrodontomys country:&#34;mexico&#34; year &gt;= 1960 year &lt;= 2015" ; Times: 1
+	Query: "Lasionycteris Nebraska" ; Times: 1
+	Query: "cryptonanus" ; Times: 4
+	Query: "Blarina brevicauda stateprovince:&#34;Minnesota&#34;" ; Times: 1
+	Query: "116441" ; Times: 1
+	Query: "distance(location,geopoint(24.499036,-107.577516))&lt;15000" ; Times: 1
+	Query: "suaveolens type:specimen" ; Times: 1
+	Query: "devil" ; Times: 5
+	Query: "enhydra" ; Times: 2
+	Query: "spilogale putorius" ; Times: 1
+	Query: "genus:Sorex stateprovince:&#34;Oregon&#34;" ; Times: 3
+	Query: "microtus pinetorum" ; Times: 1
+	Query: "opossum" ; Times: 1
+	Query: "&#34;Erethizon dorsatum&#34; mappable:1" ; Times: 4
+	Query: "stateprovince:&#34;Kansas&#34; year &gt;= 2005 year &lt;= 2015 tissue:1" ; Times: 1
+	Query: "Lake Michigan" ; Times: 1
+	Query: "specificepithet:sabrinus genus:Glaucomys" ; Times: 1
+	Query: "catalognumber:216878" ; Times: 2
+	Query: "alouatta pigra" ; Times: 1
+	Query: "genus:Sorex county:&#34;Linn&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "enhydra lutris" ; Times: 1
+	Query: "specificepithet:subflavus stateprovince:&#34;Arkansas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "catalognumber:49929 institutioncode:MSB" ; Times: 1
+	Query: "125417" ; Times: 1
+	Query: "catalognumber:140142 institutioncode:MSB" ; Times: 3
+	Query: "21381" ; Times: 1
+	Query: "Sciurus griseus county:&#34;San Diego&#34;" ; Times: 1
+	Query: "urocitellus parryii" ; Times: 2
+	Query: "jefferson illinois" ; Times: 1
+	Query: "armadillo" ; Times: 1
+	Query: "Erethizon &#34;dorsatum&#34; mappable:1" ; Times: 1
+	Query: "Nycticeius Nebraska" ; Times: 2
+	Query: "Gorilla gorilla" ; Times: 1
+	Query: "108529" ; Times: 1
+	Query: "Onychomys arenicola" ; Times: 1
+	Query: "bald eagle" ; Times: 2
+	Query: "distance(location,geopoint(21.439036,-105.197516))&lt;15000" ; Times: 1
+	Query: "Michigan year &gt;= 1985 year &lt;= 2015 tissue:1" ; Times: 1
+	Query: "Lasiurus blossevillii year &gt;= 2010 year &lt;= 2016" ; Times: 2
+	Query: "dasymys" ; Times: 1
+	Query: "Caviidae" ; Times: 1
+	Query: "monodelphis peruviana" ; Times: 3
+	Query: "saussure" ; Times: 1
+	Query: "north american porcupine" ; Times: 1
+	Query: "alces alces" ; Times: 2
+	Query: "&#34;Mustela nigripes&#34; mappable:1" ; Times: 1
+	Query: "Oryzomys megacephalus" ; Times: 1
+	Query: "reithrodontomys sumichrasti type:specimen country:&#34;mexico&#34; year &gt;= 1960 year &lt;= 2015" ; Times: 4
+	Query: "genus:Sorex county:&#34;Lincoln&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "class:mammalia county:&#34;Sedgwick&#34; stateprovince:&#34;Kansas&#34; mappable:1" ; Times: 1
+	Query: "Marmota monax" ; Times: 1
+	Query: "monodelphis sanctaerosae" ; Times: 2
+	Query: "Nycticeius humeralis nebraska" ; Times: 1
+	Query: "specificepithet:hudsonius genus:zapus stateprovince:(minnesota OR new mexico)" ; Times: 1
+	Query: "type:specimen specificepithet:maniculatus genus:Peromyscus institutioncode:MSB tissue:1 distance(location,geopoint(31.95216223802497,-109.072265625))&lt;100000" ; Times: 1
+	Query: "Vertebrate" ; Times: 1
+	Query: "Condylura cristata mappable:1" ; Times: 2
+	Query: "Dipodomys merriami trinidadensis type:specimen mappable:1" ; Times: 1
+	Query: "planirostris" ; Times: 1
+	Query: "Peromyscus leucopus in Massachusetts" ; Times: 2
+	Query: "Vulpes chama" ; Times: 1
+	Query: "class:Mammalia county:&#34;Cameron&#34; stateprovince:&#34;Texas&#34; tissue:1" ; Times: 1
+	Query: "Acinonyx jubatus" ; Times: 1
+	Query: "&#34;dasypus novemcinctus&#34; mappable:1" ; Times: 1
+	Query: "Puma concolor" ; Times: 2
+	Query: "distance(location,geopoint(35.178298352001185,-111.9232177734375))&lt;24987.54671807781" ; Times: 1
+	Query: "MAMMALS COAHUILA" ; Times: 2
+	Query: "Choeronycteris mexicana" ; Times: 2
+	Query: "2135" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "country:&#34;Nicaragua&#34;" ; Times: 1
+	Query: "Dipodomys merriami trinidadensis" ; Times: 1
+	Query: "notiosorex socorro" ; Times: 1
+	Query: "nuts" ; Times: 1
+	Query: "nycticeius humeralis texas" ; Times: 1
+	Query: "Sciurus arizonensis" ; Times: 3
+	Query: "distance(location,geopoint(30.789036,-112.677516))&lt;15000" ; Times: 1
+	Query: "162073" ; Times: 1
+	Query: "mustela ermine from north america" ; Times: 1
+	Query: "specificepithet:ludovici genus:Sturnira stateprovince:&#34;Michoacan&#34;" ; Times: 1
+	Query: "Lasiurus Nebraska" ; Times: 1
+	Query: "lasiurus borealis" ; Times: 1
+	Query: "6977" ; Times: 1
+	Query: "mammals coahuila" ; Times: 39
+	Query: "Lasiurus cinereus type:specimen mappable:1" ; Times: 1
+	Query: "Idionycteris stateprovince:&#34;New Mexico&#34;" ; Times: 2
+	Query: "genus:Sorex county:&#34;Lane&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Myotis septentrionalis" ; Times: 1
+	Query: "58820" ; Times: 1
+	Query: "Dasypus" ; Times: 1
+	Query: "Honduras Mammals" ; Times: 1
+	Query: "cumv 397" ; Times: 1
+	Query: "dasypus novemcinctus" ; Times: 2
+	Query: "12113" ; Times: 1
+	Query: "catalognumber:78131" ; Times: 1
+	Query: "catalognumber:91733 institutioncode:MSB" ; Times: 1
+	Query: "type:specimen specificepithet:floridanus genus:podomys (skull OR skeleton) mappable:1 distance(location,geopoint(28.806173508854776,-82.59521484375))&lt;79246.67084907244" ; Times: 1
+	Query: "edwards stateprovince:&#34;baja california&#34; country:&#34;mexico&#34; year &gt;= 1916" ; Times: 1
+	Query: "odocoileus" ; Times: 1
+	Query: "specificepithet:baileyi genus:Chaetodipus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "county:&#34;Williamson&#34;" ; Times: 1
+	Query: "Lasiurus borealis type:specimen" ; Times: 1
+	Query: "perimyotis" ; Times: 1
+	Query: "specificepithet:fallax genus:Chaetodipus county:&#34;Riverside&#34;" ; Times: 1
+	Query: "232235" ; Times: 1
+	Query: "distance(location,geopoint(33.529,-105.694))&lt;2000" ; Times: 6
+	Query: "genus:Mustela specificepithet:nigripes mappable:1" ; Times: 1
+	Query: "canis latrans" ; Times: 1
+	Query: "dasypus" ; Times: 2
+	Query: "Brachylagus idahoensis" ; Times: 1
+	Query: "Eptesicus fuscus Nebraska" ; Times: 2
+	Query: "rattus hoffmanni tissue:1" ; Times: 1
+	Query: "specificepithet:californicus genus:Chaetodipus county:&#34;San Diego&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "catalognumber:100107 institutioncode:MSB" ; Times: 1
+	Query: "class:Mammalia county:&#34;Bexar&#34; stateprovince:&#34;Texas&#34; tissue:1" ; Times: 1
+	Query: "Juniperus" ; Times: 1
+	Query: "505 county:&#34;Jeff Davis&#34;" ; Times: 1
+	Query: "specificepithet:osgoodi" ; Times: 1
+	Query: "heteromys desmarestianus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 65 (out of 507 download events in this period)
+Total number of records downloaded: 102511
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 13
+	Country: United States ; Times: 39
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 9
+	Country: United Kingdom ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-27 ; Times: 2
+	Date: 2016-01-04 ; Times: 6
+	Date: 2016-01-05 ; Times: 6
+	Date: 2016-01-06 ; Times: 4
+	Date: 2016-01-21 ; Times: 2
+	Date: 2016-01-26 ; Times: 1
+	Date: 2016-01-01 ; Times: 2
+	Date: 2016-01-02 ; Times: 2
+	Date: 2016-01-25 ; Times: 1
+	Date: 2016-01-28 ; Times: 1
+	Date: 2016-01-29 ; Times: 3
+	Date: 2016-01-08 ; Times: 1
+	Date: 2016-01-09 ; Times: 1
+	Date: 2016-01-23 ; Times: 1
+	Date: 2016-01-20 ; Times: 1
+	Date: 2016-01-19 ; Times: 1
+	Date: 2016-01-07 ; Times: 2
+	Date: 2016-01-13 ; Times: 4
+	Date: 2016-01-12 ; Times: 4
+	Date: 2016-01-11 ; Times: 3
+	Date: 2016-01-10 ; Times: 3
+	Date: 2016-01-16 ; Times: 1
+	Date: 2016-01-15 ; Times: 2
+	Date: 2016-01-14 ; Times: 1
+	Date: 2016-01-31 ; Times: 3
+	Date: 2016-01-30 ; Times: 4
+	Date: 2016-01-03 ; Times: 2
+	Date: 2016-01-18 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "reithrodontomys sumichrasti" ; Times: 1
+	Query: "Lynx lynx" ; Times: 1
+	Query: "boylii" ; Times: 1
+	Query: "Sylvilagus robustus" ; Times: 1
+	Query: "specificepithet:baileyi genus:Chaetodipus stateprovince:&#34;California&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:griseus genus:Sciurus" ; Times: 1
+	Query: "Uncia uncia" ; Times: 1
+	Query: "Sciurus nayaritensis" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon" ; Times: 1
+	Query: "&#34;Mustela nigripes&#34; mappable:1" ; Times: 1
+	Query: "Acinonyx jubatus" ; Times: 1
+	Query: "genus:Sorex county:&#34;Benton&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "specificepithet:merriami genus:Dipodomys" ; Times: 1
+	Query: "Alberta" ; Times: 1
+	Query: "specificepithet:ordii genus:Dipodomys" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "Puma concolor" ; Times: 1
+	Query: "Idionycteris stateprovince:&#34;New Mexico&#34;" ; Times: 2
+	Query: "specificepithet:penicillatus genus:Chaetodipus" ; Times: 1
+	Query: "microtus pinetorum" ; Times: 1
+	Query: "family:Caviidae OR Abrocomidae OR Dinomyidae OR Dasyproctidae OR Cuniculidae OR Octodontidae OR Ctenomyidae OR Echimyidae OR Myocastoridae OR Capromyidae OR Heptaxodontidae OR Chinchillidae" ; Times: 1
+	Query: "Lynx canadensis" ; Times: 1
+	Query: "Crocuta" ; Times: 1
+	Query: "Tayassu pecari" ; Times: 1
+	Query: "Ochotona princeps" ; Times: 1
+	Query: "Neofelis nebulosa" ; Times: 1
+	Query: "peromyscus boylii" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "Prionailurus bengalensis" ; Times: 1
+	Query: "Lynx rufus" ; Times: 1
+	Query: "genus:Sorex county:&#34;Clatsop&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus" ; Times: 1
+	Query: "dasypus novemcinctus type:specimen preparations:skin" ; Times: 1
+	Query: "Leptailurus serval" ; Times: 1
+	Query: "Panthera pardus" ; Times: 1
+	Query: "microtus pennsylvanicus" ; Times: 1
+	Query: "specificepithet:mephitis genus:Mephitis" ; Times: 1
+	Query: "specificepithet:montanus genus:Microtus" ; Times: 1
+	Query: "Cynomys" ; Times: 1
+	Query: "Blarina brevicauda stateprovince:&#34;Minnesota&#34;" ; Times: 1
+	Query: "peromyscus attwateri" ; Times: 1
+	Query: "Canis type:specimen stateprovince:&#34;Michigan&#34; (weight)" ; Times: 1
+	Query: "specificepithet:frenata genus:Mustela" ; Times: 1
+	Query: "Gulo gulo &#34;wolverine&#34; mappable:1" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 9
+	Query: "specificepithet:americanus genus:Lepus" ; Times: 1
+	Query: "martes americana" ; Times: 1
+	Query: "genus:Sorex county:&#34;Lincoln&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "distance(location,geopoint(32.66250035467835,-119.99542236328125))&lt;87926.45562583183" ; Times: 1
+	Query: "Leopardus wiedii" ; Times: 1
+	Query: "dasypus novemcinctus tissue:1" ; Times: 1
+	Query: "specificepithet:californicus genus:Chaetodipus county:&#34;San Diego&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:bendirii genus:Sorex" ; Times: 1
+	Query: "genus:Sorex county:&#34;Linn&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Panthera leo" ; Times: 1
+	Query: "mappable:1 distance(location,geopoint(10.624617026439392,-85.67138671875))&lt;19662" ; Times: 1
+
+
+End of report.
