@@ -1,0 +1,198 @@
+Report for Institution Code MSB, Resource msb_mamm
+Usage stats for March 2016, generated on 2016/04/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 151
+Number of records retrieved in searches: 4780
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: Canada ; Times: 4
+	Country: Australia ; Times: 1
+	Country: Colombia ; Times: 3
+	Country: Mexico ; Times: 8
+	Country: Unknown ; Times: 10
+	Country: Panama ; Times: 1
+	Country: United States ; Times: 94
+	Country: Peru ; Times: 2
+	Country: Puerto Rico ; Times: 5
+	Country: Switzerland ; Times: 2
+	Country: Russia ; Times: 16
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-07 ; Times: 8
+	Date: 2016-03-02 ; Times: 12
+	Date: 2016-03-10 ; Times: 17
+	Date: 2016-03-01 ; Times: 17
+	Date: 2016-03-08 ; Times: 9
+	Date: 2016-03-09 ; Times: 7
+	Date: 2016-03-06 ; Times: 3
+	Date: 2016-03-14 ; Times: 10
+	Date: 2016-03-04 ; Times: 14
+	Date: 2016-03-05 ; Times: 14
+	Date: 2016-03-11 ; Times: 19
+	Date: 2016-03-03 ; Times: 10
+	Date: 2016-03-13 ; Times: 8
+	Date: 2016-03-12 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:ursus" ; Times: 1
+	Query: "Marmota broweri" ; Times: 2
+	Query: "nycticeius humeralis" ; Times: 1
+	Query: "(spermophilus variegatus)" ; Times: 1
+	Query: "11054" ; Times: 2
+	Query: "specificepithet:californicus genus:lepus order:lagomorpha class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "234977" ; Times: 1
+	Query: "95588" ; Times: 1
+	Query: "spermophilus mollis" ; Times: 1
+	Query: "genus:puma specificepithet:concolor" ; Times: 2
+	Query: "ursidae" ; Times: 1
+	Query: "giraffe" ; Times: 1
+	Query: "29992" ; Times: 2
+	Query: "genus:Tamias stateprovince:&#34;Baja California&#34;" ; Times: 1
+	Query: "Lynx rufus" ; Times: 1
+	Query: "genus:Carollia family:Phyllostomidae order:Chiroptera class:Mammalia country:&#34;Honduras&#34;" ; Times: 1
+	Query: "specificepithet:pilosus genus:Dasypus" ; Times: 2
+	Query: "family:Heteromyidae year &gt;= 1800 year &lt;= 2015 mappable:1 tissue:1" ; Times: 1
+	Query: "myotis septentrionalis" ; Times: 1
+	Query: "martes americana" ; Times: 1
+	Query: "Kellogg county:&#34;San Bernardino&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "Geomys" ; Times: 1
+	Query: "ochotona" ; Times: 3
+	Query: "hermit thrush tissue:1" ; Times: 2
+	Query: "Lasiurus borealis country:&#34;United States&#34;" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 2
+	Query: "Myotis keaysi tissue:1" ; Times: 1
+	Query: "carnivore" ; Times: 1
+	Query: "Diaemus" ; Times: 1
+	Query: "alouatta" ; Times: 1
+	Query: "vulpes velox" ; Times: 4
+	Query: "cryptonanus" ; Times: 1
+	Query: "specificepithet:macrotis genus:vulpes family:canidae order:carnivora class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "euryoryzomys macconnelli" ; Times: 1
+	Query: "McCarty" ; Times: 1
+	Query: "Canis lupus type:specimen (Alaska Wales Prince)" ; Times: 2
+	Query: "Lasiurus borealis" ; Times: 3
+	Query: "post stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "mummy" ; Times: 4
+	Query: "catalognumber:126505" ; Times: 1
+	Query: "monster" ; Times: 4
+	Query: "witch" ; Times: 3
+	Query: "hermit thrush" ; Times: 2
+	Query: "276604" ; Times: 1
+	Query: "class:Mammalia country:&#34;Honduras&#34;" ; Times: 1
+	Query: "type:specimen distance(location,geopoint(45.304772583725104,-62.7099609375))&lt;100000" ; Times: 1
+	Query: "mimon crenulatum" ; Times: 1
+	Query: "tamandua mexicana tissue:1" ; Times: 1
+	Query: "Gypsum county:&#34;Orange&#34;" ; Times: 1
+	Query: "vulpes velox tissue:1" ; Times: 1
+	Query: "specificepithet:hudsonius genus:zapus stateprovince:(minnesota OR new mexico)" ; Times: 1
+	Query: "devil" ; Times: 4
+	Query: "dna" ; Times: 1
+	Query: "parvus mappable:1 tissue:1" ; Times: 2
+	Query: "order:Chiroptera class:Mammalia country:&#34;Honduras&#34;" ; Times: 1
+	Query: "Geomys bursarius" ; Times: 2
+	Query: "chaetodipus fallax" ; Times: 1
+	Query: "Thomomys idahoensis" ; Times: 2
+	Query: "euryoryzomys" ; Times: 2
+	Query: "catharus guttatus tissue:1" ; Times: 1
+	Query: "116352" ; Times: 2
+	Query: "genus:lepus order:lagomorpha class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Diphylla" ; Times: 1
+	Query: "Dipodomys phillipsii" ; Times: 1
+	Query: "ochotona princeps" ; Times: 2
+	Query: "prairie dog" ; Times: 1
+	Query: "volcan baru" ; Times: 1
+	Query: "235105" ; Times: 1
+	Query: "235104" ; Times: 1
+	Query: "Alces alces" ; Times: 1
+	Query: "genus:Holochilus country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "spermophilus mohavensis" ; Times: 1
+	Query: "neotoma lepida colorado" ; Times: 1
+	Query: "marmosops" ; Times: 1
+	Query: "lama glama" ; Times: 2
+	Query: "genus:Mustela specificepithet:nigripes mappable:1" ; Times: 1
+	Query: "neotoma lepida utah" ; Times: 3
+	Query: "specificepithet:borealis genus:Lasiurus stateprovince:&#34;North Dakota&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "parvus AND (parvus) mappable:1 tissue:1" ; Times: 1
+	Query: "cryptotis parva" ; Times: 1
+	Query: "specificepithet:pardus genus:panthera family:felidae order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "hermit thrush month &gt;= 5 month &lt;= 8 tissue:1" ; Times: 1
+	Query: "bacula" ; Times: 1
+	Query: "locality:Firmat country:&#34;Argentina&#34;" ; Times: 1
+	Query: "class:mammalia country:&#34;Honduras&#34;" ; Times: 1
+	Query: "2229" ; Times: 1
+	Query: "country:&#34;Nicaragua&#34;" ; Times: 1
+	Query: "Canada Goose" ; Times: 1
+	Query: "endangered" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 2
+	Query: "family:Phyllostomidae order:Chiroptera class:Mammalia country:&#34;Honduras&#34;" ; Times: 1
+	Query: "spermophilus washingtoni" ; Times: 1
+	Query: "mimon bennettii" ; Times: 1
+	Query: "family:Muridae mappable:1 tissue:1" ; Times: 1
+	Query: "ursus americanus" ; Times: 1
+	Query: "peromyscus maniculatus anacapae" ; Times: 1
+	Query: "distance(location,geopoint(25.942239101010102,-100.16279339790344))&lt;100000" ; Times: 1
+	Query: "distance(location,geopoint(33.529,-105.694))&lt;2000" ; Times: 6
+	Query: "Myotis oxyotus tissue:1" ; Times: 1
+	Query: "diphylla" ; Times: 2
+	Query: "order:lagomorpha class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Eptesicus fuscus Texas" ; Times: 1
+	Query: "type:specimen recordedby:mccarty" ; Times: 1
+	Query: "catalognumber:193823" ; Times: 1
+	Query: "spermophilus saturatus" ; Times: 1
+	Query: "family:canidae order:carnivora class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "family:Heteromyidae mappable:1 tissue:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 67 (out of 230 download events in this period)
+Total number of records downloaded: 966245
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 10
+	Country: Panama ; Times: 1
+	Country: United States ; Times: 49
+	Country: Chile ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-04 ; Times: 1
+	Date: 2016-03-11 ; Times: 6
+	Date: 2016-03-03 ; Times: 4
+	Date: 2016-03-08 ; Times: 4
+	Date: 2016-03-09 ; Times: 14
+	Date: 2016-03-06 ; Times: 1
+	Date: 2016-03-07 ; Times: 4
+	Date: 2016-03-14 ; Times: 8
+	Date: 2016-03-05 ; Times: 2
+	Date: 2016-03-02 ; Times: 1
+	Date: 2016-03-10 ; Times: 11
+	Date: 2016-03-13 ; Times: 8
+	Date: 2016-03-12 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Holochilus country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "specificepithet:borealis genus:Lasiurus stateprovince:&#34;Oklahoma&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "type:specimen tissue:1" ; Times: 2
+	Query: "family:Heteromyidae year &gt;= 1800 year &lt;= 2015 mappable:1 tissue:1" ; Times: 1
+	Query: "Sigmodontinae" ; Times: 1
+	Query: "Callospermophilus lateralis" ; Times: 1
+	Query: "genus:Holochilus country:&#34;Argentina&#34;" ; Times: 1
+	Query: "country:&#34;Colombia&#34;" ; Times: 1
+	Query: "ochotona" ; Times: 2
+	Query: "volcan baru" ; Times: 1
+	Query: "tissue" ; Times: 39
+	Query: "Alces alces" ; Times: 1
+	Query: "Lynx rufus" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 13
+	Query: "country:&#34;Colombia&#34; mappable:1" ; Times: 1
+
+
+End of report.
