@@ -1,0 +1,637 @@
+Report for Institution Code MSB, Resource msb_mamm
+Usage stats for May 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 933
+Number of records retrieved in searches: 28069
+Number of different countries where searches have been originated: 26
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 8
+	Country: Canada ; Times: 13
+	Country: Italy ; Times: 77
+	Country: Unknown ; Times: 14
+	Country: France ; Times: 8
+	Country: Peru ; Times: 4
+	Country: Argentina ; Times: 7
+	Country: Israel ; Times: 1
+	Country: Australia ; Times: 2
+	Country: Guatemala ; Times: 1
+	Country: China ; Times: 16
+	Country: Chile ; Times: 1
+	Country: Puerto Rico ; Times: 1
+	Country: Germany ; Times: 6
+	Country: Spain ; Times: 1
+	Country: Finland ; Times: 1
+	Country: United States ; Times: 670
+	Country: New Zealand ; Times: 2
+	Country: Russia ; Times: 5
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 77
+	Country: India ; Times: 3
+	Country: United Kingdom ; Times: 3
+	Country: Austria ; Times: 1
+	Country: Colombia ; Times: 7
+	Country: Kenya ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-28 ; Times: 30
+	Date: 2018-05-29 ; Times: 60
+	Date: 2018-05-20 ; Times: 8
+	Date: 2018-05-21 ; Times: 27
+	Date: 2018-05-22 ; Times: 14
+	Date: 2018-05-23 ; Times: 40
+	Date: 2018-05-24 ; Times: 23
+	Date: 2018-05-25 ; Times: 26
+	Date: 2018-05-26 ; Times: 15
+	Date: 2018-05-27 ; Times: 15
+	Date: 2018-05-06 ; Times: 20
+	Date: 2018-05-07 ; Times: 28
+	Date: 2018-05-04 ; Times: 45
+	Date: 2018-05-05 ; Times: 10
+	Date: 2018-05-02 ; Times: 39
+	Date: 2018-05-03 ; Times: 52
+	Date: 2018-05-01 ; Times: 56
+	Date: 2018-05-08 ; Times: 43
+	Date: 2018-05-09 ; Times: 17
+	Date: 2018-05-31 ; Times: 36
+	Date: 2018-05-30 ; Times: 31
+	Date: 2018-05-15 ; Times: 42
+	Date: 2018-05-14 ; Times: 21
+	Date: 2018-05-17 ; Times: 41
+	Date: 2018-05-16 ; Times: 46
+	Date: 2018-05-11 ; Times: 41
+	Date: 2018-05-10 ; Times: 30
+	Date: 2018-05-13 ; Times: 21
+	Date: 2018-05-12 ; Times: 10
+	Date: 2018-05-19 ; Times: 22
+	Date: 2018-05-18 ; Times: 24
+
+List of queries that retrieved data from the resource: 
+	Query: "149388" ; Times: 1
+	Query: "delomys" ; Times: 2
+	Query: "specificepithet:leucopus genus:peromyscus county:&#34;brazos&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Thomasomys cinnameus " ; Times: 1
+	Query: "Microtus pennsylvanicus year &gt;= 2000 hastissue:1" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;Washington&#34; mappable:1 hastissue:1" ; Times: 1
+	Query: "Macropus rufus " ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1950 year &lt;= 1959 institutioncode:MSB" ; Times: 1
+	Query: "specificepithet:longimembris genus:Perognathus hastissue:1" ; Times: 1
+	Query: "Pteronotus gymnonotus" ; Times: 1
+	Query: "specificepithet:soricina genus:glossophaga hastypestatus:1" ; Times: 1
+	Query: "puma concolor" ; Times: 2
+	Query: "specificepithet:fuscipes genus:Neotoma county:&#34;Orange&#34;" ; Times: 1
+	Query: "distance(location,geopoint(43.3984812210001,-95.150234134))&lt;22083" ; Times: 2
+	Query: "Sylvilagus aquaticus" ; Times: 1
+	Query: "Leptonycteris nivalis" ; Times: 4
+	Query: "Panthera onca" ; Times: 2
+	Query: "Mustela year:2010" ; Times: 53
+	Query: "sylvilagus nuttalli" ; Times: 1
+	Query: "specificepithet:auritus genus:Hemiechinus mappable:1 year&gt;=2000" ; Times: 1
+	Query: "specificepithet:Maniculatus genus:Peromyscus county:&#34;San Bernardino&#34; stateprovince:&#34;California&#34; country:&#34;United States&#34; continent:North America mappable:1 hastissue:1" ; Times: 1
+	Query: "37184" ; Times: 1
+	Query: "brevicaudus" ; Times: 2
+	Query: "distance(location,geopoint(41.4408871659562,-95.9614754317952))&lt;18889" ; Times: 2
+	Query: "family:Ctenomyidae institutioncode:MSB" ; Times: 1
+	Query: "specificepithet:Maniculatus genus:Peromyscus locality:Humboldt Range county:&#34;Pine&#34; stateprovince:&#34;Nevada&#34; country:&#34;United States&#34; continent:North America mappable:1 hastissue:1" ; Times: 1
+	Query: "specificepithet:concolor genus:puma basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;coconino&#34; stateprovince:&#34;Arizona&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen mappable:1 hastissue:1" ; Times: 1
+	Query: "genus:Peromyscus stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34; continent:North America mappable:1 hastissue:1" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;Vermont&#34; mappable:1 hastissue:1" ; Times: 1
+	Query: "Erinaceus russia" ; Times: 1
+	Query: "gazella subgutturosa" ; Times: 3
+	Query: "Mustela nigripes" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1990 year &lt;= 1999 institutioncode:MSB" ; Times: 1
+	Query: "specificepithet:lagopus genus:alopex year &gt;= 1950 year &lt;= 1959" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1980 year &lt;= 1989" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;yuma&#34; stateprovince:&#34;colorado&#34; (blood) mappable:1 hastissue:1" ; Times: 1
+	Query: "specificepithet:merriami parvus genus:dipodomys" ; Times: 1
+	Query: "specificepithet:osgoodi " ; Times: 2
+	Query: "msb 37184" ; Times: 1
+	Query: "distance(location,geopoint(43.055277491,-91.1196036430418))&lt;22343" ; Times: 2
+	Query: "Microtus miurus year &gt;= 2000 hastissue:1" ; Times: 1
+	Query: "witch" ; Times: 8
+	Query: "specificepithet:maniculatus genus:Peromyscus country:&#34;mexico&#34; mappable:1 hastissue:1" ; Times: 1
+	Query: "country:&#34;Peru&#34; hasmass:1 haslength:1" ; Times: 1
+	Query: "koopman" ; Times: 1
+	Query: "40447" ; Times: 2
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;Arizona&#34; country:&#34;United States&#34; mappable:1 hastissue:1" ; Times: 1
+	Query: "specificepithet:moschatus genus:Ovibos mappable:1" ; Times: 6
+	Query: "genus:puma" ; Times: 1
+	Query: "Mimon crenulatum" ; Times: 1
+	Query: "tcwc" ; Times: 2
+	Query: "AMNH A-414" ; Times: 2
+	Query: "(Oreamnos)" ; Times: 1
+	Query: "marmosops impavidus" ; Times: 3
+	Query: "catalognumber:9336" ; Times: 1
+	Query: "specificepithet:auritus genus:Hemiechinus mappable:1" ; Times: 6
+	Query: "Trachops cirrhosus" ; Times: 1
+	Query: "Mustela nigripes year&gt;=1990 year&lt;=2015 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 32
+	Query: "107218" ; Times: 1
+	Query: "Procyon lotor" ; Times: 3
+	Query: "mucus" ; Times: 1
+	Query: "Lasiurus cinereus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "chinchilla" ; Times: 1
+	Query: "distance(location,geopoint(41.5636378550001,-93.2740433419999))&lt;5425" ; Times: 2
+	Query: "genus:microtus continent:asia hastissue:1" ; Times: 1
+	Query: "Bassariscus" ; Times: 2
+	Query: "Vampyrum spectrum" ; Times: 2
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1940 year &lt;= 1949 institutioncode:MSB" ; Times: 1
+	Query: "armadillo" ; Times: 2
+	Query: "country:Ecuador scientificname:Proechimys decumanus " ; Times: 1
+	Query: "order:Chiroptera AND (voucher) hastypestatus:1" ; Times: 1
+	Query: "alces" ; Times: 1
+	Query: "specificepithet:striatus genus:Tamias mappable:1 year&gt;=2000" ; Times: 1
+	Query: "specificepithet:procyonoides genus:Nyctereutes mappable:1" ; Times: 6
+	Query: "country:Ecuador scientificname:Cryptotis montivaga " ; Times: 1
+	Query: "macropus rufus" ; Times: 1
+	Query: "cook l h guadalupe" ; Times: 1
+	Query: "Ammotragus lervia mappable:1" ; Times: 1
+	Query: "peyton s" ; Times: 2
+	Query: "specificepithet:dorsatum genus:Erethizon" ; Times: 1
+	Query: "distance(location,geopoint(46.8583067090001,-96.349728037))&lt;28673" ; Times: 2
+	Query: "Brachylagus vntype:specimen hastissue:1" ; Times: 1
+	Query: "specificepithet:orientalis genus:Ovis mappable:1" ; Times: 6
+	Query: "specificepithet:crinitus genus:Peromyscus hastissue:1" ; Times: 5
+	Query: "vntype:specimen specificepithet:frenata genus:Mustela stateprovince:&#34;British Columbia&#34; lengthtype:total length hassex:1 haslength:1" ; Times: 1
+	Query: "vampyrum" ; Times: 1
+	Query: "Microtus canicaudus hastissue:1" ; Times: 2
+	Query: "56785" ; Times: 1
+	Query: "62245" ; Times: 1
+	Query: "distance(location,geopoint(45.259052436225,-93.979293029214))&lt;21143" ; Times: 2
+	Query: "MSB 57224" ; Times: 1
+	Query: "Thyroptera tricolor" ; Times: 1
+	Query: "Puma concolor" ; Times: 3
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;alpine&#34; stateprovince:&#34;California&#34; mappable:1" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1900 year &lt;= 1909" ; Times: 1
+	Query: "Microtus montanus year &gt;= 2000 hastissue:1" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;Idaho&#34; stateprovince:&#34;Idaho&#34; country:&#34;United States&#34; mappable:1 hastissue:1" ; Times: 1
+	Query: "specificepithet:auropunctatus genus:Herpestes mappable:1" ; Times: 6
+	Query: "109699" ; Times: 1
+	Query: "Cryptotis thomasi" ; Times: 1
+	Query: "liomys irroratus" ; Times: 3
+	Query: "genus:Mustela specificepithet:nigripes mappable:1" ; Times: 1
+	Query: "39454" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;Chaves&#34; stateprovince:&#34;New Mexico&#34; country:&#34;United States&#34; continent:North America mappable:1 hastissue:1" ; Times: 1
+	Query: "country:Ecuador scientificname:Thomasomys aureus " ; Times: 5
+	Query: "potos flavus" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;Bernalillo&#34; stateprovince:&#34;New Mexico&#34; country:&#34;United States&#34; mappable:1 hastissue:1" ; Times: 1
+	Query: "american crow" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;Archuleta&#34; stateprovince:&#34;Colorado&#34; country:&#34;United States&#34; continent:North America mappable:1 hastissue:1" ; Times: 1
+	Query: "specificepithet:virginianus genus:Odocoileus mappable:1 year&gt;=2000" ; Times: 1
+	Query: "genus:(mustela) stateprovince:(virginia) AND NOT stateprovince:(west virginia)" ; Times: 2
+	Query: "specificepithet:eremicus genus:Peromyscus county:&#34;Sierra&#34; stateprovince:&#34;New Mexico&#34; mappable:1 hastissue:1" ; Times: 1
+	Query: "Guinea Rhinolophus landeri" ; Times: 1
+	Query: "Microtus longicaudus year &gt;= 2000 hastissue:1" ; Times: 1
+	Query: "155132" ; Times: 1
+	Query: "155131" ; Times: 1
+	Query: "catalognumber:121173" ; Times: 1
+	Query: "specificepithet:musculus genus:Mus stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "621916 mappable:1" ; Times: 1
+	Query: "specificepithet:peregusna genus:Vormela" ; Times: 1
+	Query: "Euphractus sexcinctus" ; Times: 4
+	Query: "luteolus" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;Yuma&#34; mappable:1 hastissue:1" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;yuma&#34; stateprovince:&#34;colorado&#34; mappable:1 hastissue:1" ; Times: 1
+	Query: "vntype:specimen genus:Canis hastissue:1" ; Times: 2
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;Otero&#34; stateprovince:&#34;New Mexico&#34; mappable:1 hastissue:1" ; Times: 1
+	Query: "specificepithet:pennsylvanicus genus:microtus stateprovince:&#34;british columbia&#34; institutioncode:MSB" ; Times: 1
+	Query: "specificepithet:maniculatus genus:peromyscus county:&#34;san bernardino&#34; mappable:1 hastissue:1" ; Times: 1
+	Query: "specificepithet:setchuanus genus:Eozapus" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;Oregon&#34; mappable:1 hastissue:1" ; Times: 3
+	Query: "Leptonycteris curasoae" ; Times: 1
+	Query: "275720" ; Times: 1
+	Query: "specificepithet:lagopus genus:Alopex year &gt;= 1990 year &lt;= 1999" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1970 year &lt;= 1979 institutioncode:MSB" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 2000 year &lt;= 2009 institutioncode:MSB" ; Times: 1
+	Query: "catalognumber:223155" ; Times: 1
+	Query: "specificepithet:boreas stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "spider" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus locality:Farmington county:&#34;San Juan&#34; stateprovince:&#34;New Mexico&#34; mappable:1 hastissue:1" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 2000 year &lt;= 2009" ; Times: 1
+	Query: "vntype:specimen (Microtus ) hastissue:1" ; Times: 1
+	Query: "Sylvilagus nuttallii" ; Times: 2
+	Query: "specificepithet:Maniculatus genus:Peromyscus county:&#34;Sierra&#34; stateprovince:&#34;New Mexico&#34; mappable:1 hastissue:1" ; Times: 1
+	Query: "Tamiasciurus douglasii" ; Times: 1
+	Query: "specificepithet:maniculatus genus:peromyscus county:&#34;clallam&#34; mappable:1 hastissue:1" ; Times: 1
+	Query: "county:&#34;Pierce County&#34; stateprovince:&#34;Washington&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Chelemys megalonyx" ; Times: 2
+	Query: "genus:dipodomys catalognumber:47562" ; Times: 2
+	Query: "specificepithet:maniculatus genus:Peromyscus locality:pikes peak stateprovince:&#34;colorado&#34;" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "specificepithet:fuscipes genus:Neotoma county:&#34;San Bernardino&#34;" ; Times: 1
+	Query: "monster" ; Times: 3
+	Query: "locality:san pedro marti" ; Times: 1
+	Query: "MSB 70575" ; Times: 1
+	Query: "catalognumber:1852" ; Times: 1
+	Query: "country:Ecuador scientificname:Thomasomys caudivarius " ; Times: 3
+	Query: "tabasco" ; Times: 3
+	Query: "specificepithet:capensis genus:Lepus mappable:1 year&gt;=2000" ; Times: 1
+	Query: "Microtus oregoni year &gt;= 2000 hastissue:1" ; Times: 1
+	Query: "Phoca hispida" ; Times: 1
+	Query: "Microtus mexicanus hastissue:1" ; Times: 4
+	Query: "specificepithet:lagopus genus:Alopex year &gt;= 1990 year &lt;= 1999 institutioncode:MSB" ; Times: 1
+	Query: "Macroscelididae" ; Times: 1
+	Query: "specificepithet:maniculatus genus:peromyscus county:&#34;Bernalillo&#34; stateprovince:&#34;New Mexico&#34; mappable:1 hastissue:1" ; Times: 1
+	Query: "AL 3054" ; Times: 1
+	Query: "specificepithet:frenata genus:mustela haslength:1" ; Times: 2
+	Query: "Eira barbara" ; Times: 1
+	Query: "gazella" ; Times: 1
+	Query: "Myotis evotis" ; Times: 1
+	Query: "specificepithet:rufogriseus genus:Macropus mappable:1" ; Times: 2
+	Query: "locality:salamanca" ; Times: 1
+	Query: "guar" ; Times: 1
+	Query: "distance(location,geopoint(45.5426280460001,-94.638845168))&lt;45992" ; Times: 2
+	Query: "Microtus canicaudus year &gt;= 2000 hastissue:1" ; Times: 1
+	Query: "country:Ecuador scientificname:Carollia castanea " ; Times: 1
+	Query: "specificepithet:canadensis genus:Castor mappable:1 year&gt;=2000" ; Times: 1
+	Query: "bullfrog" ; Times: 3
+	Query: "specificepithet:leucopus genus:Peromyscus stateprovince:&#34;kansas&#34; mappable:1 hastissue:1" ; Times: 1
+	Query: "specificepithet:aegyptiacus genus:Rousettus mappable:1" ; Times: 6
+	Query: "Microtus mexicanus year &gt;= 2000 hastissue:1" ; Times: 1
+	Query: "specificepithet:coypus genus:Myocastor mappable:1" ; Times: 1
+	Query: "Saccopteryx leptura" ; Times: 1
+	Query: "genus:lasiurus institutioncode:MSB" ; Times: 1
+	Query: "greenbaum" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;Taos&#34; stateprovince:&#34;New Mexico&#34; mappable:1 hastissue:1" ; Times: 1
+	Query: "specificepithet:pennsylvanicus genus:microtus county:&#34;nassau&#34; stateprovince:&#34;new york&#34; institutioncode:MSB" ; Times: 1
+	Query: "odocoileus virginianus" ; Times: 1
+	Query: "specificepithet:fuscipes genus:Neotoma county:&#34;Los Angeles&#34;" ; Times: 1
+	Query: "specificepithet:Maniculatus genus:Peromyscus county:&#34;Routt&#34; stateprovince:&#34;Colorado&#34; mappable:1 hastissue:1" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1900 year &lt;= 1909 institutioncode:MSB" ; Times: 1
+	Query: "north american porcupine" ; Times: 2
+	Query: "mountain lake biological station" ; Times: 1
+	Query: "dipodomys gravipes" ; Times: 2
+	Query: "distance(location,geopoint(37.161975188785,-93.6952926072649))&lt;11285" ; Times: 2
+	Query: "prince edward island specificepithet:pennsylvanicus genus:microtus" ; Times: 1
+	Query: "perimyotis subflavus" ; Times: 2
+	Query: "Ondatra vntype:specimen year &gt;= 1980 year &lt;= 2017 institutioncode:MSB" ; Times: 2
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1970 year &lt;= 1979" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;Union&#34; stateprovince:&#34;New Mexico&#34; country:&#34;United States&#34; mappable:1" ; Times: 1
+	Query: "country:Ecuador scientificname:Dinomys branickii " ; Times: 1
+	Query: "Microtus abbreviatus year &gt;= 2000 hastissue:1" ; Times: 1
+	Query: "Brachylagus" ; Times: 1
+	Query: "genus:Neotragus hastissue:1" ; Times: 4
+	Query: "Choeronycteris mexicana" ; Times: 1
+	Query: "distance(location,geopoint(37.248560757269,-93.6952372778328))&lt;11263" ; Times: 3
+	Query: "microsciurus" ; Times: 2
+	Query: "Brazil hastypestatus:1 hastissue:1" ; Times: 2
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/MSB:Mamm:56979?seid=1643089&#34; OR &#34;urn:catalog:CM:Herps:116520&#34;" ; Times: 36
+	Query: "catalognumber:95077" ; Times: 1
+	Query: "genus:dipodomys catalognumber:6075" ; Times: 1
+	Query: "specificepithet:irroratus" ; Times: 1
+	Query: "specificepithet:torridus genus:Onychomys hastissue:1" ; Times: 1
+	Query: "distance(location,geopoint(33.529,-105.694))&lt;2000" ; Times: 1
+	Query: "Humans" ; Times: 1
+	Query: "specificepithet:Maniculatus genus:Peromyscus county:&#34;Archuleta&#34; stateprovince:&#34;Colorado&#34; mappable:1 hastissue:1" ; Times: 1
+	Query: "distance(location,geopoint(41.877340882143,-90.2280541665))&lt;24154" ; Times: 2
+	Query: "specificepithet:gossypinus genus:peromyscus year&gt;=1950 year&lt;=2018" ; Times: 5
+	Query: "locality:yellowstone" ; Times: 2
+	Query: "short tail snake" ; Times: 1
+	Query: "Lutra lutra" ; Times: 2
+	Query: "MSB 280695" ; Times: 2
+	Query: "Tonatia saurophila" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1950 year &lt;= 1959" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;Washington&#34; country:&#34;United States&#34; continent:North America mappable:1 hastissue:1" ; Times: 1
+	Query: "distance(location,geopoint(43.3984914053276,-95.1502012035874))&lt;35967" ; Times: 1
+	Query: "specificepithet:lupus genus:Canis (dog OR domestic)" ; Times: 1
+	Query: "11051" ; Times: 1
+	Query: "blood specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;california&#34; mappable:1 hastissue:1" ; Times: 1
+	Query: "catalognumber:6490 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:lagopus genus:Alopex year &gt;= 2000 year &lt;= 2009" ; Times: 1
+	Query: "specificepithet:zibethicus genus:Ondatra mappable:1 year&gt;=2000" ; Times: 1
+	Query: "specificepithet:sibiricus genus:Tamias mappable:1" ; Times: 6
+	Query: "distance(location,geopoint(46.9340888008072,-95.7192915126383))&lt;56921" ; Times: 1
+	Query: "callitrichidae" ; Times: 1
+	Query: "stateprovince:&#34;tabasco&#34; country:&#34;Mexico&#34; continent:america" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;Santa Fe&#34; stateprovince:&#34;New Mexico&#34; country:&#34;United States&#34; continent:North America mappable:1 hastissue:1" ; Times: 1
+	Query: "distance(location,geopoint(38.005845063,-89.9754001465))&lt;46441" ; Times: 2
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;virginia&#34; country:&#34;United States&#34; mappable:1 hastissue:1" ; Times: 1
+	Query: "specificepithet:reevesi genus:Muntiacus mappable:1" ; Times: 6
+	Query: "specificepithet:norvegicus genus:Rattus mappable:1 year&gt;=2000" ; Times: 1
+	Query: "country:Ecuador scientificname:Thomasomys hudsoni " ; Times: 2
+	Query: "country:Ecuador scientificname:Marmosa simonsi " ; Times: 1
+	Query: "Ctenomys" ; Times: 1
+	Query: "dipodomys phillipsii" ; Times: 1
+	Query: "125990" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;Tulare&#34; stateprovince:&#34;California&#34; mappable:1" ; Times: 1
+	Query: "gulo gulo" ; Times: 1
+	Query: "pygmeus" ; Times: 1
+	Query: "Dipodomys Washoe county" ; Times: 7
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus locality:Pikes peak stateprovince:&#34;colorado&#34; mappable:1 hastissue:1" ; Times: 1
+	Query: "specificepithet:leucopus genus:peromyscus" ; Times: 3
+	Query: "tyler J B" ; Times: 3
+	Query: "mustela nivalis" ; Times: 1
+	Query: "specificepithet:amplus genus:Perognathus hastissue:1" ; Times: 2
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 2010 year &lt;= 2018" ; Times: 1
+	Query: "specificepithet:Maniculatus genus:Peromyscus county:&#34;Coconino&#34; stateprovince:&#34;Arizona&#34; country:&#34;United States&#34; continent:North America mappable:1 hastissue:1" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 3
+	Query: "specificepithet:eremicus genus:Peromyscus stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34; continent:North America mappable:1 hastissue:1" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;mohave&#34; stateprovince:&#34;Arizona&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen mappable:1 hastissue:1" ; Times: 2
+	Query: "chaetophractus" ; Times: 1
+	Query: "specificepithet:pennsylvanicus genus:microtus stateprovince:&#34;new york&#34; institutioncode:MSB" ; Times: 1
+	Query: "Micronycteris schmidtorum" ; Times: 1
+	Query: "vntype:specimen specificepithet:frenata genus:Mustela stateprovince:&#34;Washington&#34; lengthtype:total length hassex:1 haslength:1" ; Times: 1
+	Query: "catalognumber:9932" ; Times: 1
+	Query: "275719" ; Times: 1
+	Query: "pine snake" ; Times: 1
+	Query: "266166" ; Times: 1
+	Query: "country:Ecuador scientificname:Microryzomys minutus " ; Times: 3
+	Query: "Chironectes minimus" ; Times: 1
+	Query: "specificepithet:vison genus:Neovison mappable:1 year&gt;=2000" ; Times: 1
+	Query: "MAM 39" ; Times: 1
+	Query: "specificepithet:Maniculatus genus:Peromyscus county:&#34;Beaver&#34; stateprovince:&#34;Utah&#34; country:&#34;United States&#34; continent:North America mappable:1 hastissue:1" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus locality:Pikes peak stateprovince:&#34;colorado&#34; (blood) mappable:1 hastissue:1" ; Times: 1
+	Query: "Euderma maculatum" ; Times: 2
+	Query: "specificepithet:virginiana genus:Didelphis hastissue:1" ; Times: 1
+	Query: "distance(location,geopoint(43.2463409128285,-89.428143815909))&lt;9644" ; Times: 1
+	Query: "hemionus new mexico" ; Times: 2
+	Query: "37232" ; Times: 1
+	Query: "specificepithet:pennsylvanicus genus:microtus stateprovince:&#34;yukon&#34; institutioncode:MSB" ; Times: 1
+	Query: "specificepithet:polionotus genus:peromyscus year&gt;=1950 year&lt;=2018" ; Times: 1
+	Query: "specificepithet:pennsylvanicus genus:microtus stateprovince:&#34;pennsylvania&#34; institutioncode:MSB" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1990 year &lt;= 1999" ; Times: 1
+	Query: "vntype:specimen specificepithet:erminea genus:Mustela stateprovince:&#34;British Columbia&#34; lengthtype:total length hassex:1 haslength:1" ; Times: 2
+	Query: "El Paso Zoo" ; Times: 1
+	Query: "country:Ecuador scientificname:Thomasomys baeops " ; Times: 2
+	Query: "specificepithet:apache genus:Perognathus hastissue:1" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;Yancey&#34; stateprovince:&#34;North Carolina&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Brachylagus hastissue:1" ; Times: 8
+	Query: "(camelus bactrianus)" ; Times: 1
+	Query: "7799" ; Times: 1
+	Query: "stateprovince:&#34;maine&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 7 hastissue:1" ; Times: 1
+	Query: "Microtus abbreviatus hastissue:1" ; Times: 1
+	Query: "distance(location,geopoint(43.5272107798635,-95.104608857))&lt;18048" ; Times: 2
+	Query: "Microtus pennsylvanicus year &gt;= 2000" ; Times: 1
+	Query: "Microtus chrotorrhinus hastissue:1" ; Times: 1
+	Query: "specificepithet:Maniculatus genus:Peromyscus county:&#34;Colfax&#34; stateprovince:&#34;New Mexico&#34; mappable:1 hastissue:1" ; Times: 1
+	Query: "genus:Didelphis stateprovince:&#34;California&#34; preparations:skin" ; Times: 1
+	Query: "specificepithet:nelsoni genus:chaetodipus" ; Times: 1
+	Query: "sylvilagus nuttallii" ; Times: 1
+	Query: "vntype:specimen specificepithet:frenata genus:Mustela lengthtype:total length" ; Times: 1
+	Query: "vntype:specimen genus:muntiacus sex:male preparations:skull hassex:1" ; Times: 1
+	Query: "specificepithet:concolor genus:puma" ; Times: 2
+	Query: "specificepithet:pennsylvanicus genus:microtus county:&#34;suffolk&#34; stateprovince:&#34;new york&#34; institutioncode:MSB" ; Times: 1
+	Query: "genus:Pongo preparations:alcohol" ; Times: 6
+	Query: "catalognumber:238981" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;yuma&#34; stateprovince:&#34;colorado&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Sigmodon peruanus " ; Times: 1
+	Query: "brown bear" ; Times: 2
+	Query: "27634" ; Times: 1
+	Query: "specificepithet:eva genus:Peromyscus stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34; continent:North America mappable:1 hastissue:1" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;Clallam&#34; stateprovince:&#34;Washington&#34; mappable:1 hastissue:1" ; Times: 1
+	Query: "specificepithet:irroratus genus:Liomys hastissue:1" ; Times: 3
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;Alaska&#34; mappable:1 hastissue:1" ; Times: 2
+	Query: "44963" ; Times: 1
+	Query: "Marmosops impavidus" ; Times: 1
+	Query: "specificepithet:lervia genus:Ammotragus mappable:1" ; Times: 6
+	Query: "Saguinus nigricollis" ; Times: 1
+	Query: "Rhynchonycteris naso" ; Times: 1
+	Query: "238226" ; Times: 1
+	Query: "specificepithet:nasua genus:Nasua mappable:1" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1960 year &lt;= 1969 institutioncode:MSB" ; Times: 1
+	Query: "specificepithet:gratus genus:Peromyscus hastissue:1" ; Times: 1
+	Query: "mule deer" ; Times: 1
+	Query: "specificepithet:hudsonius genus:zapus stateprovince:(minnesota OR new mexico)" ; Times: 36
+	Query: "specificepithet:pennsylvanicus genus:microtus county:&#34;suffolk&#34; stateprovince:&#34;new york&#34;" ; Times: 1
+	Query: "specificepithet:formosus genus:Chaetodipus hastissue:1" ; Times: 1
+	Query: "distance(location,geopoint(46.8326516995,-96.396880085))&lt;7628" ; Times: 2
+	Query: "Myotis vivesi" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1960 year &lt;= 1969" ; Times: 1
+	Query: "Peropteryx kappleri" ; Times: 1
+	Query: "catalognumber:9219" ; Times: 1
+	Query: "Lepus europaeus russia" ; Times: 1
+	Query: "Callitrichidae" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;Nevada&#34; mappable:1 hastissue:1" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;washington&#34; country:&#34;United States&#34; mappable:1 hastissue:1" ; Times: 1
+	Query: "cook l h" ; Times: 1
+	Query: "35076" ; Times: 1
+	Query: "Lasiurus borealis stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "24432" ; Times: 1
+	Query: "MBU" ; Times: 1
+	Query: "NK 12618" ; Times: 1
+	Query: "specificepithet:pennsylvanicus genus:microtus stateprovince:&#34;new hampshire&#34; institutioncode:MSB" ; Times: 1
+	Query: "dipodomys merriami parvus" ; Times: 2
+	Query: "Garter snake" ; Times: 3
+	Query: "specificepithet:lagopus genus:Alopex year &gt;= 1940 year &lt;= 1949" ; Times: 1
+	Query: "vntype:specimen specificepithet:frenata genus:mustela haslength:1" ; Times: 1
+	Query: "specificepithet:pennsylvanicus genus:microtus stateprovince:&#34;alaska&#34; institutioncode:MSB" ; Times: 4
+	Query: "specificepithet:capensis genus:Lepus mappable:1" ; Times: 1
+	Query: "Macropus robustus" ; Times: 1
+	Query: "specificepithet:leucopus genus:Peromyscus stateprovince:&#34;texas&#34; mappable:1 hastissue:1" ; Times: 1
+	Query: "203543 mammal" ; Times: 1
+	Query: "specificepithet:moschatus genus:Ovibos mappable:1 year&gt;=2000" ; Times: 1
+	Query: "specificepithet:Maniculatus genus:Peromyscus locality:Humboldt Range stateprovince:&#34;Nevada&#34; country:&#34;United States&#34; continent:North America mappable:1 hastissue:1" ; Times: 1
+	Query: "tayassu tajacu" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1980 year &lt;= 1989 institutioncode:MSB" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;cochise&#34; stateprovince:&#34;Arizona&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen mappable:1 hastissue:1" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34; mappable:1 hastissue:1" ; Times: 1
+	Query: "blood specificepithet:maniculatus genus:Peromyscus mappable:1 hastissue:1" ; Times: 2
+	Query: "lepus callotis" ; Times: 1
+	Query: "Diaemus youngi" ; Times: 1
+	Query: "Noctilio albiventris" ; Times: 1
+	Query: "71073" ; Times: 1
+	Query: "specificepithet:Maniculatus genus:Peromyscus stateprovince:&#34;New Mexico&#34; mappable:1 hastissue:1" ; Times: 4
+	Query: "Phoca vitulina" ; Times: 1
+	Query: "Tayassu Tajacu" ; Times: 4
+	Query: "country:Ecuador scientificname:Phyllotis haggardi " ; Times: 1
+	Query: "distance(location,geopoint(46.8583064480499,-96.3498639161359))&lt;42406" ; Times: 1
+	Query: "specificepithet:velox genus:vulpes (skull OR skeleton) year &gt;= 1940 year &lt;= 1949" ; Times: 1
+	Query: "Microtus ochrogaster year &gt;= 2000 hastissue:1" ; Times: 2
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1940 year &lt;= 1949" ; Times: 1
+	Query: "british columbia shrew" ; Times: 1
+	Query: "specificepithet:leucopus genus:peromyscus year&gt;=1950 year&lt;=2018" ; Times: 6
+	Query: "specificepithet:floridanus genus:Sylvilagus mappable:1 year&gt;=2000" ; Times: 1
+	Query: "Chrotopterus auritus" ; Times: 1
+	Query: "specificepithet:familiaris genus:Canis hastissue:1" ; Times: 1
+	Query: "18002" ; Times: 1
+	Query: "nephelomys" ; Times: 1
+	Query: "specificepithet:Maniculatus genus:Peromyscus county:&#34;luna&#34; stateprovince:&#34;new mexico&#34; mappable:1 hastissue:1" ; Times: 1
+	Query: "family:Bathyergidae institutioncode:MSB" ; Times: 2
+	Query: "specificepithet:lotor genus:Procyon mappable:1 year&gt;=2000" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;California&#34; mappable:1 hastissue:1" ; Times: 1
+	Query: "Vicugna vicugna" ; Times: 1
+	Query: "10048" ; Times: 1
+	Query: "Pipa pipa hassex:1" ; Times: 3
+	Query: "county:&#34;Willacy&#34;" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;Harney&#34; stateprovince:&#34;Oregon&#34; country:&#34;United States&#34; continent:North America mappable:1 hastissue:1" ; Times: 1
+	Query: "catalognumber:47562" ; Times: 1
+	Query: "Aplodontia rufa" ; Times: 4
+	Query: "36458" ; Times: 1
+	Query: "mummy" ; Times: 6
+	Query: "AMNH A-67148" ; Times: 1
+	Query: "95215" ; Times: 1
+	Query: "notiosorex" ; Times: 1
+	Query: "Urocitellus columbianus" ; Times: 1
+	Query: "Microtus xanthognathus year &gt;= 2000 hastissue:1" ; Times: 1
+	Query: "genus:Lontra stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:velox genus:vulpes year &gt;= 1940 year &lt;= 1949" ; Times: 1
+	Query: "tyler j b" ; Times: 1
+	Query: "howelli" ; Times: 1
+	Query: "order:Chiroptera hastypestatus:1" ; Times: 5
+	Query: "country:Ecuador scientificname:Nephelomys albigularis " ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;Bernalillo&#34; stateprovince:&#34;New Mexico&#34; mappable:1 hastissue:1" ; Times: 1
+	Query: "pipistrellus subflavus" ; Times: 3
+	Query: "distance(location,geopoint(45.139607633725,-94.0595528125))&lt;16675" ; Times: 2
+	Query: "MSB 67277" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;Pueblo&#34; stateprovince:&#34;Colorado&#34; country:&#34;United States&#34; continent:North America mappable:1 hastissue:1" ; Times: 1
+	Query: "genus:microtus stateprovince:&#34;british columbia&#34; institutioncode:MSB" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;Sandoval&#34; stateprovince:&#34;New Mexico&#34; country:&#34;United States&#34; mappable:1 hastissue:1" ; Times: 1
+	Query: "Cryptotis squamipes" ; Times: 2
+	Query: "distance(location,geopoint(38.577664207733,-91.2675336119972))&lt;64555" ; Times: 1
+	Query: "distance(location,geopoint(43.5032331415001,-95.747594044))&lt;52150" ; Times: 2
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;yavapai&#34; stateprovince:&#34;Arizona&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen mappable:1 hastissue:1" ; Times: 1
+	Query: "bats" ; Times: 1
+	Query: "Hypsignathus monstrosus" ; Times: 2
+	Query: "genus:urocyon" ; Times: 1
+	Query: "Lasionycteris noctivagans" ; Times: 1
+	Query: "catalognumber:66465" ; Times: 1
+	Query: "Gracilinanus" ; Times: 1
+	Query: "vntype:specimen specificepithet:erminea genus:Mustela stateprovince:&#34;Washington&#34; lengthtype:total length hassex:1 haslength:1" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;North Carolina&#34; country:&#34;United States&#34; mappable:1 hastissue:1" ; Times: 1
+	Query: "genus:(mustela) stateprovince:(virginia)" ; Times: 2
+	Query: "vntype:specimen (Microtus ) year &gt;= 2000 hastissue:1" ; Times: 1
+	Query: "genus:Sorex catalognumber:154920" ; Times: 1
+	Query: "scientificname:Saccopteryx bilineata " ; Times: 1
+	Query: "specificepithet:pennsylvanicus genus:microtus stateprovince:&#34;maryland&#34; institutioncode:MSB" ; Times: 1
+	Query: "catalognumber:299265 institutioncode:MSB" ; Times: 5
+	Query: "distance(location,geopoint(38.823841899042,-90.7090116510005))&lt;58590" ; Times: 1
+	Query: "camelus bactrianus mappable:1 hastissue:1" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;Box Elder&#34; stateprovince:&#34;Utah&#34; country:&#34;United States&#34; mappable:1 hastissue:1" ; Times: 2
+	Query: "Marmosa zeledoni" ; Times: 1
+	Query: "Lonchorhina aurita" ; Times: 1
+	Query: "Microtus longicaudus year &gt;= 2000" ; Times: 1
+	Query: "105031" ; Times: 1
+	Query: "catalognumber:151832" ; Times: 1
+	Query: "brucepattersonius" ; Times: 1
+	Query: "specificepithet:eremicus genus:Peromyscus hastissue:1" ; Times: 2
+	Query: "order:Chiroptera AND (MSB) hastypestatus:1" ; Times: 2
+	Query: "UAM Mamm 1" ; Times: 1
+	Query: "distance(location,geopoint(43.4623053706115,-89.3701269216162))&lt;38648" ; Times: 1
+	Query: "specificepithet:sibiricus genus:Tamias mappable:1 year&gt;=2000" ; Times: 1
+	Query: "specificepithet:Maniculatus genus:Peromyscus county:&#34;Socorro&#34; stateprovince:&#34;New Mexico&#34; country:&#34;United States&#34; continent:North America mappable:1 hastissue:1" ; Times: 1
+	Query: "gulf of california institutioncode:MSB" ; Times: 1
+	Query: "county:&#34;Oklahoma&#34; stateprovince:&#34;Oklahoma&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "mustela nigripes" ; Times: 72
+	Query: "specificepithet:leucogaster genus:Onychomys hastissue:1" ; Times: 3
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;kentucky&#34; country:&#34;United States&#34; mappable:1 hastissue:1" ; Times: 1
+	Query: "(Microtus ) hastissue:1" ; Times: 1
+	Query: "specificepithet:elator genus:Dipodomys" ; Times: 3
+	Query: "genus:odocoileus institutioncode:MSB" ; Times: 2
+	Query: "recordedby:james brown institutioncode:MSB basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "31227" ; Times: 2
+	Query: "specificepithet:irroratus hastissue:1" ; Times: 2
+	Query: "Myotis albescens" ; Times: 1
+	Query: "AMNH 414" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;Oregon&#34; country:&#34;United States&#34; continent:North America mappable:1 hastissue:1" ; Times: 1
+	Query: "specificepithet:lupus genus:Canis (dog OR domestic) institutioncode:MSB" ; Times: 1
+	Query: "Myotis septentrionalis" ; Times: 1
+	Query: "specificepithet:lagopus genus:alopex year &gt;= 1960 year &lt;= 1969" ; Times: 1
+	Query: "catalognumber:203840" ; Times: 1
+	Query: "island specificepithet:pennsylvanicus genus:microtus stateprovince:&#34;alaska&#34; institutioncode:MSB" ; Times: 1
+	Query: "Macrophyllum macrophyllum" ; Times: 1
+	Query: "jewett harney" ; Times: 1
+	Query: "Sigmodon fulviventer" ; Times: 2
+	Query: "quetzal" ; Times: 4
+	Query: "specificepithet:pennsylvanicus genus:microtus county:&#34;nassau&#34; stateprovince:&#34;new york&#34;" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;San Bernardino&#34; stateprovince:&#34;California&#34; mappable:1 hastissue:1" ; Times: 1
+	Query: "50785" ; Times: 2
+	Query: "distance(location,geopoint(43.1571285953795,-89.428143815909))&lt;9654" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;Pima&#34; stateprovince:&#34;Arizona&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen mappable:1 hastissue:1" ; Times: 1
+	Query: "nycticeius humeralis stateprovince:&#34;Texas&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 50 (out of 1178 download events in this period)
+Total number of records downloaded: 79524
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 9
+	Country: Brazil ; Times: 2
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 10
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 23
+	Country: Austria ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Peru ; Times: 1
+	Country: New Zealand ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-28 ; Times: 2
+	Date: 2018-05-29 ; Times: 1
+	Date: 2018-05-21 ; Times: 1
+	Date: 2018-05-22 ; Times: 2
+	Date: 2018-05-23 ; Times: 1
+	Date: 2018-05-25 ; Times: 1
+	Date: 2018-05-26 ; Times: 1
+	Date: 2018-05-06 ; Times: 3
+	Date: 2018-05-07 ; Times: 5
+	Date: 2018-05-04 ; Times: 1
+	Date: 2018-05-02 ; Times: 2
+	Date: 2018-05-01 ; Times: 1
+	Date: 2018-05-08 ; Times: 2
+	Date: 2018-05-09 ; Times: 1
+	Date: 2018-05-31 ; Times: 10
+	Date: 2018-05-15 ; Times: 4
+	Date: 2018-05-14 ; Times: 1
+	Date: 2018-05-17 ; Times: 2
+	Date: 2018-05-16 ; Times: 1
+	Date: 2018-05-11 ; Times: 4
+	Date: 2018-05-10 ; Times: 1
+	Date: 2018-05-13 ; Times: 1
+	Date: 2018-05-18 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:frenata genus:mustela haslength:1" ; Times: 1
+	Query: "Cryptotis squamipes" ; Times: 1
+	Query: "class:Mammalia country:&#34;Colombia&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:formosus genus:Chaetodipus hastissue:1" ; Times: 1
+	Query: "chiroptera mexico" ; Times: 2
+	Query: "marmosops impavidus" ; Times: 1
+	Query: "dipodomys phillipsii" ; Times: 1
+	Query: "specificepithet:callotis genus:Lepus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:frenata genus:Mustela stateprovince:&#34;British Columbia&#34; lengthtype:total length hassex:1 haslength:1" ; Times: 1
+	Query: "delomys" ; Times: 1
+	Query: "Hypsignathus monstrosus" ; Times: 1
+	Query: "Macropus rufogriseus" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 3
+	Query: "vntype:specimen (Microtus ) year &gt;= 2000 hastissue:1" ; Times: 1
+	Query: "Macropus robustus" ; Times: 1
+	Query: "class:mammalia county:&#34;orange&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "genus:urocyon" ; Times: 1
+	Query: "neotoma macrotis" ; Times: 1
+	Query: "Chelemys megalonyx" ; Times: 1
+	Query: "genus:Didelphis stateprovince:&#34;California&#34; preparations:skin" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "vntype:specimen specificepithet:frenata genus:Mustela stateprovince:&#34;Washington&#34; lengthtype:total length hassex:1 haslength:1" ; Times: 1
+	Query: "specificepithet:nelsoni genus:chaetodipus" ; Times: 1
+	Query: "vntype:specimen specificepithet:erminea genus:Mustela stateprovince:&#34;Washington&#34; lengthtype:total length hassex:1 haslength:1" ; Times: 1
+	Query: "Chironectes minimus" ; Times: 1
+	Query: "callitrichidae" ; Times: 1
+	Query: "vntype:specimen genus:muntiacus sex:male preparations:skull hassex:1" ; Times: 2
+	Query: "vntype:specimen class:reptilia haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "specificepithet:pennsylvanicus genus:microtus stateprovince:&#34;alaska&#34; institutioncode:MSB" ; Times: 1
+	Query: "specificepithet:pennsylvanicus genus:microtus county:&#34;suffolk&#34; stateprovince:&#34;new york&#34; institutioncode:MSB" ; Times: 1
+	Query: "trachemys gaigeae" ; Times: 1
+	Query: "sylvilagus nuttalli" ; Times: 1
+	Query: "peromyscus maniculatus" ; Times: 1
+	Query: "specificepithet:pennsylvanicus genus:microtus county:&#34;nassau&#34; stateprovince:&#34;new york&#34; institutioncode:MSB" ; Times: 1
+	Query: "specificepithet:virginiana genus:Didelphis hastissue:1" ; Times: 1
+	Query: "vicugna" ; Times: 1
+	Query: "Urocitellus columbianus" ; Times: 1
+	Query: "class:Aves hastissue:1" ; Times: 1
+	Query: "specificepithet:pennsylvanicus genus:microtus stateprovince:&#34;british columbia&#34; institutioncode:MSB" ; Times: 1
+	Query: "vntype:specimen specificepithet:erminea genus:Mustela stateprovince:&#34;British Columbia&#34; lengthtype:total length hassex:1 haslength:1" ; Times: 1
+	Query: "specificepithet:pennsylvanicus genus:microtus stateprovince:&#34;pennsylvania&#34; institutioncode:MSB" ; Times: 1
+	Query: "macropus rufus" ; Times: 1
+	Query: "dipodomys merriami parvus" ; Times: 1
+	Query: "mountain lake biological station" ; Times: 1
+	Query: "specificepithet:pennsylvanicus genus:microtus stateprovince:&#34;new hampshire&#34; institutioncode:MSB" ; Times: 1
+	Query: "specificepithet:dorsatum genus:Erethizon" ; Times: 1
+
+
+End of report.
