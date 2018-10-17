@@ -1,0 +1,676 @@
+Report for Institution Code MSB, Resource msb_mamm
+Usage stats for June 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 1003
+Number of records retrieved in searches: 23856
+Number of different countries where searches have been originated: 19
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 16
+	Country: Canada ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: Colombia ; Times: 11
+	Country: Mexico ; Times: 107
+	Country: Unknown ; Times: 13
+	Country: Finland ; Times: 4
+	Country: India ; Times: 7
+	Country: France ; Times: 10
+	Country: United States ; Times: 746
+	Country: China ; Times: 20
+	Country: United Kingdom ; Times: 1
+	Country: Chile ; Times: 1
+	Country: Denmark ; Times: 1
+	Country: Japan ; Times: 12
+	Country: Argentina ; Times: 3
+	Country: Germany ; Times: 1
+	Country: Russia ; Times: 2
+	Country: Ecuador ; Times: 46
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-07 ; Times: 54
+	Date: 2018-06-06 ; Times: 54
+	Date: 2018-06-05 ; Times: 90
+	Date: 2018-06-04 ; Times: 61
+	Date: 2018-06-29 ; Times: 43
+	Date: 2018-06-02 ; Times: 24
+	Date: 2018-06-01 ; Times: 28
+	Date: 2018-06-25 ; Times: 29
+	Date: 2018-06-24 ; Times: 8
+	Date: 2018-06-27 ; Times: 13
+	Date: 2018-06-26 ; Times: 10
+	Date: 2018-06-21 ; Times: 21
+	Date: 2018-06-20 ; Times: 19
+	Date: 2018-06-23 ; Times: 9
+	Date: 2018-06-22 ; Times: 22
+	Date: 2018-06-09 ; Times: 16
+	Date: 2018-06-08 ; Times: 59
+	Date: 2018-06-10 ; Times: 13
+	Date: 2018-06-11 ; Times: 47
+	Date: 2018-06-12 ; Times: 90
+	Date: 2018-06-13 ; Times: 51
+	Date: 2018-06-14 ; Times: 20
+	Date: 2018-06-15 ; Times: 34
+	Date: 2018-06-16 ; Times: 20
+	Date: 2018-06-17 ; Times: 20
+	Date: 2018-06-18 ; Times: 34
+	Date: 2018-06-19 ; Times: 33
+	Date: 2018-06-30 ; Times: 18
+	Date: 2018-06-03 ; Times: 23
+	Date: 2018-06-28 ; Times: 40
+
+List of queries that retrieved data from the resource: 
+	Query: "15540" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis country:&#34;United States&#34; year &gt;= 1900 year &lt;= 1909 institutioncode:MSB" ; Times: 1
+	Query: "Canis latrans new mexico Torrance" ; Times: 1
+	Query: "Alces alces" ; Times: 1
+	Query: "sorex minutissimus" ; Times: 5
+	Query: "coyote new mexico" ; Times: 2
+	Query: "country:Ecuador scientificname:Thomasomys cinnameus " ; Times: 2
+	Query: "tablas monte" ; Times: 1
+	Query: "dromiciops gliroides" ; Times: 1
+	Query: "107927" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis (California OR Nevada OR Arizona OR New Mexico OR Utah OR Texas OR Kansas OR Oklahoma OR Colorado OR Wyoming OR Nebraska) year &gt;= 1930 year &lt;= 1939 institutioncode:MSB" ; Times: 1
+	Query: "Reithrodontomys raviventris" ; Times: 1
+	Query: "new jersey liver" ; Times: 1
+	Query: "puma concolor" ; Times: 4
+	Query: "specificepithet:latrans genus:Canis year &gt;= 1920 year &lt;= 1929 institutioncode:MSB" ; Times: 2
+	Query: "Glossophaga morenoi" ; Times: 1
+	Query: "bald eagle" ; Times: 12
+	Query: "american bison" ; Times: 3
+	Query: "Mustela year:2010" ; Times: 41
+	Query: "Meles meles" ; Times: 1
+	Query: "MSB 211149" ; Times: 1
+	Query: "antilocapra" ; Times: 6
+	Query: "specificepithet:maniculatus genus:peromyscus stateprovince:&#34;alaska&#34; institutioncode:MSB" ; Times: 2
+	Query: "harvard forest genus:sorex year &gt;= 1990" ; Times: 1
+	Query: "98464" ; Times: 1
+	Query: "bullfrog" ; Times: 3
+	Query: "specificepithet:Latrans genus:Canis year &gt;= 1990 year &lt;= 2000" ; Times: 1
+	Query: "genus:peromyscus year &gt;= 1990 institutioncode:MSB" ; Times: 1
+	Query: "rhogeessa parvula" ; Times: 2
+	Query: "Canis latrans new mexico Roosevelt County" ; Times: 1
+	Query: "MSB 25450" ; Times: 1
+	Query: "172670" ; Times: 1
+	Query: "order:Chiroptera country:&#34;Cuba&#34;" ; Times: 1
+	Query: "59971" ; Times: 1
+	Query: "70092" ; Times: 1
+	Query: "245362" ; Times: 1
+	Query: "locality:el morro" ; Times: 5
+	Query: "witch" ; Times: 14
+	Query: "413023" ; Times: 1
+	Query: "long term ecological research genus:peromyscus year &gt;= 1990" ; Times: 2
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;California&#34; hastissue:1" ; Times: 2
+	Query: "Panthera uncia" ; Times: 1
+	Query: "genus:puma" ; Times: 1
+	Query: "Neacomys spinosus" ; Times: 1
+	Query: "genus:peromyscus stateprovince:&#34;colorado&#34; institutioncode:MSB" ; Times: 1
+	Query: "21294" ; Times: 1
+	Query: "catalognumber:35536 institutioncode:MSB" ; Times: 1
+	Query: "JR 290" ; Times: 1
+	Query: "genus:Sorex county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "specificepithet:maniculatus genus:peromyscus (LTER)" ; Times: 1
+	Query: "tayassu pecari" ; Times: 8
+	Query: "archaeological" ; Times: 1
+	Query: "family:Lemuridae institutioncode:MSB" ; Times: 9
+	Query: "vntype:specimen family:dipodidae hassex:1 hasmass:1 haslength:1 hastissue:1" ; Times: 1
+	Query: "Mustela nigripes year&gt;=1990 year&lt;=2015 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 7
+	Query: "genus:peromyscus stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "NOTIOSOREX" ; Times: 1
+	Query: "Canis latrans new mexico Socorro County" ; Times: 1
+	Query: "16088 vntype:specimen" ; Times: 1
+	Query: "genus:neofelis" ; Times: 3
+	Query: "specificepithet:albigula genus:Neotoma hastissue:1" ; Times: 2
+	Query: "specificepithet:rufobrachium genus:heliosciurus" ; Times: 3
+	Query: "bull frog" ; Times: 2
+	Query: "golden eagle" ; Times: 3
+	Query: "Sorex roboratus" ; Times: 1
+	Query: "porch" ; Times: 1
+	Query: "country:Ecuador scientificname:Thomasomys aureus " ; Times: 3
+	Query: "Sylvilagus mansuetus" ; Times: 1
+	Query: "armadillo" ; Times: 1
+	Query: "country:Ecuador scientificname:Proechimys decumanus " ; Times: 1
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "lynx rufus" ; Times: 1
+	Query: "Sylvilagus cunicularius" ; Times: 1
+	Query: "Lepus callotis" ; Times: 1
+	Query: "specificepithet:crinitus genus:Peromyscus hastissue:1" ; Times: 5
+	Query: "harvard forest specificepithet:cinereus genus:sorex year &gt;= 1990" ; Times: 1
+	Query: "harvard forest genus:sorex year &gt;= 1990 institutioncode:MSB" ; Times: 1
+	Query: "Nyctinomops" ; Times: 2
+	Query: "187212" ; Times: 1
+	Query: "Euryoryzomys macconnelli" ; Times: 1
+	Query: "Canis latrans new mexico Quay County" ; Times: 1
+	Query: "Canis latrans New Mexico Rio Arriba" ; Times: 1
+	Query: "Cougar" ; Times: 1
+	Query: "Canis latrans new mexico Rio Arriba" ; Times: 1
+	Query: "191915" ; Times: 2
+	Query: "american beaver" ; Times: 1
+	Query: "Puma concolor" ; Times: 7
+	Query: "MSB 25414" ; Times: 1
+	Query: "56785" ; Times: 1
+	Query: "MSB 25412" ; Times: 1
+	Query: "specificepithet:merriami genus:dipodomys catalognumber:15888" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 5
+	Query: "specificepithet:sitkensis stateprovince:&#34;alaska&#34;" ; Times: 2
+	Query: "vntype:specimen specificepithet:maritimus genus:Ursus year &gt;= 1990 year &lt;= 2018" ; Times: 5
+	Query: "64465" ; Times: 1
+	Query: "specificepithet:lepida genus:Marmosa" ; Times: 1
+	Query: "genus:peromyscus (long term ecological research) institutioncode:MSB" ; Times: 1
+	Query: "catalognumber:155300" ; Times: 1
+	Query: "Miniopterus minor" ; Times: 1
+	Query: "genus:peromyscus county:&#34;dona ana&#34; stateprovince:&#34;new mexico&#34; institutioncode:MSB" ; Times: 2
+	Query: "country:Ecuador scientificname:Akodon mollis " ; Times: 1
+	Query: "specificepithet:cinereus genus:sorex year &gt;= 2000 institutioncode:MSB" ; Times: 1
+	Query: "distance(location,geopoint(37.161975188785,-93.6952926072649))&lt;11285" ; Times: 2
+	Query: "specificepithet:cinereus genus:sorex year &gt;= 1990 institutioncode:MSB" ; Times: 1
+	Query: "country:Ecuador scientificname:Akodon aerosus " ; Times: 3
+	Query: "Harpia" ; Times: 1
+	Query: "neotoma magister" ; Times: 1
+	Query: "94944" ; Times: 2
+	Query: "Nyctinomops aurispinosus" ; Times: 1
+	Query: "coyote new mexico mountains" ; Times: 1
+	Query: "genus:Lemur" ; Times: 2
+	Query: "choloepus hoffmanni" ; Times: 1
+	Query: "genus:(mustela) stateprovince:(virginia) AND NOT stateprovince:(west virginia)" ; Times: 1
+	Query: "genus:euphractus" ; Times: 3
+	Query: "specificepithet:latrans genus:Canis year &gt;= 1900 year &lt;= 1909 institutioncode:MSB" ; Times: 1
+	Query: "specificepithet:maniculatus genus:peromyscus (LTER) institutioncode:MSB" ; Times: 1
+	Query: "specificepithet:Latrans genus:Canis country:&#34;Mexico&#34; year &gt;= 1990 year &lt;= 2000" ; Times: 1
+	Query: "mammal Colima" ; Times: 1
+	Query: "catalognumber:33306" ; Times: 1
+	Query: "133939" ; Times: 3
+	Query: "genus:peromyscus county:&#34;Worcester&#34; stateprovince:&#34;massachusetts&#34; institutioncode:MSB" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis year &gt;= 1930 year &lt;= 1939 institutioncode:MSB" ; Times: 2
+	Query: "sus scrofa" ; Times: 1
+	Query: "Marmosa robinsoni" ; Times: 15
+	Query: "Petrified Forest" ; Times: 1
+	Query: "Black bear" ; Times: 1
+	Query: "Marmosops bishopi" ; Times: 1
+	Query: "vntype:specimen specificepithet:concolor genus:puma" ; Times: 1
+	Query: "giraffe" ; Times: 2
+	Query: "giraffa" ; Times: 1
+	Query: "distance(location,geopoint(44.8059502237725,-93.184175766894))&lt;11834" ; Times: 1
+	Query: "family:Lemuridae" ; Times: 1
+	Query: "Canis latrans New Mexico lestes" ; Times: 1
+	Query: "175101" ; Times: 3
+	Query: "calabasas" ; Times: 1
+	Query: "Canis latrans new mexico Sandoval County" ; Times: 1
+	Query: "specificepithet:maniculatus genus:peromyscus institutioncode:MSB" ; Times: 1
+	Query: "Flavescens iowa" ; Times: 2
+	Query: "664429" ; Times: 1
+	Query: "genus:peromyscus stateprovince:&#34;michigan&#34; year &gt;= 1990 institutioncode:MSB" ; Times: 3
+	Query: "Chelemys megalonyx" ; Times: 1
+	Query: "&#34;*Urocitellus columbianus&#34;" ; Times: 1
+	Query: "wolverine" ; Times: 1
+	Query: "Dasypterus ega" ; Times: 1
+	Query: "380145" ; Times: 2
+	Query: "Pongo pygmaeus" ; Times: 1
+	Query: "755576" ; Times: 1
+	Query: "catalognumber:130666" ; Times: 1
+	Query: "Lontra canadensis" ; Times: 2
+	Query: "monster" ; Times: 3
+	Query: "specificepithet:maniculatus genus:peromyscus stateprovince:&#34;colorado&#34; institutioncode:MSB" ; Times: 1
+	Query: "white tail deer" ; Times: 1
+	Query: "catalognumber:29294" ; Times: 2
+	Query: "Rattus skeleton" ; Times: 1
+	Query: "Phyllops falcatus" ; Times: 1
+	Query: "country:Ecuador scientificname:Thomasomys caudivarius " ; Times: 1
+	Query: "Monodelphis adusta" ; Times: 1
+	Query: "neomys fodiens" ; Times: 1
+	Query: "country:Ecuador scientificname:Proechimys semispinosus " ; Times: 1
+	Query: "Chiroptera county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34; year &gt;= 1940 year &lt;= 2018" ; Times: 5
+	Query: "specificepithet:latrans genus:Canis year &gt;= 1940 year &lt;= 1949" ; Times: 2
+	Query: "196696" ; Times: 1
+	Query: "lemur" ; Times: 1
+	Query: "68899" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+	Query: "specificepithet:maniculatus genus:peromyscus stateprovince:&#34;new mexico&#34; year &gt;= 1990 institutioncode:MSB" ; Times: 1
+	Query: "mountain lion" ; Times: 5
+	Query: "Eira barbara" ; Times: 1
+	Query: "95780" ; Times: 5
+	Query: "island specificepithet:maniculatus genus:peromyscus institutioncode:MSB" ; Times: 1
+	Query: "88765" ; Times: 1
+	Query: "specificepithet:plicata genus:balantiopteryx stateprovince:&#34;oaxaca&#34;" ; Times: 1
+	Query: "bobcat" ; Times: 5
+	Query: "catalognumber:119073" ; Times: 1
+	Query: "genus:peromyscus stateprovince:&#34;new hampshire&#34; institutioncode:MSB" ; Times: 3
+	Query: "genus:tupaia preparations:alcohol" ; Times: 1
+	Query: "locality:EL MORRO" ; Times: 1
+	Query: "ursus maritimus" ; Times: 1
+	Query: "64939" ; Times: 1
+	Query: "vntype:specimen specificepithet:maritimus genus:Ursus year &gt;= 1990 year &lt;= 2018 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Panthera onca en mexico" ; Times: 1
+	Query: "San Diego Zoo" ; Times: 2
+	Query: "specificepithet:latrans genus:Canis year &gt;= 1940 year &lt;= 1949 institutioncode:MSB" ; Times: 1
+	Query: "79409" ; Times: 1
+	Query: "country:&#34;Panama&#34; (inguinalis OR panamansis OR panamensis) hastissue:1" ; Times: 1
+	Query: "genus:Neotoma county:&#34;Los Angeles&#34;" ; Times: 1
+	Query: "odocoileus virginianus" ; Times: 3
+	Query: "751202" ; Times: 1
+	Query: "(lter)" ; Times: 1
+	Query: "Chiroptera locality:Chiricahua Mountains county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "genus:peromyscus county:&#34;gilpin&#34; stateprovince:&#34;colorado&#34; institutioncode:MSB" ; Times: 1
+	Query: "Conepatus leuconotus" ; Times: 2
+	Query: "japan liver" ; Times: 1
+	Query: "298785" ; Times: 1
+	Query: "genus:Mustela specificepithet:nigripes mappable:1" ; Times: 2
+	Query: "Canis latrans new mexico Chavez County" ; Times: 1
+	Query: "Rhogeessa parvula" ; Times: 3
+	Query: "black-tailed prairie dog" ; Times: 1
+	Query: "42139-1" ; Times: 1
+	Query: "137077" ; Times: 1
+	Query: "country:Ecuador scientificname:Dinomys branickii " ; Times: 10
+	Query: "Microtus richardsoni year &gt;= 2000 year &lt;= 2018" ; Times: 1
+	Query: "Canis latrans new mexico Mts" ; Times: 5
+	Query: "Pika" ; Times: 1
+	Query: "genus:Diaemus" ; Times: 1
+	Query: "Choeronycteris mexicana" ; Times: 1
+	Query: "feces family:Canidae" ; Times: 3
+	Query: "distance(location,geopoint(37.248560757269,-93.6952372778328))&lt;11263" ; Times: 2
+	Query: "confinis hastissue:1" ; Times: 1
+	Query: "Tamias sibiricus" ; Times: 12
+	Query: "Peromyscus merriami" ; Times: 2
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/MSB:Mamm:56979?seid=1643089&#34; OR &#34;urn:catalog:CM:Herps:116520&#34;" ; Times: 34
+	Query: "genus:peromyscus (sevilleta) institutioncode:MSB" ; Times: 1
+	Query: "specificepithet:perspicillata genus:carollia stateprovince:&#34;oaxaca&#34;" ; Times: 2
+	Query: "39047" ; Times: 1
+	Query: "50623" ; Times: 4
+	Query: "genus:heliosciurus institutioncode:MSB" ; Times: 1
+	Query: "genus:peromyscus county:&#34;Worcester County&#34; stateprovince:&#34;massachusetts&#34; institutioncode:MSB" ; Times: 1
+	Query: "genus:sorex year &gt;= 1990 institutioncode:MSB" ; Times: 1
+	Query: "Leptonycteris yerbabuenae" ; Times: 1
+	Query: "Notocitellus adocetus" ; Times: 1
+	Query: "Pongo pygmaeus vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:83339 institutioncode:MSB" ; Times: 1
+	Query: "distance(location,geopoint(33.529,-105.694))&lt;2000" ; Times: 2
+	Query: "Marmot" ; Times: 3
+	Query: "catalognumber:50355" ; Times: 1
+	Query: "Cavia aperea" ; Times: 1
+	Query: "zarembo genus:microtus stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "specificepithet:perotis genus:eumops country:&#34;United States&#34;" ; Times: 1
+	Query: "157240" ; Times: 1
+	Query: "specificepithet:americana genus:martes" ; Times: 1
+	Query: "95500" ; Times: 1
+	Query: "genus:peromyscus county:&#34;boulder&#34; stateprovince:&#34;colorado&#34; institutioncode:MSB" ; Times: 1
+	Query: "Canis latrans new mexico mearnsi" ; Times: 2
+	Query: "catalognumber:66171" ; Times: 1
+	Query: "distance(location,geopoint(39.2400334086807,-86.5684060061948))&lt;11509" ; Times: 1
+	Query: "genus:tupaia preparations:ethanol" ; Times: 1
+	Query: "Natalus mexicanus" ; Times: 1
+	Query: "specificepithet:aztecus genus:Peromyscus hastissue:1" ; Times: 1
+	Query: "Canis latrans Valles Caldera" ; Times: 1
+	Query: "sorex hoyi" ; Times: 3
+	Query: "Hartman" ; Times: 2
+	Query: "locality:EL MORRO stateprovince:&#34;NEW MEXICO&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Neusticomys monticolus " ; Times: 5
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "cougar" ; Times: 2
+	Query: "TCWC" ; Times: 1
+	Query: "vntype:specimen specificepithet:maritimus genus:Ursus basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Bald eagle" ; Times: 2
+	Query: "genus:callospermophilus county:&#34;san bernardino&#34;" ; Times: 2
+	Query: "Glaucomys sabrinus" ; Times: 1
+	Query: "Canis latrans new mexico" ; Times: 2
+	Query: "Marmosa lepida" ; Times: 1
+	Query: "Canis latrans new mexico McKinley County" ; Times: 1
+	Query: "52549" ; Times: 1
+	Query: "uropsilus" ; Times: 3
+	Query: "urocyon cinereoargenteus Mexico" ; Times: 1
+	Query: "vntype:specimen specificepithet:maniculatus genus:peromyscus year &gt;= 1990 institutioncode:MSB" ; Times: 1
+	Query: "(Manitoba OR Ontario OR Quebec OR New Brunswick OR Nova Scotia OR Newfoundland OR Labrador)" ; Times: 1
+	Query: "genus:peromyscus county:&#34;clear creek&#34; stateprovince:&#34;colorado&#34; institutioncode:MSB" ; Times: 1
+	Query: "dipodomys phillipsii" ; Times: 1
+	Query: "gulo gulo" ; Times: 1
+	Query: "Microtus richardsoni year &gt;= 2000 year &lt;= 2018 hastissue:1" ; Times: 1
+	Query: "specificepithet:siberiae genus:Akodon" ; Times: 2
+	Query: "Rhododendron" ; Times: 1
+	Query: "humans" ; Times: 1
+	Query: "Cynomys ludovicianus institutioncode:MSB" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 3
+	Query: "order:rodentia locality:death valley stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Caenolestes fuliginosus " ; Times: 1
+	Query: "Marmosa mexicana" ; Times: 2
+	Query: "Wolf Skull" ; Times: 1
+	Query: "humming bird" ; Times: 4
+	Query: "Antilocapra americana" ; Times: 8
+	Query: "catalognumber:5788" ; Times: 1
+	Query: "country:Ecuador scientificname:Microryzomys minutus " ; Times: 3
+	Query: "Chironectes minimus" ; Times: 1
+	Query: "woewodski genus:microtus stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "scientificname:Choloepus hoffmanni " ; Times: 1
+	Query: "Canis latrans new mexico Sandoval" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis year &gt;= 1900 year &lt;= 1909" ; Times: 2
+	Query: "Dinomys branickii" ; Times: 2
+	Query: "distance(location,geopoint(44.954125234549,-93.1744568655617))&lt;12380" ; Times: 1
+	Query: "Ochotona hastissue:1" ; Times: 10
+	Query: "Canis latrans new mexico lestes" ; Times: 3
+	Query: "mazama americana" ; Times: 2
+	Query: "El Paso Zoo" ; Times: 4
+	Query: "country:Ecuador scientificname:Thomasomys baeops " ; Times: 2
+	Query: "specificepithet:leucodon genus:Neotoma hastissue:1" ; Times: 1
+	Query: "genus:peromyscus stateprovince:&#34;alaska&#34; year &gt;= 1990 institutioncode:MSB" ; Times: 1
+	Query: "specificepithet:microps genus:Dipodomys county:&#34;San Bernardino&#34;" ; Times: 1
+	Query: "19696" ; Times: 1
+	Query: "saguinus nigricollis" ; Times: 1
+	Query: "Canis latrans Valle Grande" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis year &gt;= 1930 year &lt;= 1939" ; Times: 2
+	Query: "sokolof genus:microtus stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "Myotis fortidens" ; Times: 1
+	Query: "mustela nigripes" ; Times: 68
+	Query: "puma concolor mexico" ; Times: 3
+	Query: "specificepithet:concolor genus:puma" ; Times: 1
+	Query: "Canis latrans new mexico Sierra County" ; Times: 1
+	Query: "245341" ; Times: 1
+	Query: "brown bear" ; Times: 1
+	Query: "American Beaver" ; Times: 1
+	Query: "neotamias obscurus" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis country:&#34;United States&#34; year &gt;= 1900 year &lt;= 1909" ; Times: 3
+	Query: "Giraffa camelopardalis camelopardalis" ; Times: 1
+	Query: "Myopterus whitleyi" ; Times: 2
+	Query: "specificepithet:senex genus:tamias" ; Times: 2
+	Query: "Noctilio leporinus" ; Times: 4
+	Query: "Sorex isodon" ; Times: 1
+	Query: "eden specificepithet:merriami genus:dipodomys" ; Times: 1
+	Query: "specificepithet:hudsonius genus:zapus stateprovince:(minnesota OR new mexico)" ; Times: 34
+	Query: "genus:peromyscus stateprovince:&#34;massachusetts&#34; institutioncode:MSB" ; Times: 1
+	Query: "Chiroptera county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Myotis vivesi" ; Times: 1
+	Query: "474589" ; Times: 2
+	Query: "genus:peromyscus county:&#34;weld&#34; stateprovince:&#34;colorado&#34; institutioncode:MSB" ; Times: 1
+	Query: "San Diego Zoo Mammalia" ; Times: 2
+	Query: "GREY WOLF" ; Times: 1
+	Query: "eira barbara" ; Times: 1
+	Query: "Canada Goose" ; Times: 1
+	Query: "hirtipes" ; Times: 1
+	Query: "28940" ; Times: 1
+	Query: "frog north america" ; Times: 1
+	Query: "Lynx rufus" ; Times: 2
+	Query: "specificepithet:maniculatus genus:peromyscus county:&#34;weld&#34; stateprovince:&#34;colorado&#34; institutioncode:MSB" ; Times: 1
+	Query: "Canis latrans new mexico San Juan County" ; Times: 1
+	Query: "dasypus novemcinctus" ; Times: 1
+	Query: "Chris burke" ; Times: 1
+	Query: "ursus americanus" ; Times: 1
+	Query: "tamias ochrogenys" ; Times: 4
+	Query: "Mazama americana" ; Times: 1
+	Query: "Canis latrans new mexico Santa Fe County" ; Times: 1
+	Query: "genus:peromyscus stateprovince:&#34;alaska&#34; year &gt;= 1980 institutioncode:MSB" ; Times: 1
+	Query: "catalognumber:18721" ; Times: 1
+	Query: "country:Ecuador scientificname:Glossophaga soricina " ; Times: 3
+	Query: "Black Bear" ; Times: 1
+	Query: "Tayassu pecari" ; Times: 34
+	Query: "Canis latrans new mexico Bernalillo" ; Times: 1
+	Query: "Mountain Lion" ; Times: 2
+	Query: "genus:peromyscus county:&#34;riley&#34; stateprovince:&#34;kansas&#34; institutioncode:MSB" ; Times: 2
+	Query: "specificepithet:maritimus genus:Ursus year &gt;= 1990 year &lt;= 2018" ; Times: 2
+	Query: "genus:noctilio stateprovince:&#34;oaxaca&#34;" ; Times: 1
+	Query: "65362" ; Times: 1
+	Query: "pteropus giganteus" ; Times: 2
+	Query: "CUMV Mammal specimens 308" ; Times: 2
+	Query: "skull vntype:specimen specificepithet:maritimus genus:Ursus year &gt;= 1990 year &lt;= 2018" ; Times: 2
+	Query: "genus:blarina stateprovince:&#34;kansas&#34;" ; Times: 1
+	Query: "759219" ; Times: 1
+	Query: "platyrrhinus" ; Times: 1
+	Query: "759212" ; Times: 1
+	Query: "759217" ; Times: 1
+	Query: "alces alces" ; Times: 2
+	Query: "Corynorhinus mexicanus" ; Times: 1
+	Query: "crowley county colorado" ; Times: 1
+	Query: "catalognumber:16943" ; Times: 1
+	Query: "49503" ; Times: 1
+	Query: "specificepithet:parnellii genus:pteronotus stateprovince:&#34;oaxaca&#34;" ; Times: 2
+	Query: "16262" ; Times: 1
+	Query: "catalognumber:211792 institutioncode:MSB" ; Times: 1
+	Query: "genus:Phyllotis darwini order:Rodentia hastissue:1" ; Times: 3
+	Query: "39043" ; Times: 3
+	Query: "lagopus new mexico" ; Times: 1
+	Query: "vntype:specimen genus:euphractus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:peromyscus stateprovince:&#34;minnesota&#34; institutioncode:MSB" ; Times: 2
+	Query: "specificepithet:leucodon genus:Neotoma institutioncode:MSB" ; Times: 1
+	Query: "distance(location,geopoint(45.0501439614529,-93.7973836220047))&lt;15301" ; Times: 1
+	Query: "Gracilinanus agilis" ; Times: 1
+	Query: "catalognumber:35526 institutioncode:MSB" ; Times: 1
+	Query: "Setonix brachyurus" ; Times: 1
+	Query: "specificepithet:sitkensis genus:peromyscus" ; Times: 1
+	Query: "genus:peromyscus stateprovince:&#34;new mexico&#34; (jornada) institutioncode:MSB" ; Times: 1
+	Query: "vntype:specimen specificepithet:canadensis genus:Lynx" ; Times: 1
+	Query: "willardi" ; Times: 1
+	Query: "locality:inscription rock" ; Times: 14
+	Query: "Aplodontia rufa" ; Times: 1
+	Query: "mummy" ; Times: 2
+	Query: "753725" ; Times: 1
+	Query: "notiosorex" ; Times: 3
+	Query: "11605" ; Times: 1
+	Query: "genus:heliosciurus" ; Times: 3
+	Query: "specificepithet:keeni genus:peromyscus stateprovince:&#34;alaska&#34; year &gt;= 1990 institutioncode:MSB" ; Times: 1
+	Query: "acomys" ; Times: 1
+	Query: "genus:Eumops stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Lama guanicoe" ; Times: 1
+	Query: "genus:peromyscus county:&#34;dona ana&#34; stateprovince:&#34;new mexico&#34; year &gt;= 1990 institutioncode:MSB" ; Times: 2
+	Query: "Ursus arctos" ; Times: 3
+	Query: "grizzly bear" ; Times: 5
+	Query: "229846" ; Times: 1
+	Query: "36384`1" ; Times: 1
+	Query: "country:Ecuador scientificname:Nephelomys albigularis " ; Times: 1
+	Query: "specificepithet:leporinus genus:Noctilio country:&#34;Mexico&#34;" ; Times: 1
+	Query: "299226" ; Times: 1
+	Query: "locality:Black Hills National Forest" ; Times: 2
+	Query: "grey wolf" ; Times: 2
+	Query: "MSB 146437" ; Times: 1
+	Query: "pika" ; Times: 4
+	Query: "Bullfrog" ; Times: 2
+	Query: "black bear" ; Times: 6
+	Query: "specificepithet:ochrogenys genus:tamias" ; Times: 1
+	Query: "Myrmecophaga tridactyla" ; Times: 1
+	Query: "Grizzly Bear" ; Times: 1
+	Query: "Gillespie" ; Times: 1
+	Query: "Peromyscus mexicanus country:&#34;Costa Rica&#34;" ; Times: 1
+	Query: "urocyon cinereoargenteus mexico" ; Times: 2
+	Query: "genus:peromyscus county:&#34;boulder&#34; stateprovince:&#34;colorado&#34;" ; Times: 1
+	Query: "Canis latrans Jemez" ; Times: 1
+	Query: "genus:peromyscus stateprovince:&#34;alaska&#34; year &gt;= 2000 institutioncode:MSB" ; Times: 1
+	Query: "kupreanof genus:microtus stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "locality:palmyra" ; Times: 1
+	Query: "Canis latrans new mexico Otero County" ; Times: 1
+	Query: "catalognumber:13728" ; Times: 1
+	Query: "Canis latrans new mexico Valencia County" ; Times: 1
+	Query: "distance(location,geopoint(45.2768308818963,-93.7703836750571))&lt;20247" ; Times: 1
+	Query: "genus:(mustela) stateprovince:(virginia)" ; Times: 1
+	Query: "Equus caballus" ; Times: 1
+	Query: "specificepithet:lanatus genus:Caluromys" ; Times: 4
+	Query: "Hydrochaeris hydrochaeris" ; Times: 1
+	Query: "Potos flavus" ; Times: 1
+	Query: "NOTIOSOREX HIDALGO" ; Times: 1
+	Query: "genus:Marmota stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "specificepithet:bottae genus:Thomomys county:&#34;Eddy&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "dasypus novemcinctus mexico" ; Times: 2
+	Query: "spermophilus mohavensis" ; Times: 2
+	Query: "specificepithet:keaysi genus:Myotis hastissue:1" ; Times: 2
+	Query: "Siphonaptera" ; Times: 9
+	Query: "vntype:specimen specificepithet:subgutturosa genus:Gazella" ; Times: 1
+	Query: "Bobcat" ; Times: 2
+	Query: "family:canidae preparations:skeleton" ; Times: 1
+	Query: "Brachylagus hastissue:1" ; Times: 1
+	Query: "marmot" ; Times: 4
+	Query: "specificepithet:davyi genus:pteronotus stateprovince:&#34;oaxaca&#34;" ; Times: 1
+	Query: "tayassu pecari pecari" ; Times: 1
+	Query: "cabezon" ; Times: 1
+	Query: "specificepithet:monticolus genus:sorex year &gt;= 1990 institutioncode:MSB" ; Times: 1
+	Query: "genus:peromyscus stateprovince:&#34;colorado&#34; (boulder) institutioncode:MSB" ; Times: 1
+	Query: "160146 institutioncode:MSB" ; Times: 1
+	Query: "943431" ; Times: 1
+	Query: "genus:blarina year &gt;= 1990 institutioncode:MSB" ; Times: 1
+	Query: "31224" ; Times: 1
+	Query: "locality:homer stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "156142" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis year &gt;= 1950 year &lt;= 1959" ; Times: 1
+	Query: "genus:peromyscus stateprovince:&#34;alaska&#34; institutioncode:MSB" ; Times: 3
+	Query: "flying squirrel" ; Times: 3
+	Query: "Microtus richardsoni" ; Times: 1
+	Query: "catalognumber:6882" ; Times: 1
+	Query: "Canis latrans new mexico San Miguel County" ; Times: 1
+	Query: "Glyphonycteris sylvestris" ; Times: 1
+	Query: "genus:peromyscus institutioncode:MSB" ; Times: 1
+	Query: "specificepithet:leucodon genus:Neotoma" ; Times: 2
+	Query: "70533" ; Times: 1
+	Query: "50785" ; Times: 1
+	Query: "Artibeus hirsutus" ; Times: 1
+	Query: "harvard forest genus:peromyscus county:&#34;Worcester&#34; stateprovince:&#34;massachusetts&#34; institutioncode:MSB" ; Times: 1
+	Query: "59215" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 148 (out of 1169 download events in this period)
+Total number of records downloaded: 190266
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: United States ; Times: 95
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 24
+	Country: Unknown ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 10
+	Country: Ecuador ; Times: 10
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-07 ; Times: 20
+	Date: 2018-06-06 ; Times: 17
+	Date: 2018-06-05 ; Times: 22
+	Date: 2018-06-04 ; Times: 10
+	Date: 2018-06-03 ; Times: 1
+	Date: 2018-06-28 ; Times: 2
+	Date: 2018-06-01 ; Times: 9
+	Date: 2018-06-25 ; Times: 2
+	Date: 2018-06-27 ; Times: 1
+	Date: 2018-06-21 ; Times: 1
+	Date: 2018-06-20 ; Times: 2
+	Date: 2018-06-09 ; Times: 1
+	Date: 2018-06-08 ; Times: 17
+	Date: 2018-06-10 ; Times: 2
+	Date: 2018-06-11 ; Times: 4
+	Date: 2018-06-12 ; Times: 8
+	Date: 2018-06-13 ; Times: 3
+	Date: 2018-06-14 ; Times: 3
+	Date: 2018-06-15 ; Times: 2
+	Date: 2018-06-17 ; Times: 3
+	Date: 2018-06-18 ; Times: 3
+	Date: 2018-06-19 ; Times: 12
+	Date: 2018-06-29 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Nyctinomops aurispinosus" ; Times: 1
+	Query: "Crotalus lepidus" ; Times: 1
+	Query: "coyote new mexico" ; Times: 1
+	Query: "genus:blarina stateprovince:&#34;kansas&#34;" ; Times: 1
+	Query: "mammal Colima" ; Times: 1
+	Query: "chihuahua" ; Times: 2
+	Query: "cougar" ; Times: 2
+	Query: "Corynorhinus mexicanus" ; Times: 1
+	Query: "Glossophaga morenoi" ; Times: 1
+	Query: "Mountain Beaver" ; Times: 1
+	Query: "bobcat" ; Times: 1
+	Query: "moun" ; Times: 1
+	Query: "Marmosops bishopi" ; Times: 1
+	Query: "country:&#34;Ecuador&#34;" ; Times: 7
+	Query: "Marmosa lepida" ; Times: 1
+	Query: "kangaroo rat" ; Times: 1
+	Query: "genus:peromyscus stateprovince:&#34;minnesota&#34; institutioncode:MSB" ; Times: 1
+	Query: "vntype:specimen specificepithet:maniculatus genus:peromyscus year &gt;= 1990 institutioncode:MSB" ; Times: 2
+	Query: "Giraffa camelopardalis camelopardalis" ; Times: 1
+	Query: "antilocapra" ; Times: 1
+	Query: "Gracilinanus agilis" ; Times: 1
+	Query: "Microtus" ; Times: 1
+	Query: "wood frog continent:North America" ; Times: 1
+	Query: "orca" ; Times: 2
+	Query: "bullfrog" ; Times: 3
+	Query: "Setonix brachyurus" ; Times: 1
+	Query: "county:&#34;pierce&#34; stateprovince:&#34;washington&#34; continent:North America" ; Times: 1
+	Query: "barn owl" ; Times: 1
+	Query: "Cynomys ludovicianus institutioncode:MSB" ; Times: 1
+	Query: "genus:peromyscus year &gt;= 1990 institutioncode:MSB" ; Times: 1
+	Query: "genus:blarina year &gt;= 1990 institutioncode:MSB" ; Times: 1
+	Query: "vntype:specimen specificepithet:canadensis genus:Lynx" ; Times: 1
+	Query: "Pongo pygmaeus vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Aplodontia rufa" ; Times: 2
+	Query: "Chelemys megalonyx" ; Times: 1
+	Query: "&#34;*Urocitellus columbianus&#34;" ; Times: 1
+	Query: "wolverine" ; Times: 1
+	Query: "humming bird" ; Times: 1
+	Query: "specificepithet:keeni genus:peromyscus stateprovince:&#34;alaska&#34; year &gt;= 1990 institutioncode:MSB" ; Times: 1
+	Query: "Antilocapra americana" ; Times: 1
+	Query: "Chironectes minimus" ; Times: 1
+	Query: "Hylaeamys perenensis" ; Times: 4
+	Query: "white tail deer" ; Times: 1
+	Query: "locality:el morro" ; Times: 1
+	Query: "Coccothraustes vespertinus" ; Times: 1
+	Query: "locality:Black Hills National Forest" ; Times: 1
+	Query: "Monodelphis adusta" ; Times: 1
+	Query: "grey wolf" ; Times: 2
+	Query: "Myotis fortidens" ; Times: 1
+	Query: "pika" ; Times: 2
+	Query: "Neacomys spinosus" ; Times: 1
+	Query: "black bear" ; Times: 4
+	Query: "wood frog" ; Times: 1
+	Query: "pigeon guillemot" ; Times: 1
+	Query: "Panthera onca en mexico" ; Times: 1
+	Query: "mountain lion" ; Times: 5
+	Query: "Grizzly Bear" ; Times: 1
+	Query: "flying squirrel" ; Times: 3
+	Query: "genus:peromyscus county:&#34;riley&#34; stateprovince:&#34;kansas&#34; institutioncode:MSB" ; Times: 1
+	Query: "specificepithet:leucodon genus:Neotoma hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:lupus genus:Canis" ; Times: 1
+	Query: "specificepithet:stansburiana genus:uta class:reptilia stateprovince:&#34;new mexico&#34; institutioncode:MSB" ; Times: 1
+	Query: "vntype:specimen family:dipodidae hassex:1 hasmass:1 haslength:1 hastissue:1" ; Times: 1
+	Query: "genus:peromyscus stateprovince:&#34;new hampshire&#34; institutioncode:MSB" ; Times: 1
+	Query: "frog" ; Times: 1
+	Query: "vntype:specimen specificepithet:concolor genus:puma" ; Times: 1
+	Query: "ursus maritimus" ; Times: 1
+	Query: "grizzly bear" ; Times: 1
+	Query: "Pika" ; Times: 1
+	Query: "oregon" ; Times: 1
+	Query: "armadillo" ; Times: 1
+	Query: "American Beaver" ; Times: 4
+	Query: "coyote" ; Times: 1
+	Query: "bald eagle" ; Times: 5
+	Query: "Lepus callotis" ; Times: 1
+	Query: "dasypus novemcinctus mexico" ; Times: 1
+	Query: "hasmass:1" ; Times: 1
+	Query: "Nyctinomops" ; Times: 1
+	Query: "alces alces" ; Times: 1
+	Query: "Bobcat" ; Times: 1
+	Query: "Euryoryzomys macconnelli" ; Times: 1
+	Query: "Rhogeessa parvula" ; Times: 3
+	Query: "Myotis vivesi" ; Times: 1
+	Query: "tayassu pecari pecari" ; Times: 3
+	Query: "Cougar" ; Times: 1
+	Query: "genus:peromyscus county:&#34;weld&#34; stateprovince:&#34;colorado&#34; institutioncode:MSB" ; Times: 1
+	Query: "specificepithet:monticolus genus:sorex year &gt;= 1990 institutioncode:MSB" ; Times: 1
+	Query: "GREY WOLF" ; Times: 1
+	Query: "puma concolor mexico" ; Times: 1
+	Query: "Bufo boreas" ; Times: 1
+	Query: "elephant" ; Times: 1
+	Query: "Steatomys" ; Times: 1
+	Query: "vntype:specimen specificepithet:maritimus genus:Ursus year &gt;= 1990 year &lt;= 2018" ; Times: 1
+	Query: "moose" ; Times: 1
+	Query: "Sciurus colliaei" ; Times: 1
+	Query: "american bison" ; Times: 1
+	Query: "Sylvilagus mansuetus" ; Times: 1
+	Query: "Notocitellus adocetus" ; Times: 1
+	Query: "ursus americanus" ; Times: 1
+	Query: "Glyphonycteris sylvestris" ; Times: 1
+	Query: "order:CHIROPTERA stateprovince:&#34;Oaxaca&#34;" ; Times: 1
+	Query: "genus:peromyscus institutioncode:MSB" ; Times: 1
+	Query: "Sylvilagus cunicularius" ; Times: 1
+	Query: "specificepithet:cinereus genus:sorex year &gt;= 1990 institutioncode:MSB" ; Times: 1
+	Query: "Canis latrans new mexico" ; Times: 1
+	Query: "dipodomys phillipsii" ; Times: 1
+	Query: "Cavia aperea" ; Times: 1
+	Query: "harvard forest genus:peromyscus county:&#34;Worcester&#34; stateprovince:&#34;massachusetts&#34; institutioncode:MSB" ; Times: 1
+	Query: "wolves" ; Times: 1
+	Query: "Mountain Lion" ; Times: 1
+
+
+End of report.
