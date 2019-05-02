@@ -1,0 +1,872 @@
+Report for Institution Code MSB, Resource msb_mamm
+Usage stats for March 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 1006
+Number of records retrieved in searches: 26030
+Number of different countries where searches have been originated: 24
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 61
+	Country: Italy ; Times: 8
+	Country: Unknown ; Times: 3
+	Country: Panama ; Times: 1
+	Country: Costa Rica ; Times: 2
+	Country: Peru ; Times: 13
+	Country: Argentina ; Times: 12
+	Country: Ecuador ; Times: 6
+	Country: Australia ; Times: 1
+	Country: Belgium ; Times: 13
+	Country: Thailand ; Times: 1
+	Country: Netherlands ; Times: 29
+	Country: Denmark ; Times: 45
+	Country: United States ; Times: 732
+	Country: Sweden ; Times: 6
+	Country: Russia ; Times: 5
+	Country: Honduras ; Times: 2
+	Country: Portugal ; Times: 8
+	Country: Mexico ; Times: 28
+	Country: United Kingdom ; Times: 24
+	Country: Austria ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Paraguay ; Times: 2
+	Country: Japan ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-28 ; Times: 30
+	Date: 2019-03-27 ; Times: 15
+	Date: 2019-03-26 ; Times: 14
+	Date: 2019-03-25 ; Times: 25
+	Date: 2019-03-24 ; Times: 10
+	Date: 2019-03-23 ; Times: 9
+	Date: 2019-03-08 ; Times: 40
+	Date: 2019-03-21 ; Times: 36
+	Date: 2019-03-20 ; Times: 88
+	Date: 2019-03-05 ; Times: 35
+	Date: 2019-03-09 ; Times: 34
+	Date: 2019-03-07 ; Times: 37
+	Date: 2019-03-06 ; Times: 58
+	Date: 2019-03-01 ; Times: 43
+	Date: 2019-03-29 ; Times: 46
+	Date: 2019-03-22 ; Times: 25
+	Date: 2019-03-04 ; Times: 32
+	Date: 2019-03-15 ; Times: 22
+	Date: 2019-03-30 ; Times: 36
+	Date: 2019-03-31 ; Times: 28
+	Date: 2019-03-03 ; Times: 16
+	Date: 2019-03-18 ; Times: 31
+	Date: 2019-03-19 ; Times: 36
+	Date: 2019-03-16 ; Times: 19
+	Date: 2019-03-17 ; Times: 72
+	Date: 2019-03-14 ; Times: 61
+	Date: 2019-03-02 ; Times: 4
+	Date: 2019-03-12 ; Times: 14
+	Date: 2019-03-13 ; Times: 46
+	Date: 2019-03-10 ; Times: 21
+	Date: 2019-03-11 ; Times: 23
+
+List of queries that retrieved data from the resource: 
+	Query: "237930" ; Times: 1
+	Query: "MSB 279408" ; Times: 1
+	Query: "Gulo gulo TRUE" ; Times: 1
+	Query: "217679" ; Times: 2
+	Query: "county:&#34;Motley&#34; stateprovince:&#34;Texas&#34; Sigmodon hispidus" ; Times: 2
+	Query: "Lasiurus ega" ; Times: 1
+	Query: "MSB 279401" ; Times: 1
+	Query: "neovison vision" ; Times: 1
+	Query: "delomys" ; Times: 3
+	Query: "country:Ecuador scientificname:Thomasomys cinnameus " ; Times: 3
+	Query: "catalognumber:65844" ; Times: 1
+	Query: "Wolves" ; Times: 1
+	Query: "specificepithet:macrotis genus:Vulpes family:Canidae" ; Times: 1
+	Query: "stateprovince:&#34;Kentucky&#34; specificepithet:leucopus genus:Peromyscus year &gt;= 1950 year &lt;= 2019" ; Times: 1
+	Query: "class:Mammalia county:&#34;Archer&#34;" ; Times: 1
+	Query: "specificepithet:longimembris genus:Perognathus county:&#34;Kane&#34; stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "Microtus montanus hasmass:1" ; Times: 7
+	Query: "&#34;peromyscus&#34; yosemite" ; Times: 3
+	Query: "county:&#34;Motley&#34; stateprovince:&#34;Texas&#34; Perognathus flavescens" ; Times: 1
+	Query: "90727" ; Times: 1
+	Query: "bruce bury" ; Times: 1
+	Query: "puma concolor" ; Times: 3
+	Query: "JF 145" ; Times: 3
+	Query: "aurispinosus" ; Times: 2
+	Query: "Glossophaga morenoi" ; Times: 1
+	Query: "specificepithet:yumanensis genus:Myotis county:&#34;Rio Arriba&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "county:&#34;Wilbarger&#34; stateprovince:&#34;Texas&#34; Chaetodipus hispidus" ; Times: 1
+	Query: "catalognumber:55726" ; Times: 1
+	Query: "micronycteris megalotis" ; Times: 2
+	Query: "dermanura phaeotis" ; Times: 1
+	Query: "american bison" ; Times: 1
+	Query: "specificepithet:bottae genus:Thomomys stateprovince:&#34;California&#34; year &gt;= 2005 year &lt;= 2019 hastissue:1" ; Times: 2
+	Query: "CUNICULUS PACA" ; Times: 1
+	Query: "80729" ; Times: 1
+	Query: "20284" ; Times: 2
+	Query: "dipodomys simulans" ; Times: 1
+	Query: "Meles meles" ; Times: 3
+	Query: "Sorex araneus hasmass:1" ; Times: 1
+	Query: "martes americana" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "county:&#34;WICHITA&#34; stateprovince:&#34;Texas&#34; Peromyscus maniculatus" ; Times: 1
+	Query: "yellowstone 1860" ; Times: 1
+	Query: "Pteropus lylei" ; Times: 1
+	Query: "243120" ; Times: 1
+	Query: "AKODON DOLORES" ; Times: 2
+	Query: "246221" ; Times: 1
+	Query: "genus:Taxidea country:&#34;Mexico&#34;" ; Times: 1
+	Query: "CMC" ; Times: 1
+	Query: "specificepithet:crinitus genus:Peromyscus stateprovince:&#34;Utah&#34; hastissue:1" ; Times: 2
+	Query: "specificepithet:vellerosus genus:Chaetophractus hastissue:1" ; Times: 1
+	Query: "specificepithet:townsendii genus:Corynorhinus county:&#34;Rio Arriba&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "MSB 192170" ; Times: 2
+	Query: "MSB 192173" ; Times: 2
+	Query: "vntype:specimen specificepithet:novemcinctus genus:Dasypus" ; Times: 4
+	Query: "genus:Mustela specificepithet:nigripes" ; Times: 1
+	Query: "Blarina" ; Times: 2
+	Query: "AMNH 409" ; Times: 1
+	Query: "specificepithet:townsendii genus:Corynorhinus county:&#34;Harding&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "KF948583 institutioncode:MSB" ; Times: 1
+	Query: "preparations:baleen" ; Times: 1
+	Query: "Puma concolor mappable:1" ; Times: 20
+	Query: "county:&#34;Motley&#34; stateprovince:&#34;Texas&#34; Dipodomys ordii" ; Times: 1
+	Query: "county:&#34;Clay&#34; stateprovince:&#34;Texas&#34; Peromyscus maniculatus" ; Times: 1
+	Query: "family:Tenrecidae institutioncode:MSB" ; Times: 1
+	Query: "catalognumber:265245 institutioncode:MSB" ; Times: 1
+	Query: "urchin" ; Times: 1
+	Query: "specificepithet:virginiana genus:Didelphis hasmass:1" ; Times: 1
+	Query: "MSB 247079" ; Times: 1
+	Query: "Reid Park Zoo" ; Times: 2
+	Query: "peromyscus californicus AND (maniculatus)" ; Times: 1
+	Query: "santarosae" ; Times: 1
+	Query: "specificepithet:yumanensis genus:Myotis county:&#34;quay&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "MSB 192014" ; Times: 3
+	Query: "specificepithet:volans genus:Myotis county:&#34;Lincoln&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "catalognumber:90894" ; Times: 1
+	Query: "208083" ; Times: 1
+	Query: "94387" ; Times: 1
+	Query: "Panthera uncia" ; Times: 2
+	Query: "specificepithet:albigula genus:Neotoma county:&#34;catron&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:crinitus genus:Peromyscus stateprovince:&#34;Colorado&#34; hastissue:1" ; Times: 1
+	Query: "Didelphis albiventris" ; Times: 2
+	Query: "genus:leopardus country:&#34;United States&#34;" ; Times: 1
+	Query: "Ursus Maritimus" ; Times: 1
+	Query: "Crocuta crocuta" ; Times: 2
+	Query: "specificepithet:crinitus genus:Peromyscus stateprovince:&#34;California&#34; hastissue:1" ; Times: 1
+	Query: "KF948609 institutioncode:MSB" ; Times: 1
+	Query: "287933" ; Times: 1
+	Query: "order:Primates haslength:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:novemcinctus genus:Dasypus hastissue:1" ; Times: 1
+	Query: "54494" ; Times: 1
+	Query: "class:Mammalia county:&#34;Wilbarger&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Abrothrix jelskii" ; Times: 1
+	Query: "70247" ; Times: 1
+	Query: "Chrotopterus auritus" ; Times: 1
+	Query: "KF948591 institutioncode:MSB" ; Times: 1
+	Query: "AF187162 institutioncode:MSB" ; Times: 1
+	Query: "specificepithet:hudsonicus genus:tamiasciurus hasmass:1" ; Times: 1
+	Query: "specificepithet:cinereus genus:Lasiurus stateprovince:&#34;New Mexico&#34;" ; Times: 3
+	Query: "KF948553 institutioncode:MSB" ; Times: 1
+	Query: "287943" ; Times: 2
+	Query: "porcher island" ; Times: 1
+	Query: "MSB 192064" ; Times: 2
+	Query: "&#34;HWY 40&#34; stateprovince:&#34;DURANGO&#34; country:&#34;MEXICO&#34;" ; Times: 1
+	Query: "(Antilocapra americana)" ; Times: 2
+	Query: "specificepithet:velox genus:Vulpes family:Canidae (skull OR skeleton) institutioncode:MSB" ; Times: 1
+	Query: "KF948590 institutioncode:MSB" ; Times: 1
+	Query: "KF948589 institutioncode:MSB" ; Times: 1
+	Query: "Tamandua mexicana" ; Times: 4
+	Query: "specificepithet:velox genus:vulpes family:Canidae AND (NOT UTEP)" ; Times: 1
+	Query: "county:&#34;emery&#34; stateprovince:&#34;utah&#34;" ; Times: 1
+	Query: "Mesophylla macconnelli" ; Times: 3
+	Query: "country:Ecuador scientificname:Proechimys decumanus " ; Times: 2
+	Query: "specificepithet:brasiliensis genus:Tadarida county:&#34;Lincoln&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:lupus genus:Canis family:Canidae stateprovince:&#34;Minnesota&#34;" ; Times: 1
+	Query: "class:Mammalia county:&#34;Cottle&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "249385" ; Times: 1
+	Query: "class:Mammalia catalognumber:15926" ; Times: 1
+	Query: "specificepithet:hudsonicus genus:Tamiasciurus hasmass:1" ; Times: 3
+	Query: "mountain goat" ; Times: 1
+	Query: "lontra" ; Times: 1
+	Query: "246225" ; Times: 1
+	Query: "Bradypus variegatus mappable:1" ; Times: 25
+	Query: "scapanus latimanus occultus" ; Times: 1
+	Query: "msb 289500" ; Times: 1
+	Query: "specificepithet:fulvescens genus:reithrodontomys stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "specificepithet:nigripes genus:mustela" ; Times: 1
+	Query: "specificepithet:virginianus genus:odocoileus hastissue:1" ; Times: 1
+	Query: "208078" ; Times: 1
+	Query: "catalognumber:27781" ; Times: 3
+	Query: "Peropteryx kappleri" ; Times: 1
+	Query: "mus musculus 322 alaska" ; Times: 1
+	Query: "county:&#34;Wichita&#34; stateprovince:&#34;Texas&#34; Dipodomys elator" ; Times: 1
+	Query: "country:Ecuador scientificname:Cryptotis montivaga " ; Times: 2
+	Query: "specificepithet:carolinensis genus:Sciurus hasmass:1" ; Times: 1
+	Query: "class:Mammalia county:&#34;Haskell&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "MSB 191304" ; Times: 2
+	Query: "MSB 191302" ; Times: 2
+	Query: "91415" ; Times: 1
+	Query: "specificepithet:novemcinctus genus:Dasypus hastissue:1" ; Times: 3
+	Query: "Panthera onca" ; Times: 8
+	Query: "cheetah" ; Times: 1
+	Query: "order:Artiodactyla distance(location,geopoint(58.425932110863705,-133.125))&lt;614862" ; Times: 1
+	Query: "125668" ; Times: 2
+	Query: "Vulpes macrotis hasmass:1" ; Times: 2
+	Query: "specificepithet:velox genus:Vulpes family:Canidae institutioncode:MSB" ; Times: 1
+	Query: "catalognumber:93838" ; Times: 1
+	Query: "Scotinomys" ; Times: 8
+	Query: "KF948586 institutioncode:MSB" ; Times: 1
+	Query: "phodopus" ; Times: 1
+	Query: "country:Ecuador scientificname:Akodon mollis " ; Times: 8
+	Query: "genus:Mustela specificepithet:nigripes mappable:1" ; Times: 2
+	Query: "country:Ecuador scientificname:Akodon aerosus " ; Times: 3
+	Query: "country:Ecuador scientificname:Thomasomys aureus " ; Times: 7
+	Query: "specificepithet:jelskii genus:Abrothrix hastissue:1" ; Times: 1
+	Query: "county:&#34;Cottle&#34; stateprovince:&#34;Texas&#34; Reithrodontomys montanus" ; Times: 1
+	Query: "KF948551 institutioncode:MSB" ; Times: 1
+	Query: "(Ribble)" ; Times: 4
+	Query: "Manis temminckii hasmass:1" ; Times: 1
+	Query: "specificepithet:townsendii genus:Corynorhinus stateprovince:&#34;New Mexico&#34;" ; Times: 2
+	Query: "specificepithet:yumanensis genus:Myotis county:&#34;Luna&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:thysanodes genus:Myotis county:&#34;Luna&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "278934" ; Times: 3
+	Query: "278933" ; Times: 1
+	Query: "38014" ; Times: 1
+	Query: "class:Mammalia county:&#34;King&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "15285" ; Times: 1
+	Query: "307138" ; Times: 1
+	Query: "vntype:specimen specificepithet:micropus genus:Neotoma county:&#34;Wichita&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:brasiliensis genus:Tadarida county:&#34;San Miguel&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "KF948611 institutioncode:MSB" ; Times: 1
+	Query: "county:&#34;Cottle&#34; stateprovince:&#34;Texas&#34; Baiomys taylori" ; Times: 1
+	Query: "specificepithet:simulans genus:Dipodomys" ; Times: 1
+	Query: "AF187160 institutioncode:MSB" ; Times: 1
+	Query: "KF948601 institutioncode:MSB" ; Times: 1
+	Query: "specificepithet:volans genus:Myotis county:&#34;Eddy&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "245326" ; Times: 1
+	Query: "KF948592 institutioncode:MSB" ; Times: 1
+	Query: "nevadensis vntype:specimen specificepithet:macrotis genus:Vulpes family:Canidae" ; Times: 1
+	Query: "Tamias ochrogenys" ; Times: 1
+	Query: "Mus musculus vntype:specimen haslifestage:1 hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:canadensis genus:Castor" ; Times: 5
+	Query: "sus scrofa" ; Times: 4
+	Query: "Marmosa robinsoni" ; Times: 3
+	Query: "Salpingotus" ; Times: 1
+	Query: "specificepithet:volans genus:Myotis county:&#34;Cibola&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Otospermophilus beecheyi hasmass:1" ; Times: 2
+	Query: "MSB 143033" ; Times: 1
+	Query: "specificepithet:crinitus genus:Peromyscus stateprovince:&#34;Arizona&#34; hastissue:1" ; Times: 1
+	Query: "class:Mammalia county:&#34;Tom Green&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:pilosus genus:Dasypus" ; Times: 2
+	Query: "specificepithet:volans genus:Myotis stateprovince:&#34;New Mexico&#34;" ; Times: 2
+	Query: "specificepithet:crinitus genus:Peromyscus stateprovince:&#34;Nevada&#34; hastissue:1" ; Times: 1
+	Query: "AF187163 institutioncode:MSB" ; Times: 1
+	Query: "MSB 195107" ; Times: 1
+	Query: "MSB 195108" ; Times: 1
+	Query: "specificepithet:thysanodes genus:Myotis stateprovince:&#34;New Mexico&#34;" ; Times: 3
+	Query: "catalognumber:50694" ; Times: 1
+	Query: "209110" ; Times: 1
+	Query: "KF948587 institutioncode:MSB" ; Times: 1
+	Query: "Parastrellus hesperus" ; Times: 2
+	Query: "12308" ; Times: 1
+	Query: "103378" ; Times: 1
+	Query: "genus:Tamiasciurus hasmass:1" ; Times: 1
+	Query: "KF948533 institutioncode:MSB" ; Times: 1
+	Query: "vntype:specimen specificepithet:taylori genus:Baiomys stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:thysanodes genus:Myotis county:&#34;Union&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:yumanensis genus:myotis county:&#34;Riverside&#34;" ; Times: 1
+	Query: "specificepithet:rufus genus:Canis family:Canidae institutioncode:MSB" ; Times: 1
+	Query: "Sturnira mordax" ; Times: 2
+	Query: "county:&#34;Wilbarger&#34; stateprovince:&#34;Texas&#34; Dipodomys elator" ; Times: 1
+	Query: "specificepithet:volans genus:Myotis county:&#34;Union&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Urocyon hastissue:1" ; Times: 5
+	Query: "vntype:specimen specificepithet:micropus genus:Neotoma county:&#34;Cottle&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:cinereus genus:Lasiurus county:&#34;Mora&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "class:Mammalia county:&#34;Clay&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "216696" ; Times: 1
+	Query: "216697" ; Times: 1
+	Query: "21113" ; Times: 1
+	Query: "monster" ; Times: 1
+	Query: "specificepithet:longimembris genus:Perognathus county:&#34;San Diego&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "county:&#34;Hardeman&#34; stateprovince:&#34;Texas&#34; Chaetodipus hispidus" ; Times: 1
+	Query: "country:Ecuador scientificname:Thomasomys caudivarius " ; Times: 6
+	Query: "25127" ; Times: 1
+	Query: "MSB 192162" ; Times: 2
+	Query: "country:Ecuador scientificname:Proechimys semispinosus " ; Times: 2
+	Query: "catalognumber:128295 institutioncode:MSB" ; Times: 1
+	Query: "KF948593 institutioncode:MSB" ; Times: 1
+	Query: "196694" ; Times: 1
+	Query: "genus:Dasypus hastissue:1" ; Times: 2
+	Query: "Mus haslifestage:1 hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "MSB 144464" ; Times: 1
+	Query: "specificepithet:boylii genus:Peromyscus locality:Glenwood stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:nana genus:Brachyphylla" ; Times: 1
+	Query: "Cuniculus paca mappable:1" ; Times: 1
+	Query: "KF948596 institutioncode:MSB" ; Times: 1
+	Query: "Choeroniscus godmani" ; Times: 1
+	Query: "Can is lupus" ; Times: 1
+	Query: "Eumops auripendulus" ; Times: 1
+	Query: "Eira barbara" ; Times: 1
+	Query: "MSB 193344" ; Times: 1
+	Query: "genus:Dasypus" ; Times: 1
+	Query: "DMNS 13136" ; Times: 2
+	Query: "13871" ; Times: 1
+	Query: "319573" ; Times: 3
+	Query: "AF187180 institutioncode:MSB" ; Times: 1
+	Query: "genus:Reithrodontomys locality:Glenwood stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "county:&#34;Hardeman&#34; stateprovince:&#34;Texas&#34; Peromyscus attwateri" ; Times: 1
+	Query: "MSB 144164" ; Times: 1
+	Query: "MSB 144161" ; Times: 1
+	Query: "specificepithet:evotis genus:Myotis county:&#34;Luna&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:gymnocercus country:&#34;Paraguay&#34;" ; Times: 2
+	Query: "&#34;Stylodipus&#34;" ; Times: 1
+	Query: "class:Mammalia county:&#34;Young&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "MSB 144497" ; Times: 1
+	Query: "country:Ecuador scientificname:Carollia castanea " ; Times: 3
+	Query: "specificepithet:hoyi genus:Sorex hasmass:1 haslength:1" ; Times: 2
+	Query: "genus:microtus county:&#34;humboldt&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "EIRA BARBARA" ; Times: 1
+	Query: "specificepithet:velifer genus:Myotis county:&#34;catron&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "KF948535 institutioncode:MSB" ; Times: 1
+	Query: "specificepithet:erminea genus:Mustela stateprovince:&#34;Alaska&#34; hastissue:1" ; Times: 1
+	Query: "Triple tail" ; Times: 1
+	Query: "catalognumber:5586" ; Times: 2
+	Query: "*Urocitellus columbianus" ; Times: 2
+	Query: "genus:Tamiasciurus institutioncode:MSB" ; Times: 1
+	Query: "baiomys musculus" ; Times: 1
+	Query: "specificepithet:fuscus genus:Eptesicus stateprovince:&#34;New Mexico&#34;" ; Times: 3
+	Query: "90085" ; Times: 1
+	Query: "neovison vison" ; Times: 14
+	Query: "239492" ; Times: 1
+	Query: "specificepithet:virginianus genus:bubo hastissue:1" ; Times: 1
+	Query: "county:&#34;Cottle&#34; stateprovince:&#34;Texas&#34; Onychomys leucogaster" ; Times: 1
+	Query: "Lycalopex gymnocercus mappable:1" ; Times: 1
+	Query: "AF187164 institutioncode:MSB" ; Times: 1
+	Query: "class:Mammalia county:&#34;Stephens&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "KF948607 institutioncode:MSB" ; Times: 1
+	Query: "KF948585 institutioncode:MSB" ; Times: 1
+	Query: "Nycticeius" ; Times: 1
+	Query: "92210" ; Times: 2
+	Query: "county:&#34;Baylor&#34; stateprovince:&#34;Texas&#34; Peromyscus leucopus" ; Times: 1
+	Query: "leopardus" ; Times: 1
+	Query: "stateprovince:&#34;kentucky&#34; specificepithet:maniculatus genus:Peromyscus year &gt;= 1900 year &lt;= 2019" ; Times: 3
+	Query: "KF948547 institutioncode:MSB" ; Times: 1
+	Query: "56147" ; Times: 1
+	Query: "specificepithet:castanops genus:cratogeomys stateprovince:&#34;new mexico&#34;" ; Times: 4
+	Query: "catalognumber:1393" ; Times: 1
+	Query: "specificepithet:lepidus genus:Crotalus county:&#34;Jeff Davis&#34; stateprovince:&#34;Texas&#34; institutioncode:MSB basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:78125" ; Times: 1
+	Query: "Pickering" ; Times: 1
+	Query: "121677" ; Times: 1
+	Query: "121679" ; Times: 1
+	Query: "specificepithet:lepidus genus:Calomys country:&#34;Bolivia&#34; continent:America" ; Times: 1
+	Query: "specificepithet:falcatus genus:Phyllops" ; Times: 1
+	Query: "39771" ; Times: 1
+	Query: "lonchophylla" ; Times: 1
+	Query: "genus:Ochotona stateprovince:&#34;New Mexico&#34; institutioncode:MSB" ; Times: 1
+	Query: "microsciurus" ; Times: 1
+	Query: "skeleton genus:cratogeomys family:geomyidae order:rodentia class:MAMMALIA" ; Times: 1
+	Query: "MSB 110998" ; Times: 1
+	Query: "calomys lepidus" ; Times: 1
+	Query: "Myotis keaysi" ; Times: 1
+	Query: "AMNH 8649" ; Times: 1
+	Query: "specificepithet:villosus genus:Chaetophractus hastissue:1" ; Times: 1
+	Query: "specificepithet:yumanensis genus:Myotis county:&#34;bernalillo&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Sorex tenellus" ; Times: 1
+	Query: "Brachyphylla nana" ; Times: 1
+	Query: "MSB 144463" ; Times: 1
+	Query: "specificepithet:evotis genus:Myotis stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "mm 424" ; Times: 1
+	Query: "AF187161 institutioncode:MSB" ; Times: 1
+	Query: "Hypsignathus" ; Times: 1
+	Query: "baileyi specificepithet:lupus genus:Canis family:Canidae institutioncode:MSB" ; Times: 1
+	Query: "distance(location,geopoint(33.529,-105.694))&lt;2000" ; Times: 3
+	Query: "DMNS 12963" ; Times: 3
+	Query: "DMNS 12960" ; Times: 1
+	Query: "specificepithet:velifer genus:Myotis county:&#34;Grant&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "genus:nyctinomops stateprovince:&#34;new mexico&#34;" ; Times: 2
+	Query: "specificepithet:timidus genus:Lepus hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:albigula genus:Neotoma county:&#34;Hardeman&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "baileyi specificepithet:lupus genus:Canis family:Canidae (skull OR skeleton) institutioncode:MSB" ; Times: 1
+	Query: "Napeozapus insignis" ; Times: 2
+	Query: "KF948603 institutioncode:MSB" ; Times: 1
+	Query: "specificepithet:longimembris genus:Perognathus county:&#34;Imperial&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:yumanensis genus:Myotis county:&#34;Santa Fe&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "county:&#34;Archer&#34; stateprovince:&#34;Texas&#34; Peromyscus maniculatus" ; Times: 1
+	Query: "specificepithet:cinereus genus:Lasiurus county:&#34;Dona Ana&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "county:&#34;Clay&#34; stateprovince:&#34;Texas&#34; Reithrodontomys montanus" ; Times: 1
+	Query: "MSB 144049" ; Times: 1
+	Query: "specificepithet:yumanensis genus:Myotis stateprovince:&#34;New Mexico&#34;" ; Times: 3
+	Query: "Tupaia glis" ; Times: 1
+	Query: "country:Ecuador scientificname:Neusticomys monticolus " ; Times: 1
+	Query: "catalognumber:90893" ; Times: 1
+	Query: "specificepithet:yumanensis genus:Myotis county:&#34;Hidalgo&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "county:&#34;Wilbarger&#34; stateprovince:&#34;Texas&#34; Peromyscus leucopus" ; Times: 1
+	Query: "287944" ; Times: 1
+	Query: "specificepithet:cinereus genus:Lasiurus county:&#34;Torrance&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Transandinomys talamancae " ; Times: 2
+	Query: "TCWC" ; Times: 4
+	Query: "vntype:specimen specificepithet:micropus genus:Neotoma county:&#34;Baylor&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "278942" ; Times: 1
+	Query: "278943" ; Times: 6
+	Query: "vntype:specimen genus:Dasypus" ; Times: 1
+	Query: "137524" ; Times: 1
+	Query: "278944" ; Times: 1
+	Query: "specificepithet:vellerosus genus:Chaetophractus" ; Times: 1
+	Query: "country:Ecuador scientificname:Thomasomys hudsoni " ; Times: 7
+	Query: "genus:rattus stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Marmosa simonsi " ; Times: 1
+	Query: "specificepithet:scrofa genus:sus month &gt;= 2 month &lt;= 5" ; Times: 2
+	Query: "Ctenomys" ; Times: 1
+	Query: "class:Mammalia county:&#34;Foard&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Akodon CM" ; Times: 1
+	Query: "genus:(mustela) stateprovince:(virginia) AND NOT stateprovince:(west virginia)" ; Times: 3
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 2
+	Query: "pygeretmus" ; Times: 1
+	Query: "70265" ; Times: 2
+	Query: "specificepithet:subflavus genus:Perimyotis stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:townsendii genus:Corynorhinus county:&#34;Los Alamos&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "county:&#34;Cottle&#34; stateprovince:&#34;Texas&#34; Perognathus merriami" ; Times: 1
+	Query: "Lophostoma" ; Times: 2
+	Query: "Crocuta crocuta skeleton" ; Times: 1
+	Query: "Sciurus carolinensis vntype:specimen hastissue:1" ; Times: 2
+	Query: "specificepithet:amplus genus:Perognathus hastissue:1" ; Times: 1
+	Query: "MSB 192245" ; Times: 2
+	Query: "KF948605 institutioncode:MSB" ; Times: 1
+	Query: "nyctinomops aurispinosus" ; Times: 4
+	Query: "KF948595 institutioncode:MSB" ; Times: 1
+	Query: "country:Ecuador scientificname:Caenolestes fuliginosus " ; Times: 2
+	Query: "307191" ; Times: 1
+	Query: "307192" ; Times: 1
+	Query: "catalognumber:4957" ; Times: 1
+	Query: "KF948598 institutioncode:MSB" ; Times: 1
+	Query: "specificepithet:nigripes stateprovince:((wyoming OR south dakota))" ; Times: 1
+	Query: "specificepithet:longimembris genus:Perognathus county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Thylamys elegans" ; Times: 1
+	Query: "KF948600 institutioncode:MSB" ; Times: 1
+	Query: "Euchoreutes" ; Times: 1
+	Query: "UIMNH 6269" ; Times: 1
+	Query: "265435" ; Times: 1
+	Query: "48319" ; Times: 1
+	Query: "Pteronotus mesoamericanus" ; Times: 1
+	Query: "UIMNH 10000" ; Times: 1
+	Query: "mearnsi vntype:specimen specificepithet:latrans genus:canis family:Canidae" ; Times: 1
+	Query: "boliviae" ; Times: 1
+	Query: "san diego vntype:specimen specificepithet:macrotis genus:Vulpes family:Canidae stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "class:Mammalia county:&#34;Archer&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Nephelomys devius" ; Times: 1
+	Query: "specificepithet:velifer genus:Myotis stateprovince:&#34;New Mexico&#34;" ; Times: 2
+	Query: "catalognumber:120291" ; Times: 1
+	Query: "Lontra canadensis hasmass:1" ; Times: 1
+	Query: "acadia" ; Times: 1
+	Query: "specificepithet:cinereus genus:Lasiurus county:&#34;Roosevelt&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "county:&#34;Baylor&#34; stateprovince:&#34;Texas&#34; Reithrodontomys fulvescens" ; Times: 1
+	Query: "country:Ecuador scientificname:Thomasomys baeops " ; Times: 4
+	Query: "specificepithet:brasiliensis genus:Tadarida county:&#34;LUna&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "196693" ; Times: 1
+	Query: "county:&#34;Motley&#34; stateprovince:&#34;Texas&#34; Peromyscus maniculatus" ; Times: 1
+	Query: "15088" ; Times: 1
+	Query: "specificepithet:parvus genus:Perognathus county:&#34;Inyo&#34;" ; Times: 1
+	Query: "KF948602 institutioncode:MSB" ; Times: 1
+	Query: "Blarina brevicauda" ; Times: 3
+	Query: "catalognumber:137993" ; Times: 1
+	Query: "genus:Didelphis hasmass:1" ; Times: 1
+	Query: "genus:Dasypus basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "class:Mammalia county:&#34;Brown&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:fuscus genus:Eptesicus county:&#34;San Miguel&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "KF948584 institutioncode:MSB" ; Times: 1
+	Query: "Urocitellus columbianus" ; Times: 1
+	Query: "specificepithet:lepidus genus:Crotalus county:&#34;Jeff Davis&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 4
+	Query: "Akodon toba" ; Times: 9
+	Query: "county:&#34;Wichita&#34; stateprovince:&#34;Texas&#34; Sigmodon hispidus" ; Times: 2
+	Query: "11583" ; Times: 1
+	Query: "catalognumber:75387" ; Times: 1
+	Query: "37157" ; Times: 1
+	Query: "specificepithet:longimembris genus:Perognathus county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 3
+	Query: "lonchophylla mordax hastypestatus:1" ; Times: 8
+	Query: "country:Ecuador scientificname:Sigmodon peruanus " ; Times: 4
+	Query: "MSB 149290" ; Times: 1
+	Query: "108252" ; Times: 3
+	Query: "237931" ; Times: 1
+	Query: "MSB 144179" ; Times: 1
+	Query: "specificepithet:townsendii genus:Corynorhinus county:&#34;Mora&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "dipodomys ingens" ; Times: 2
+	Query: "specificepithet:brasiliensis genus:Tadarida stateprovince:&#34;New Mexico&#34;" ; Times: 2
+	Query: "Vulpes velox" ; Times: 1
+	Query: "84104" ; Times: 1
+	Query: "leptonycteris yerbabuenae" ; Times: 2
+	Query: "Rhynchonycteris naso" ; Times: 1
+	Query: "KF948588 institutioncode:MSB" ; Times: 1
+	Query: "locality:coon island" ; Times: 1
+	Query: "county:&#34;Wilbarger&#34; stateprovince:&#34;Texas&#34; Peromyscus maniculatus" ; Times: 1
+	Query: "Coendou mappable:1" ; Times: 1
+	Query: "county:&#34;Motley&#34; stateprovince:&#34;Texas&#34; Chaetodipus hispidus" ; Times: 1
+	Query: "specificepithet:vison" ; Times: 2
+	Query: "specificepithet:volans genus:Myotis county:&#34;Grant&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "73139" ; Times: 1
+	Query: "specificepithet:cinereus genus:Lasiurus county:&#34;Curry&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "54471" ; Times: 1
+	Query: "specificepithet:thysanodes genus:Myotis county:&#34;eddy&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "MSB 145611" ; Times: 1
+	Query: "Acinonyx jubatus" ; Times: 3
+	Query: "MSB 145612" ; Times: 1
+	Query: "genus:Zapus county:&#34;Colfax&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "KF948597 institutioncode:MSB" ; Times: 1
+	Query: "specificepithet:yumanensis genus:Myotis county:&#34;Mora&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "genus:Napaeozapus stateprovince:&#34;Minnesota&#34;" ; Times: 3
+	Query: "12219" ; Times: 1
+	Query: "12218" ; Times: 1
+	Query: "MSB 155818" ; Times: 1
+	Query: "KF948604 institutioncode:MSB" ; Times: 1
+	Query: "class:Mammalia county:&#34;Hardeman&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Onychomys locality:Pleasanton stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "stateprovince:&#34;texas&#34; specificepithet:arenarius genus:geomys year &gt;= 1990 year &lt;= 2015" ; Times: 2
+	Query: "Neovison" ; Times: 4
+	Query: "Leopardus pardalis" ; Times: 4
+	Query: "specificepithet:velox genus:Vulpes stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "MSB 155817" ; Times: 1
+	Query: "DMNS 12363" ; Times: 3
+	Query: "genus:Nyctinomops stateprovince:&#34;New Mexico&#34;" ; Times: 2
+	Query: "AKODON DAYI" ; Times: 2
+	Query: "specificepithet:femorosaccus genus:Nyctinomops stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:velox genus:vulpes family:Canidae" ; Times: 1
+	Query: "island specificepithet:pennsylvanicus genus:microtus stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "specificepithet:crinitus genus:Peromyscus stateprovince:&#34;New Mexico&#34; hastissue:1" ; Times: 1
+	Query: "specificepithet:brasiliensis genus:Tadarida county:&#34;Roosevelt&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "KF948599 institutioncode:MSB" ; Times: 1
+	Query: "country:Ecuador scientificname:Glossophaga soricina " ; Times: 2
+	Query: "neotamias minimus" ; Times: 3
+	Query: "253025" ; Times: 1
+	Query: "253023" ; Times: 1
+	Query: "scapanus latimanus anthonyi" ; Times: 1
+	Query: "specificepithet:tajacu genus:Pecari stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "202429" ; Times: 1
+	Query: "specificepithet:fuscus genus:Eptesicus county:&#34;colfax&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "MSB 246736" ; Times: 1
+	Query: "181986" ; Times: 1
+	Query: "lonchophylla mordax" ; Times: 1
+	Query: "Tamandua tetradactyla" ; Times: 3
+	Query: "stateprovince:&#34;California&#34; (Antilocapra americana)" ; Times: 1
+	Query: "specificepithet:macrotis genus:Vulpes country:&#34;Mexico&#34;" ; Times: 1
+	Query: "apodemus chevrieri" ; Times: 1
+	Query: "MSB 144328" ; Times: 1
+	Query: "MSB 144329" ; Times: 1
+	Query: "54495" ; Times: 1
+	Query: "idigbio mappable:1" ; Times: 2
+	Query: "MSB 144287" ; Times: 1
+	Query: "KF948534 institutioncode:MSB" ; Times: 1
+	Query: "MSB 144288" ; Times: 1
+	Query: "county:&#34;Wichita&#34; stateprovince:&#34;Texas&#34; Chaetodipus hispidus" ; Times: 2
+	Query: "country:Ecuador scientificname:Phyllotis haggardi " ; Times: 5
+	Query: "specificepithet:lepidus genus:Calomys country:&#34;Argentina&#34; continent:America" ; Times: 1
+	Query: "specificepithet:lepidus genus:Calomys country:&#34;Chile&#34; continent:America" ; Times: 1
+	Query: "county:&#34;Cottle&#34; stateprovince:&#34;Texas&#34; Chaetodipus hispidus" ; Times: 1
+	Query: "chiroderma" ; Times: 1
+	Query: "county:&#34;Hardeman&#34; stateprovince:&#34;Texas&#34; Neotoma albigula" ; Times: 1
+	Query: "Phyllonycteris poeyi" ; Times: 1
+	Query: "Cardiocranius" ; Times: 1
+	Query: "Sigmodon fulviventer fulviventer" ; Times: 1
+	Query: "canis mesomelas" ; Times: 1
+	Query: "MSB 145401" ; Times: 1
+	Query: "vntype:specimen specificepithet:micropus genus:Neotoma county:&#34;Archer&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:townsendii genus:Corynorhinus county:&#34;Colfax&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "msb 68547" ; Times: 1
+	Query: "MSB 144037" ; Times: 1
+	Query: "specificepithet:fuscus genus:Eptesicus county:&#34;Harding&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "KF948608 institutioncode:MSB" ; Times: 1
+	Query: "KF948552 institutioncode:MSB" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus locality:Glenwood stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:volans genus:Myotis county:&#34;Hidalgo&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "county:&#34;Baylor&#34; stateprovince:&#34;Texas&#34; Peromyscus attwateri" ; Times: 1
+	Query: "specificepithet:cinereus genus:Lasiurus county:&#34;Otero&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "genus:Chrotopterus haslength:1" ; Times: 1
+	Query: "218165" ; Times: 1
+	Query: "specificepithet:erminea genus:Mustela stateprovince:&#34;alaska&#34; hastissue:1" ; Times: 1
+	Query: "MSB 192148" ; Times: 2
+	Query: "specificepithet:ochrogaster genus:microtus hastissue:1" ; Times: 6
+	Query: "33977" ; Times: 1
+	Query: "Abrothrix olivaceus mappable:1" ; Times: 6
+	Query: "genus:pongo" ; Times: 1
+	Query: "specificepithet:brasiliensis genus:Tadarida county:&#34;Harding&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "KF948594 institutioncode:MSB" ; Times: 1
+	Query: "erethizon" ; Times: 1
+	Query: "KF948606 institutioncode:MSB" ; Times: 1
+	Query: "MSB 145714" ; Times: 1
+	Query: "specificepithet:velifer genus:Myotis county:&#34;Otero&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "county:&#34;Motley&#34; stateprovince:&#34;Texas&#34; Onychomys leucogaster" ; Times: 1
+	Query: "Puma concolor in California" ; Times: 2
+	Query: "specificepithet:novemcinctus genus:Dasypus" ; Times: 7
+	Query: "vntype:specimen family:Canidae (zoo OR captive)" ; Times: 1
+	Query: "specificepithet:thysanodes genus:Myotis county:&#34;Mora&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "125594" ; Times: 1
+	Query: "mummy" ; Times: 1
+	Query: "147828" ; Times: 1
+	Query: "county:&#34;Cottle&#34; stateprovince:&#34;Texas&#34; Peromyscus leucopus" ; Times: 1
+	Query: "KF948548 institutioncode:MSB" ; Times: 1
+	Query: "country:Ecuador scientificname:Microryzomys altissimus " ; Times: 4
+	Query: "specificepithet:brasiliensis genus:Tadarida county:&#34;Grant&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "franklinii" ; Times: 1
+	Query: "specificepithet:villosus genus:Chaetophractus" ; Times: 1
+	Query: "catalognumber:265312 institutioncode:MSB" ; Times: 1
+	Query: "62264" ; Times: 1
+	Query: "217429" ; Times: 1
+	Query: "specificepithet:volans genus:Myotis county:&#34;San Miguel&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Nephelomys albigularis " ; Times: 2
+	Query: "mustela erminea" ; Times: 1
+	Query: "Centurio senex" ; Times: 1
+	Query: "specificepithet:albigula genus:Neotoma locality:Pleasanton stateprovince:&#34;New Mexico&#34;" ; Times: 2
+	Query: "23317" ; Times: 2
+	Query: "Lonchophylla mordax" ; Times: 3
+	Query: "Puma concolor hasmass:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:micropus genus:Neotoma county:&#34;Wilbarger&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "51438" ; Times: 1
+	Query: "myotis ciliolabrum" ; Times: 1
+	Query: "KF948549 institutioncode:MSB" ; Times: 1
+	Query: "289037" ; Times: 1
+	Query: "specificepithet:chrotorrhinus genus:Microtus" ; Times: 1
+	Query: "60925" ; Times: 1
+	Query: "black bear" ; Times: 1
+	Query: "specificepithet:yumanensis genus:Myotis county:&#34;Cibola&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "catalognumber:25992" ; Times: 1
+	Query: "278493" ; Times: 2
+	Query: "MSB 246775" ; Times: 1
+	Query: "Reithrodontomys fulvescens" ; Times: 7
+	Query: "MSB Akodon" ; Times: 7
+	Query: "allactaga" ; Times: 1
+	Query: "class:Mammalia county:&#34;Wichita&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "AF187166 institutioncode:MSB" ; Times: 1
+	Query: "LEOPARDUS PARDALIS" ; Times: 1
+	Query: "class:Mammalia county:&#34;Baylor&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:cinereus genus:Lasiurus county:&#34;McKinley&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:steinbachi country:&#34;Bolivia&#34; hastissue:1" ; Times: 1
+	Query: "KF948612 institutioncode:MSB" ; Times: 1
+	Query: "county:&#34;Hardeman&#34; stateprovince:&#34;Texas&#34; Peromyscus leucopus" ; Times: 1
+	Query: "Perognathus longimembris bombycinus" ; Times: 2
+	Query: "Gracilinanus" ; Times: 1
+	Query: "mus musculus 322" ; Times: 2
+	Query: "KF948546 institutioncode:MSB" ; Times: 1
+	Query: "genus:(mustela) stateprovince:(virginia)" ; Times: 3
+	Query: "specificepithet:thysanodes genus:Myotis county:&#34;Taos&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:townsendii genus:Corynorhinus county:&#34;Hidalgo&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Panthera uncia vntype:specimen" ; Times: 1
+	Query: "Perognathus longimembris Baja" ; Times: 1
+	Query: "MSB 191939" ; Times: 2
+	Query: "specificepithet:boylii genus:Peromyscus locality:Pleasanton stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Zapus hudsonius preblei" ; Times: 3
+	Query: "KF948610 institutioncode:MSB" ; Times: 1
+	Query: "catalognumber:259648" ; Times: 1
+	Query: "KF948550 institutioncode:MSB" ; Times: 1
+	Query: "brucepattersonius" ; Times: 1
+	Query: "specificepithet:brevicauda genus:Blarina" ; Times: 3
+	Query: "stateprovince:&#34;Kentucky&#34; specificepithet:leucopus genus:Peromyscus year &gt;= 1900 year &lt;= 2019" ; Times: 5
+	Query: "MSB 144084" ; Times: 1
+	Query: "MSB 144083" ; Times: 1
+	Query: "Chibchanomys" ; Times: 1
+	Query: "Oreamnos americanus" ; Times: 1
+	Query: "specificepithet:velifer genus:Myotis county:&#34;socorro&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "15384" ; Times: 1
+	Query: "DMNS 13113" ; Times: 1
+	Query: "Lynx canadensis hasmass:1" ; Times: 1
+	Query: "DMNS 13115" ; Times: 1
+	Query: "278924" ; Times: 1
+	Query: "marmot" ; Times: 1
+	Query: "specificepithet:volans genus:Myotis county:&#34;Luna&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "25563" ; Times: 1
+	Query: "specificepithet:brasiliensis genus:Tadarida county:&#34;Rio Arriba&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "genus:Nycticeius" ; Times: 1
+	Query: "vntype:specimen genus:ORYX" ; Times: 1
+	Query: "140994" ; Times: 1
+	Query: "236134" ; Times: 1
+	Query: "MSB 192135" ; Times: 2
+	Query: "specificepithet:fuscus genus:Eptesicus county:&#34;Torrance&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "genus:antilocapra stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:mustela hastypestatus:1" ; Times: 4
+	Query: "dipus" ; Times: 1
+	Query: "Oligoryzomys andinus" ; Times: 1
+	Query: "Eptesicus furinalis" ; Times: 1
+	Query: "AF187165 institutioncode:MSB" ; Times: 1
+	Query: "muricus erminea" ; Times: 1
+	Query: "vntype:specimen family:Canidae (zoo OR captive) AND (NOT familiaris)" ; Times: 1
+	Query: "lonchophylla hastypestatus:1" ; Times: 3
+	Query: "Carollia subrufa" ; Times: 1
+	Query: "113188" ; Times: 1
+	Query: "diaemus youngi" ; Times: 2
+	Query: "specificepithet:truei genus:Peromyscus locality:glenwood stateprovince:&#34;New Mexico&#34;" ; Times: 2
+	Query: "specificepithet:bottae genus:Thomomys stateprovince:&#34;California&#34; hastissue:1" ; Times: 1
+	Query: "Microtus richardsoni" ; Times: 1
+	Query: "specificepithet:fuscus genus:Eptesicus county:&#34;Santa Fe&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "298218" ; Times: 1
+	Query: "Vormela peregusna" ; Times: 1
+	Query: "specificepithet:albigula genus:Neotoma locality:Glenwood stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "gbifdatasetid:b15d4952-7d20-46f1-8a3e-556a512b04c5" ; Times: 2
+	Query: "Sylvilagus brasiliensis mappable:1" ; Times: 1
+	Query: "county:&#34;Wilbarger&#34; stateprovince:&#34;Texas&#34; Perognathus merriami" ; Times: 1
+	Query: "potato" ; Times: 1
+	Query: "vntype:specimen class:mammalia institutioncode:MSB" ; Times: 1
+	Query: "vntype:specimen county:&#34;Archer&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:brasiliensis genus:Tadarida county:&#34;Mora&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "NYCTINOMOPS FEMOROSACCUS" ; Times: 1
+	Query: "specificepithet:sungorus genus:phodopus hasmass:1" ; Times: 2
+	Query: "vntype:specimen specificepithet:micropus genus:Neotoma county:&#34;Motley&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Artibeus hirsutus" ; Times: 4
+	Query: "Stylodipus" ; Times: 1
+	Query: "287934" ; Times: 1
+	Query: "228547" ; Times: 1
+	Query: "acadia national park" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 129 (out of 1281 download events in this period)
+Total number of records downloaded: 18793
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: United States ; Times: 85
+	Country: Portugal ; Times: 7
+	Country: Mexico ; Times: 13
+	Country: United Kingdom ; Times: 14
+	Country: Austria ; Times: 1
+	Country: Peru ; Times: 3
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-27 ; Times: 1
+	Date: 2019-03-26 ; Times: 1
+	Date: 2019-03-25 ; Times: 5
+	Date: 2019-03-24 ; Times: 1
+	Date: 2019-03-23 ; Times: 2
+	Date: 2019-03-08 ; Times: 18
+	Date: 2019-03-21 ; Times: 7
+	Date: 2019-03-20 ; Times: 7
+	Date: 2019-03-04 ; Times: 1
+	Date: 2019-03-07 ; Times: 24
+	Date: 2019-03-06 ; Times: 5
+	Date: 2019-03-01 ; Times: 3
+	Date: 2019-03-29 ; Times: 3
+	Date: 2019-03-22 ; Times: 9
+	Date: 2019-03-15 ; Times: 1
+	Date: 2019-03-31 ; Times: 2
+	Date: 2019-03-03 ; Times: 4
+	Date: 2019-03-18 ; Times: 1
+	Date: 2019-03-19 ; Times: 3
+	Date: 2019-03-16 ; Times: 5
+	Date: 2019-03-17 ; Times: 8
+	Date: 2019-03-14 ; Times: 10
+	Date: 2019-03-28 ; Times: 1
+	Date: 2019-03-13 ; Times: 5
+	Date: 2019-03-11 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:americana genus:martes" ; Times: 3
+	Query: "macropus" ; Times: 1
+	Query: "specificepithet:longimembris genus:Perognathus county:&#34;Imperial&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Lasiurus ega" ; Times: 1
+	Query: "class:Mammalia county:&#34;King&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Tupaia glis" ; Times: 1
+	Query: "specificepithet:lepidus genus:Calomys country:&#34;Argentina&#34; continent:America" ; Times: 1
+	Query: "Taphozous longimanus" ; Times: 1
+	Query: "genus:Meles" ; Times: 1
+	Query: "specificepithet:lepidus genus:Calomys country:&#34;Chile&#34; continent:America" ; Times: 1
+	Query: "specificepithet:hudsonicus genus:Tamiasciurus hasmass:1" ; Times: 2
+	Query: "promops" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "Cardiocranius" ; Times: 1
+	Query: "Glossophaga morenoi" ; Times: 1
+	Query: "class:Mammalia county:&#34;Haskell&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:fulvescens genus:Reithrodontomys" ; Times: 1
+	Query: "specificepithet:barbara" ; Times: 1
+	Query: "class:Mammalia county:&#34;Tom Green&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Chrotopterus haslength:1" ; Times: 1
+	Query: "panthera onca" ; Times: 2
+	Query: "class:Mammalia county:&#34;Foard&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:erminea arctica genus:mustela" ; Times: 1
+	Query: "specificepithet:micropus genus:Neotoma" ; Times: 1
+	Query: "genus:pongo" ; Times: 1
+	Query: "pygeretmus" ; Times: 1
+	Query: "specificepithet:virginianus genus:bubo stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:taylori genus:Baiomys stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Crocuta crocuta skeleton" ; Times: 1
+	Query: "specificepithet:vellerosus genus:Chaetophractus hastissue:1" ; Times: 1
+	Query: "specificepithet:yumanensis genus:myotis county:&#34;Riverside&#34;" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "Rousettus celebensis" ; Times: 1
+	Query: "Sturnira mordax" ; Times: 1
+	Query: "specificepithet:novemcinctus genus:Dasypus" ; Times: 1
+	Query: "specificepithet:peregusna" ; Times: 2
+	Query: "specificepithet:canadensis genus:lontra" ; Times: 3
+	Query: "Rhynchonycteris naso" ; Times: 1
+	Query: "specificepithet:longimembris genus:Perognathus county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "genus:neovison" ; Times: 1
+	Query: "Sorex tenellus" ; Times: 1
+	Query: "class:Mammalia county:&#34;Clay&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "apodemus draco" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo hastissue:1" ; Times: 1
+	Query: "specificepithet:vison genus:neovison" ; Times: 1
+	Query: "specificepithet:americana sierrae genus:martes" ; Times: 1
+	Query: "specificepithet:longimembris genus:Perognathus county:&#34;San Diego&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Graomys griseoflavus" ; Times: 1
+	Query: "Pteronotus mesoamericanus" ; Times: 1
+	Query: "Centurio senex" ; Times: 1
+	Query: "class:Mammalia county:&#34;Archer&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Lonchophylla mordax" ; Times: 1
+	Query: "Nephelomys devius" ; Times: 1
+	Query: "Mus haslifestage:1 hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "genus:leopardus country:&#34;United States&#34;" ; Times: 1
+	Query: "Crocuta crocuta" ; Times: 1
+	Query: "Choeroniscus godmani" ; Times: 1
+	Query: "order:Primates haslength:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:novemcinctus genus:Dasypus hastissue:1" ; Times: 1
+	Query: "class:Mammalia county:&#34;Wilbarger&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:gulo" ; Times: 3
+	Query: "Chrotopterus auritus" ; Times: 1
+	Query: "LEOPARDUS PARDALIS" ; Times: 3
+	Query: "specificepithet:erminea genus:mustela" ; Times: 5
+	Query: "class:Mammalia county:&#34;Brown&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "class:Mammalia county:&#34;Baylor&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "&#34;Stylodipus&#34;" ; Times: 1
+	Query: "class:Mammalia county:&#34;Young&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "allactaga" ; Times: 1
+	Query: "genus:microtus county:&#34;humboldt&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "EIRA BARBARA" ; Times: 1
+	Query: "Tamandua mexicana" ; Times: 2
+	Query: "specificepithet:longimembris genus:Perognathus county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "county:&#34;emery&#34; stateprovince:&#34;utah&#34;" ; Times: 1
+	Query: "Mesophylla macconnelli" ; Times: 1
+	Query: "*Urocitellus columbianus" ; Times: 2
+	Query: "Perognathus longimembris Baja" ; Times: 1
+	Query: "Zapus hudsonius preblei" ; Times: 1
+	Query: "class:Mammalia county:&#34;Cottle&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Phyllonycteris poeyi" ; Times: 1
+	Query: "specificepithet:americana origenes genus:martes" ; Times: 1
+	Query: "Euchoreutes" ; Times: 1
+	Query: "class:Mammalia county:&#34;Stephens&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:vison" ; Times: 1
+	Query: "specificepithet:brevicauda genus:Blarina" ; Times: 1
+	Query: "stateprovince:&#34;kentucky&#34; specificepithet:maniculatus genus:Peromyscus year &gt;= 1900 year &lt;= 2019" ; Times: 1
+	Query: "Acinonyx jubatus" ; Times: 1
+	Query: "Peropteryx kappleri" ; Times: 1
+	Query: "specificepithet:lepidus genus:Calomys country:&#34;Bolivia&#34; continent:America" ; Times: 1
+	Query: "Salpingotus" ; Times: 1
+	Query: "class:Mammalia county:&#34;Wichita&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:taxus genus:taxidea" ; Times: 1
+	Query: "dipus" ; Times: 1
+	Query: "genus:Napaeozapus stateprovince:&#34;Minnesota&#34;" ; Times: 3
+	Query: "Eptesicus furinalis" ; Times: 1
+	Query: "Myotis keaysi" ; Times: 1
+	Query: "Carollia subrufa" ; Times: 1
+	Query: "specificepithet:villosus genus:Chaetophractus hastissue:1" ; Times: 1
+	Query: "class:Mammalia county:&#34;Hardeman&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "cancun" ; Times: 1
+	Query: "Brachyphylla nana" ; Times: 1
+	Query: "dendrolagus" ; Times: 1
+	Query: "Hypsignathus" ; Times: 1
+	Query: "Urocyon hastissue:1" ; Times: 1
+	Query: "Panthera uncia vntype:specimen" ; Times: 1
+	Query: "neotamias minimus" ; Times: 1
+	Query: "specificepithet:jelskii genus:Abrothrix hastissue:1" ; Times: 1
+	Query: "Artibeus hirsutus" ; Times: 1
+	Query: "(Ribble)" ; Times: 1
+
+
+End of report.
