@@ -1,0 +1,906 @@
+Report for Institution Code MSB, Resource msb_mamm
+Usage stats for May 2019, generated on 2019/06/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 1125
+Number of records retrieved in searches: 20875
+Number of different countries where searches have been originated: 31
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 246
+	Country: Canada ; Times: 3
+	Country: Italy ; Times: 1
+	Country: Unknown ; Times: 18
+	Country: Costa Rica ; Times: 1
+	Country: France ; Times: 1
+	Country: Ethiopia ; Times: 3
+	Country: Peru ; Times: 16
+	Country: Argentina ; Times: 3
+	Country: Ecuador ; Times: 5
+	Country: Australia ; Times: 2
+	Country: Czechia ; Times: 2
+	Country: Guatemala ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Chile ; Times: 16
+	Country: Belgium ; Times: 12
+	Country: China ; Times: 1
+	Country: Dominican Republic ; Times: 3
+	Country: Spain ; Times: 1
+	Country: Ukraine ; Times: 3
+	Country: Netherlands ; Times: 1
+	Country: Denmark ; Times: 6
+	Country: United States ; Times: 714
+	Country: Switzerland ; Times: 2
+	Country: Russia ; Times: 4
+	Country: Portugal ; Times: 2
+	Country: Mexico ; Times: 41
+	Country: South Africa ; Times: 1
+	Country: United Kingdom ; Times: 5
+	Country: Colombia ; Times: 7
+	Country: Paraguay ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-30 ; Times: 21
+	Date: 2019-05-31 ; Times: 20
+	Date: 2019-05-09 ; Times: 27
+	Date: 2019-05-08 ; Times: 61
+	Date: 2019-05-07 ; Times: 37
+	Date: 2019-05-06 ; Times: 90
+	Date: 2019-05-05 ; Times: 51
+	Date: 2019-05-04 ; Times: 3
+	Date: 2019-05-03 ; Times: 84
+	Date: 2019-05-02 ; Times: 138
+	Date: 2019-05-01 ; Times: 101
+	Date: 2019-05-25 ; Times: 15
+	Date: 2019-05-24 ; Times: 33
+	Date: 2019-05-27 ; Times: 40
+	Date: 2019-05-26 ; Times: 12
+	Date: 2019-05-21 ; Times: 37
+	Date: 2019-05-20 ; Times: 66
+	Date: 2019-05-23 ; Times: 17
+	Date: 2019-05-22 ; Times: 35
+	Date: 2019-05-29 ; Times: 28
+	Date: 2019-05-28 ; Times: 25
+	Date: 2019-05-18 ; Times: 13
+	Date: 2019-05-19 ; Times: 9
+	Date: 2019-05-10 ; Times: 28
+	Date: 2019-05-11 ; Times: 11
+	Date: 2019-05-12 ; Times: 2
+	Date: 2019-05-13 ; Times: 20
+	Date: 2019-05-14 ; Times: 30
+	Date: 2019-05-15 ; Times: 35
+	Date: 2019-05-16 ; Times: 15
+	Date: 2019-05-17 ; Times: 21
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:maniculatus genus:peromyscus locality:ogden stateprovince:&#34;Utah&#34; hastissue:1" ; Times: 2
+	Query: "MSB 279408" ; Times: 2
+	Query: "217679" ; Times: 1
+	Query: "MSB 279401" ; Times: 2
+	Query: "Uroderma magnirostrum mappable:1" ; Times: 1
+	Query: "country:Ecuador scientificname:Thomasomys cinnameus " ; Times: 3
+	Query: "47124" ; Times: 26
+	Query: "&#34;san vito&#34; class:mammalia stateprovince:&#34;puntarenas&#34; country:&#34;costa rica&#34; sex:male" ; Times: 1
+	Query: "168930" ; Times: 1
+	Query: "EAR 5171" ; Times: 1
+	Query: "155228" ; Times: 1
+	Query: "Sylvilagus brasiliensis mappable:1" ; Times: 1
+	Query: "Gracilinanus agilis mappable:1" ; Times: 1
+	Query: "genus:glaucomys class:mammalia stateprovince:&#34;vermont&#34; institutioncode:MSB" ; Times: 1
+	Query: "genus:Allactaga preparations:skeleton AND (preserved)" ; Times: 1
+	Query: "33255" ; Times: 1
+	Query: "Tamandua tetradactyla mappable:1" ; Times: 1
+	Query: "NK 56100" ; Times: 2
+	Query: "Panthera onca" ; Times: 3
+	Query: "genus:marmota class:mammalia stateprovince:&#34;vermont&#34; institutioncode:MSB" ; Times: 1
+	Query: "specificepithet:maniculatus genus:peromyscus county:&#34;pierce&#34; stateprovince:&#34;washington&#34; hastissue:1" ; Times: 3
+	Query: "&#34;Marmosops noctivagus&#34;" ; Times: 1
+	Query: "Lepus europaeus mappable:1" ; Times: 1
+	Query: "NK 152345" ; Times: 1
+	Query: "AJS 131" ; Times: 1
+	Query: "class:mammalia stateprovince:&#34;new hampshire&#34; institutioncode:MSB" ; Times: 1
+	Query: "MSB 47399" ; Times: 2
+	Query: "sorex cinereus stateprovince:&#34;colorado&#34; year &gt;= 2010 hastissue:1" ; Times: 2
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;park&#34; stateprovince:&#34;wyoming&#34; hastissue:1" ; Times: 1
+	Query: "martes americana" ; Times: 3
+	Query: "specificepithet:aestuans genus:sciurus" ; Times: 2
+	Query: "MSB 62068" ; Times: 3
+	Query: "Sorex hoyi" ; Times: 1
+	Query: "NK 53266" ; Times: 2
+	Query: "NK 53269" ; Times: 2
+	Query: "specificepithet:catta genus:lemur preparations:skeleton" ; Times: 1
+	Query: "18 PERU" ; Times: 1
+	Query: "Ursus maritimus" ; Times: 3
+	Query: "298783" ; Times: 1
+	Query: "county:&#34;Park&#34; stateprovince:&#34;colorado&#34; hastissue:1" ; Times: 1
+	Query: "vntype:specimen genus:Canis hasmedia:1" ; Times: 1
+	Query: "specificepithet:fumeus genus:sorex stateprovince:&#34;vermont&#34; institutioncode:MSB" ; Times: 1
+	Query: "MSB 156370" ; Times: 1
+	Query: "Platyrrhinus lineatus mappable:1" ; Times: 6
+	Query: "MSB 229262" ; Times: 1
+	Query: "catalognumber:182006" ; Times: 1
+	Query: "thylamys pusillus year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;Wyoming&#34; hastissue:1" ; Times: 1
+	Query: "MSB 144049" ; Times: 2
+	Query: "Molossops temminckii mappable:1" ; Times: 1
+	Query: "Mustela nigripes" ; Times: 1
+	Query: "catalognumber:144181 institutioncode:MSB" ; Times: 1
+	Query: "genus:ondatra class:mammalia stateprovince:&#34;maine&#34; institutioncode:MSB" ; Times: 1
+	Query: "specificepithet:maniculatus genus:peromyscus county:&#34;Navajo&#34; stateprovince:&#34;Arizona&#34; hastissue:1" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;kittitas&#34; hastissue:1" ; Times: 1
+	Query: "order:rodentia class:mammalia stateprovince:&#34;new hampshire&#34; institutioncode:MSB" ; Times: 1
+	Query: "sciurus nayaritensis" ; Times: 2
+	Query: "Mitkof island family:ursidae stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "Nyctinomops aurispinosus mappable:1" ; Times: 1
+	Query: "Caluromys lanatus" ; Times: 1
+	Query: "genus:Tamias county:&#34;San Bernardino&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "MSB 194080" ; Times: 2
+	Query: "Eptesicus brasiliensis mappable:1" ; Times: 1
+	Query: "24880" ; Times: 1
+	Query: "MSB 144151" ; Times: 2
+	Query: "Glironia venusta" ; Times: 1
+	Query: "Myocastor coypus" ; Times: 2
+	Query: "phyllonycteris poeyi" ; Times: 1
+	Query: "specificepithet:frenata genus:Mustela haslength:1" ; Times: 1
+	Query: "302998" ; Times: 2
+	Query: "Dipodomys californicus" ; Times: 2
+	Query: "Akodon cursor mappable:1" ; Times: 3
+	Query: "class:mammalia stateprovince:&#34;vermont&#34; institutioncode:MSB" ; Times: 3
+	Query: "specificepithet:maniculatus genus:peromyscus country:&#34;canada&#34; hastissue:1" ; Times: 1
+	Query: "NK 52345" ; Times: 1
+	Query: "MSB 155817" ; Times: 2
+	Query: "canid" ; Times: 1
+	Query: "Conepatus chinga mappable:1" ; Times: 1
+	Query: "catalognumber:53893" ; Times: 1
+	Query: "MSB 122918" ; Times: 1
+	Query: "Pteronotus gymnonotus mappable:1" ; Times: 1
+	Query: "wrangell island class:mammalia stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "musuem records" ; Times: 1
+	Query: "MSB 76289" ; Times: 1
+	Query: "MSB 149188" ; Times: 1
+	Query: "11225" ; Times: 1
+	Query: "Mustela nigripes year&gt;=1990 year&lt;=2015 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 1
+	Query: "marmosops ocellatus year &gt;= 1965 year &lt;= 2019" ; Times: 1
+	Query: "class:MAMMALIA stateprovince:&#34;heredia&#34; country:&#34;costa rica&#34; sex:male" ; Times: 1
+	Query: "mearnsi AND skull specificepithet:latrans genus:Canis year &gt;= 1850 year &lt;= 1929" ; Times: 1
+	Query: "ursus americanus AND (alaska)" ; Times: 1
+	Query: "&#34;Donna C. Cole&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;Saskatchewan&#34; hastissue:1" ; Times: 1
+	Query: "genus:peromyscus class:mammalia stateprovince:&#34;vermont&#34; institutioncode:MSB" ; Times: 1
+	Query: "265139" ; Times: 1
+	Query: "specificepithet:lotor genus:Procyon stateprovince:&#34;British Columbia&#34;" ; Times: 1
+	Query: "Didelphis albiventris mappable:1" ; Times: 1
+	Query: "208078" ; Times: 1
+	Query: "&#34;Peromyscus&#34; stateprovince:&#34;Michigan&#34;" ; Times: 6
+	Query: "specificepithet:rufobrachium genus:heliosciurus" ; Times: 4
+	Query: "Canis lupus familiaris mappable:1 year&gt;=1970 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 1
+	Query: "notiosorex 127198" ; Times: 2
+	Query: "Thyroptera tricolor mappable:1" ; Times: 1
+	Query: "genus:neotoma county:&#34;kern&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "specificepithet:hudsonius genus:zapus stateprovince:&#34;maine&#34; institutioncode:MSB" ; Times: 1
+	Query: "Cavia fulgida mappable:1" ; Times: 1
+	Query: "specificepithet:cinerea genus:Neotoma hasmass:1" ; Times: 1
+	Query: "specificepithet:maniculatus genus:peromyscus county:&#34;Apache&#34; stateprovince:&#34;Arizona&#34; hastissue:1" ; Times: 1
+	Query: "country:Ecuador scientificname:Proechimys decumanus " ; Times: 1
+	Query: "admiralty island family:mustelidae stateprovince:&#34;alaska&#34;" ; Times: 2
+	Query: "Dipodomys gravipes" ; Times: 1
+	Query: "291287" ; Times: 1
+	Query: "Syncerus caffer mappable:1" ; Times: 1
+	Query: "Oecomys bicolor mappable:1" ; Times: 1
+	Query: "Lemuridae" ; Times: 1
+	Query: "Caluromys lanatus mappable:1" ; Times: 1
+	Query: "catalognumber:108402" ; Times: 1
+	Query: "181338" ; Times: 1
+	Query: "histiotus" ; Times: 3
+	Query: "Bradypus variegatus mappable:1" ; Times: 1
+	Query: "myotis austroriparius" ; Times: 4
+	Query: "NK 56077" ; Times: 1
+	Query: "genus:mustela class:mammalia stateprovince:&#34;vermont&#34; institutioncode:MSB" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Aguascalientes&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:brevicauda genus:blarina stateprovince:&#34;vermont&#34; institutioncode:MSB" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus locality:Kansas hastissue:1" ; Times: 1
+	Query: "17610" ; Times: 1
+	Query: "sorex cinereus stateprovince:&#34;utah&#34; year &gt;= 2007 hastissue:1" ; Times: 1
+	Query: "genus:synaptomys class:mammalia stateprovince:&#34;maine&#34; institutioncode:MSB" ; Times: 1
+	Query: "country:Ecuador scientificname:Cryptotis montivaga " ; Times: 2
+	Query: "specificepithet:maniculatus genus:peromyscus country:&#34;mexico&#34; hastissue:1" ; Times: 1
+	Query: "specificepithet:leucopus genus:peromyscus class:mammalia stateprovince:&#34;maine&#34; institutioncode:MSB" ; Times: 1
+	Query: "black bear" ; Times: 1
+	Query: "Puma concolor" ; Times: 2
+	Query: "specificepithet:maniculatus genus:peromyscus stateprovince:&#34;vermont&#34; institutioncode:MSB" ; Times: 2
+	Query: "Monodelphis domestica mappable:1" ; Times: 1
+	Query: "175723" ; Times: 3
+	Query: "catalognumber:147730" ; Times: 1
+	Query: "235747" ; Times: 1
+	Query: "specificepithet:maniculatus genus:peromyscus class:mammalia stateprovince:&#34;maine&#34; institutioncode:MSB" ; Times: 1
+	Query: "bunomys penitus" ; Times: 1
+	Query: "202492" ; Times: 1
+	Query: "EAR 5166" ; Times: 1
+	Query: "EAR 5167" ; Times: 1
+	Query: "genus:blarina class:mammalia stateprovince:&#34;vermont&#34; institutioncode:MSB" ; Times: 1
+	Query: "Canis lupus familiaris" ; Times: 3
+	Query: "Vampyrodes caraccioli mappable:1" ; Times: 1
+	Query: "ptarmigan" ; Times: 2
+	Query: "sorex cinereus hastissue:1" ; Times: 1
+	Query: "Scotinomys" ; Times: 1
+	Query: "genus:microtus class:mammalia stateprovince:&#34;maine&#34; institutioncode:MSB" ; Times: 2
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;fremont&#34; stateprovince:&#34;wyoming&#34; hastissue:1" ; Times: 2
+	Query: "Trichechus manatus mappable:1" ; Times: 1
+	Query: "59408" ; Times: 1
+	Query: "Loxodontomys micropus mappable:1 year&gt;=1988 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 1
+	Query: "MSB 268491" ; Times: 1
+	Query: "Canis lupus baileyi" ; Times: 2
+	Query: "country:Ecuador scientificname:Akodon mollis " ; Times: 5
+	Query: "278943" ; Times: 3
+	Query: "canis lupus familiaris" ; Times: 2
+	Query: "country:Ecuador scientificname:Akodon aerosus " ; Times: 2
+	Query: "Peromyscus Maniculatus in santa fe" ; Times: 1
+	Query: "catalognumber:43258 institutioncode:MSB" ; Times: 2
+	Query: "notiosorex crawfordi" ; Times: 1
+	Query: "83059" ; Times: 1
+	Query: "Nyctinomops aurispinosus" ; Times: 1
+	Query: "84999" ; Times: 1
+	Query: "MSB 144240" ; Times: 2
+	Query: "genus:(mustela) stateprovince:(virginia) AND NOT stateprovince:(west virginia)" ; Times: 1
+	Query: "marmosops noctivagus year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "Cynomys parvidens" ; Times: 2
+	Query: "genus:Galictis family:Mustelidae" ; Times: 1
+	Query: "SNV 018" ; Times: 1
+	Query: "Pseudoryzomys simplex mappable:1" ; Times: 1
+	Query: "gene vntype:specimen genus:Peromyscus family:Cricetidae" ; Times: 1
+	Query: "Myodes rufocanus" ; Times: 2
+	Query: "Sorex ornatus" ; Times: 1
+	Query: "genus:zapus class:mammalia stateprovince:&#34;vermont&#34; institutioncode:MSB" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;Kansas&#34; country:&#34;United States&#34; hastissue:1" ; Times: 1
+	Query: "Myotis levis mappable:1" ; Times: 1
+	Query: "151419" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;North Dakota&#34; country:&#34;United States&#34; hastissue:1" ; Times: 1
+	Query: "genus:myodes stateprovince:&#34;new hampshire&#34; institutioncode:MSB" ; Times: 1
+	Query: "225710" ; Times: 1
+	Query: "Cricetulus migratorius" ; Times: 2
+	Query: "UNAM" ; Times: 1
+	Query: "Hydrochoerus hydrochaeris mappable:1" ; Times: 1
+	Query: "33485" ; Times: 1
+	Query: "Oecomys concolor mappable:1" ; Times: 1
+	Query: "Marmosops bishopi" ; Times: 2
+	Query: "specificepithet:maniculatus genus:Peromyscus locality:Fort Larned stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "MSB 143033" ; Times: 2
+	Query: "thylamys macrurus year" ; Times: 1
+	Query: "Lonchorhina aurita mappable:1" ; Times: 1
+	Query: "Nasua narica" ; Times: 2
+	Query: "genus:myodes class:mammalia stateprovince:&#34;maine&#34; institutioncode:MSB" ; Times: 1
+	Query: "17485" ; Times: 1
+	Query: "Sturnira tildae mappable:1" ; Times: 1
+	Query: "sorex cinereus stateprovince:&#34;utah&#34; year &gt;= 2010 hastissue:1" ; Times: 1
+	Query: "genus:microtus stateprovince:&#34;new hampshire&#34; institutioncode:MSB" ; Times: 1
+	Query: "MSB 195108" ; Times: 1
+	Query: "thylamys macrurus year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "lasiurus cinereus" ; Times: 1
+	Query: "genus:Conepatus country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Marmosops dorothea" ; Times: 1
+	Query: "Ctenomys minutus mappable:1" ; Times: 1
+	Query: "class:Mammalia locality:Big Bend distance(location,geopoint(29.111422091330006,-103.18072768657356))&lt;100000" ; Times: 1
+	Query: "Artibeus cinereus mappable:1" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;archuleta&#34; stateprovince:&#34;colorado&#34; hastissue:1" ; Times: 1
+	Query: "436446" ; Times: 1
+	Query: "10408 Peromyscus" ; Times: 1
+	Query: "Cavia aperea mappable:1" ; Times: 1
+	Query: "210680 amnh" ; Times: 1
+	Query: "Mitkof island class:mammalia stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "spider" ; Times: 2
+	Query: "MSB 158235" ; Times: 1
+	Query: "MSB 144164" ; Times: 2
+	Query: "371181" ; Times: 1
+	Query: "&#34;leopardus pardalis&#34;" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;Arizona&#34; hastissue:1" ; Times: 1
+	Query: "ursus arctos" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;sublette&#34; stateprovince:&#34;wyoming&#34; hastissue:1" ; Times: 1
+	Query: "genus:condylura class:mammalia stateprovince:&#34;vermont&#34; institutioncode:MSB" ; Times: 1
+	Query: "order:carnivora locality:wrangell stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "&#34;*Urocitellus columbianus&#34;" ; Times: 1
+	Query: "BI vntype:specimen genus:Peromyscus family:Cricetidae" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus country:&#34;Canada&#34; hastissue:1" ; Times: 4
+	Query: "MSB 144238" ; Times: 1
+	Query: "MSB 144239" ; Times: 2
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "431225" ; Times: 1
+	Query: "Caenolestes fuliginosus" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;la plata&#34; stateprovince:&#34;Colorado&#34; hastissue:1" ; Times: 1
+	Query: "genus:sorex class:mammalia stateprovince:&#34;vermont&#34; institutioncode:MSB" ; Times: 1
+	Query: "Anoura caudifer mappable:1" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;Washington&#34; hastissue:1" ; Times: 2
+	Query: "EAR 5169" ; Times: 1
+	Query: "sorex 155228" ; Times: 2
+	Query: "Clethrionomys californicus" ; Times: 2
+	Query: "genus:myodes class:mammalia stateprovince:&#34;vermont&#34; institutioncode:MSB" ; Times: 1
+	Query: "catalognumber:47444 institutioncode:MSB" ; Times: 2
+	Query: "order:lagomorpha class:mammalia stateprovince:&#34;new hampshire&#34; institutioncode:MSB" ; Times: 1
+	Query: "308863" ; Times: 1
+	Query: "Monodelphis adusta" ; Times: 2
+	Query: "country:Ecuador scientificname:Proechimys semispinosus " ; Times: 1
+	Query: "class:mammalia stateprovince:&#34;aguascalientes&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus locality:Fort Larned stateprovince:&#34;Kansas&#34; hastissue:1" ; Times: 1
+	Query: "196696" ; Times: 1
+	Query: "specificepithet:lucifugus genus:myotis stateprovince:&#34;vermont&#34; institutioncode:MSB" ; Times: 1
+	Query: "class:Mammalia locality:Big Bend distance(location,geopoint(29.111422091330006,-103.18072768657356))&lt;49192" ; Times: 1
+	Query: "Coendou spinosus mappable:1" ; Times: 1
+	Query: "Cuniculus paca mappable:1" ; Times: 2
+	Query: "genus:mephitis class:mammalia stateprovince:&#34;vermont&#34; institutioncode:MSB" ; Times: 1
+	Query: "Delomys sublineatus mappable:1" ; Times: 1
+	Query: "thylamys pallidior year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "MSB 156182" ; Times: 2
+	Query: "MSB 193344" ; Times: 2
+	Query: "Ordway-Swisher" ; Times: 3
+	Query: "319573" ; Times: 1
+	Query: "peromyscus leucopus stateprovince:&#34;alabama&#34;" ; Times: 4
+	Query: "Eira barbara mappable:1" ; Times: 1
+	Query: "lutra lutra" ; Times: 2
+	Query: "Philander opossum year &gt;= 1965 year &lt;= 2019" ; Times: 1
+	Query: "Lutreolina crassicaudata mappable:1" ; Times: 1
+	Query: "mearnsi AND skull specificepithet:latrans genus:Canis year &gt;= 1850 year &lt;= 1929 institutioncode:MSB" ; Times: 1
+	Query: "specificepithet:austroriparius genus:Myotis country:&#34;United States&#34;" ; Times: 1
+	Query: "sciurus ignitus" ; Times: 1
+	Query: "procyon cancrivorus" ; Times: 2
+	Query: "trachops cirrhosus" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;Kansas&#34; hastissue:1" ; Times: 1
+	Query: "genus:Vampyrum" ; Times: 1
+	Query: "88258" ; Times: 1
+	Query: "Panthera onca mappable:1" ; Times: 3
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;San Juan&#34; stateprovince:&#34;New Mexico&#34; hastissue:1" ; Times: 1
+	Query: "Thylamys" ; Times: 1
+	Query: "Metachirus nudicaudatus mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(33.529,-105.694))&lt;3000" ; Times: 1
+	Query: "Artibeus planirostris" ; Times: 1
+	Query: "Chrotopterus auritus mappable:1" ; Times: 10
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;king&#34; stateprovince:&#34;washington&#34; hastissue:1" ; Times: 1
+	Query: "NMMNH 4704" ; Times: 2
+	Query: "antilocapra americana" ; Times: 2
+	Query: "peromyscus melanophrys melanophrys" ; Times: 3
+	Query: "MSB 199034" ; Times: 2
+	Query: "genus:Canis hasmedia:1" ; Times: 1
+	Query: "Lycalopex gymnocercus mappable:1" ; Times: 1
+	Query: "Breviceps hasmass:1" ; Times: 1
+	Query: "225763" ; Times: 1
+	Query: "Galictis cuja mappable:1" ; Times: 1
+	Query: "sorex 39926" ; Times: 2
+	Query: "Oxymycterus rufus mappable:1" ; Times: 1
+	Query: "genus:zapus class:mammalia stateprovince:&#34;maine&#34; institutioncode:MSB" ; Times: 1
+	Query: "431223" ; Times: 1
+	Query: "Euphractus sexcinctus mappable:1" ; Times: 1
+	Query: "vector" ; Times: 2
+	Query: "&#34;Peromyscus&#34; stateprovince:&#34;Michigan&#34; year &gt;= 2000" ; Times: 6
+	Query: "Saccopteryx leptura mappable:1" ; Times: 1
+	Query: "specificepithet:brevicauda genus:blarina year &gt;= 1986 hastissue:1" ; Times: 1
+	Query: "specificepithet:maniculatus genus:peromyscus county:&#34;pierce&#34; stateprovince:&#34;Washington&#34; hastissue:1" ; Times: 1
+	Query: "Caluromys philander mappable:1" ; Times: 1
+	Query: "22839 hastissue:1" ; Times: 1
+	Query: "country:Ecuador scientificname:Dinomys branickii " ; Times: 2
+	Query: "Thylamys macrurus mappable:1" ; Times: 1
+	Query: "genus:condylura class:mammalia stateprovince:&#34;maine&#34; institutioncode:MSB" ; Times: 1
+	Query: "specificepithet:cinereus genus:sorex stateprovince:&#34;new hampshire&#34; institutioncode:MSB" ; Times: 5
+	Query: "Choeronycteris mexicana" ; Times: 2
+	Query: "catalognumber:47415 institutioncode:MSB" ; Times: 2
+	Query: "Peropteryx kappleri mappable:1" ; Times: 1
+	Query: "39672" ; Times: 1
+	Query: "MSB 110998" ; Times: 2
+	Query: "10408" ; Times: 1
+	Query: "roan antelope" ; Times: 1
+	Query: "176358" ; Times: 1
+	Query: "county:&#34;jackson&#34; stateprovince:&#34;mississippi&#34;" ; Times: 1
+	Query: "MSB 75587" ; Times: 1
+	Query: "potos flavus" ; Times: 1
+	Query: "Mitkof island family:canidae stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "class:Mammalia distance(location,geopoint(28.671856719474327,-101.58687571262669))&lt;100000" ; Times: 1
+	Query: "MSB 144464" ; Times: 2
+	Query: "MSB 61509" ; Times: 1
+	Query: "catalognumber:47391 institutioncode:MSB" ; Times: 2
+	Query: "country:Ecuador scientificname:Caenolestes fuliginosus " ; Times: 3
+	Query: "31934" ; Times: 1
+	Query: "EAR 5185" ; Times: 2
+	Query: "Sylvilagus brasiliensis" ; Times: 1
+	Query: "didelphis albiventris year &gt;= 1970 year &lt;= 2019" ; Times: 2
+	Query: "distance(location,geopoint(33.529,-105.694))&lt;2000" ; Times: 13
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;jefferson&#34; hastissue:1" ; Times: 1
+	Query: "diphylla" ; Times: 5
+	Query: "76486" ; Times: 1
+	Query: "MSB 73966" ; Times: 1
+	Query: "Nasua nasua mappable:1" ; Times: 1
+	Query: "Idaho Frozen Tissue Collection 396" ; Times: 1
+	Query: "genus:Procyon country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "gracilinanus microtarsus" ; Times: 1
+	Query: "Idaho Frozen Tissue Collection 398" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;carbon&#34; stateprovince:&#34;wyoming&#34; hastissue:1" ; Times: 5
+	Query: "order:carnivora class:mammalia stateprovince:&#34;maine&#34; institutioncode:MSB" ; Times: 1
+	Query: "EAR 5173" ; Times: 2
+	Query: "genus:lepus class:mammalia stateprovince:&#34;maine&#34; institutioncode:MSB" ; Times: 1
+	Query: "Leopardus pardalis mappable:1" ; Times: 1
+	Query: "taeromys hamatus" ; Times: 1
+	Query: "leopardus wiedii" ; Times: 1
+	Query: "&#34;Peromyscus&#34; &#34;leucopus&#34; &#34;Michigan&#34; year &gt;= 2000" ; Times: 3
+	Query: "sorex hoyi" ; Times: 4
+	Query: "catalognumber:43260 institutioncode:MSB" ; Times: 1
+	Query: "clethrionomys californicus" ; Times: 1
+	Query: "127198" ; Times: 1
+	Query: "103068" ; Times: 2
+	Query: "county:&#34;russell&#34; stateprovince:&#34;kansas&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Neusticomys monticolus " ; Times: 2
+	Query: "paruromys dominator" ; Times: 4
+	Query: "recordedby:R. L. Rausch" ; Times: 2
+	Query: "specificepithet:parvidens" ; Times: 1
+	Query: "specificepithet:cinereus genus:sorex class:mammalia stateprovince:&#34;vermont&#34; institutioncode:MSB" ; Times: 1
+	Query: "Scapanus latimanus" ; Times: 1
+	Query: "thylamys venustus year &gt;= 1970 year &lt;= 2019" ; Times: 2
+	Query: "country:Ecuador scientificname:Transandinomys talamancae " ; Times: 2
+	Query: "Holochilus brasiliensis mappable:1" ; Times: 1
+	Query: "nachman" ; Times: 1
+	Query: "trichechus" ; Times: 5
+	Query: "LVT 1099;" ; Times: 2
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;wyoming&#34; hastissue:1" ; Times: 1
+	Query: "MSB 144328" ; Times: 1
+	Query: "locality:not recorded year &gt;= 1900 year &lt;= 1949" ; Times: 1
+	Query: "oecomys" ; Times: 3
+	Query: "class:mammalia locality:wrangell stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "34130" ; Times: 1
+	Query: "genus:canis mandible" ; Times: 1
+	Query: "Neotamias amoenus" ; Times: 2
+	Query: "specificepithet:pardalis genus:leopardus" ; Times: 1
+	Query: "Histiotus" ; Times: 2
+	Query: "MSB 57799" ; Times: 1
+	Query: "neotoma magister" ; Times: 1
+	Query: "Micronycteris microtis mappable:1" ; Times: 1
+	Query: "catalognumber:53248 institutioncode:MSB" ; Times: 2
+	Query: "genus:nycticebus preparations:skeleton" ; Times: 2
+	Query: "genus:tamias stateprovince:&#34;vermont&#34; institutioncode:MSB" ; Times: 1
+	Query: "specificepithet:bulleri genus:Tamias" ; Times: 1
+	Query: "Mitkof island family:mustelidae stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Thomasomys hudsoni " ; Times: 1
+	Query: "lama guanicoe" ; Times: 9
+	Query: "thylamys pallidior" ; Times: 1
+	Query: "country:Ecuador scientificname:Marmosa simonsi " ; Times: 2
+	Query: "san vito class:mammalia country:&#34;costa rica&#34;" ; Times: 1
+	Query: "278439" ; Times: 1
+	Query: "Cerradomys subflavus mappable:1" ; Times: 1
+	Query: "Monodelphis" ; Times: 1
+	Query: "167532" ; Times: 1
+	Query: "genus:napaeozapus class:mammalia stateprovince:&#34;vermont&#34; institutioncode:MSB" ; Times: 1
+	Query: "country:Ecuador scientificname:Microryzomys minutus " ; Times: 2
+	Query: "genus:myodes stateprovince:&#34;vermont&#34; institutioncode:MSB" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 4
+	Query: "31985" ; Times: 1
+	Query: "great gull island class:Mammalia stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "MSB 192748" ; Times: 2
+	Query: "Micronycteris minuta mappable:1" ; Times: 1
+	Query: "genus:canis hasmedia:1" ; Times: 9
+	Query: "Lophostoma" ; Times: 1
+	Query: "13301 AMNH" ; Times: 1
+	Query: "specificepithet:caligata genus:Marmota hastissue:1" ; Times: 1
+	Query: "Molossus coibensis mappable:1" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;Saguache&#34; stateprovince:&#34;Colorado&#34; hastissue:1" ; Times: 1
+	Query: "lion" ; Times: 2
+	Query: "genus:lepus class:mammalia stateprovince:&#34;vermont&#34; institutioncode:MSB" ; Times: 1
+	Query: "Abrocoma bennettii mappable:1 year&gt;=1988 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 1
+	Query: "17 PERU" ; Times: 1
+	Query: "thylamys macrurus" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 5
+	Query: "Glyphonycteris sylvestris mappable:1" ; Times: 1
+	Query: "didelphis pernigra" ; Times: 1
+	Query: "puma" ; Times: 1
+	Query: "Vaccinium mappable:1" ; Times: 1
+	Query: "279987" ; Times: 1
+	Query: "Geomyidae genus:Thomomys family:Geomyidae stateprovince:&#34;Washington&#34; country:&#34;United States&#34; continent:North America" ; Times: 2
+	Query: "myotis fortidens country:&#34;mexico&#34;" ; Times: 2
+	Query: "NK 11205" ; Times: 2
+	Query: "specificepithet:nigripes stateprovince:((wyoming OR south dakota))" ; Times: 9
+	Query: "David O. Ribble" ; Times: 1
+	Query: "Eumops perotis mappable:1" ; Times: 1
+	Query: "Vampyressa pusilla mappable:1" ; Times: 1
+	Query: "EAR 5170" ; Times: 1
+	Query: "Sorex humboldt county California" ; Times: 1
+	Query: "Tonatia saurophila mappable:1" ; Times: 1
+	Query: "sokolof island class:mammalia stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "specificepithet:fumeus genus:sorex class:mammalia stateprovince:&#34;vermont&#34; institutioncode:MSB" ; Times: 1
+	Query: "Big Bend class:Mammalia stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "thomasomys aureus" ; Times: 10
+	Query: "MSB 144366" ; Times: 3
+	Query: "Micronycteris schmidtorum mappable:1" ; Times: 1
+	Query: "Urocitellus columbianus" ; Times: 1
+	Query: "akodon siberiae" ; Times: 1
+	Query: "genus:peromyscus class:mammalia stateprovince:&#34;maine&#34; institutioncode:MSB" ; Times: 1
+	Query: "Calomys tener mappable:1" ; Times: 1
+	Query: "specificepithet:hudsonius genus:zapus stateprovince:&#34;vermont&#34; institutioncode:MSB" ; Times: 1
+	Query: "family:Balaenidae year &gt;= 1900 year &lt;= 1940" ; Times: 1
+	Query: "bassariscus astutus" ; Times: 4
+	Query: "specificepithet:lupus genus:Canis hasmedia:1" ; Times: 1
+	Query: "class:Mammalia distance(location,geopoint(23.36048311832555,-110.01021818168437))&lt;39962" ; Times: 1
+	Query: "18900" ; Times: 1
+	Query: "jf 145" ; Times: 1
+	Query: "specificepithet:fuscipes genus:Neotoma stateprovince:&#34;California&#34; hasmass:1" ; Times: 1
+	Query: "ursus americanus" ; Times: 7
+	Query: "catalognumber:47410 institutioncode:MSB" ; Times: 2
+	Query: "sylvilagus brasiliensis" ; Times: 1
+	Query: "Sorex sonomae" ; Times: 7
+	Query: "Graphiurus murinus" ; Times: 2
+	Query: "ants" ; Times: 1
+	Query: "cla" ; Times: 1
+	Query: "sorex cinereus stateprovince:&#34;colorado&#34; year &gt;= 2007 hastissue:1" ; Times: 2
+	Query: "13330 AMNH" ; Times: 3
+	Query: "MSB 53549" ; Times: 1
+	Query: "tylomys" ; Times: 1
+	Query: "specificepithet:rufobrachium genus:heliosciurus institutioncode:MSB" ; Times: 2
+	Query: "MSB 156589" ; Times: 3
+	Query: "specificepithet:maniculatus genus:peromyscus class:mammalia stateprovince:&#34;vermont&#34; institutioncode:MSB" ; Times: 1
+	Query: "burti burti" ; Times: 1
+	Query: "specificepithet:longicaudus genus:Microtus country:&#34;canada&#34;" ; Times: 1
+	Query: "172610" ; Times: 1
+	Query: "specificepithet:Bachmani genus:Sylvilagus stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "bank swallow" ; Times: 1
+	Query: "&#34;Peromyscus&#34; &#34;leucopus&#34; &#34;Michigan&#34;" ; Times: 1
+	Query: "sciurus aestuans" ; Times: 2
+	Query: "marmosops impavidus year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "NK 56087" ; Times: 2
+	Query: "NK 56084" ; Times: 2
+	Query: "specificepithet:austroriparius genus:Myotis country:&#34;United States&#34; sex:Female" ; Times: 1
+	Query: "Octodon degus mappable:1 year&gt;=1950 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 2
+	Query: "specificepithet:maniculatus genus:peromyscus locality:Farmington stateprovince:&#34;New mexico&#34; hastissue:1" ; Times: 2
+	Query: "Mimon bennettii mappable:1" ; Times: 1
+	Query: "genus:myocastor" ; Times: 2
+	Query: "215065" ; Times: 1
+	Query: "mustela nigripes" ; Times: 5
+	Query: "&#34;Marmosops dorothea&#34;" ; Times: 2
+	Query: "34176" ; Times: 1
+	Query: "specificepithet:maniculatus genus:peromyscus county:&#34;tulare&#34; stateprovince:&#34;California&#34; hastissue:1" ; Times: 1
+	Query: "Euryoryzomys nitidus" ; Times: 1
+	Query: "country:Ecuador scientificname:Sigmodon peruanus " ; Times: 3
+	Query: "MSB 149290" ; Times: 2
+	Query: "sorex palustris" ; Times: 2
+	Query: "MSB 144179" ; Times: 2
+	Query: "MSB 151508" ; Times: 2
+	Query: "SNV 045" ; Times: 1
+	Query: "SNV 047" ; Times: 4
+	Query: "specificepithet:ornatus genus:sorex" ; Times: 1
+	Query: "Zapus trinotatus" ; Times: 1
+	Query: "MSB 24060" ; Times: 1
+	Query: "312554" ; Times: 3
+	Query: "Coendou prehensilis mappable:1" ; Times: 1
+	Query: "MSB 155835" ; Times: 1
+	Query: "43627" ; Times: 1
+	Query: "Sooretamys angouya mappable:1" ; Times: 1
+	Query: "Alticola semicanus hasmass:1" ; Times: 1
+	Query: "MSB 145611" ; Times: 2
+	Query: "Chironectes minimus mappable:1" ; Times: 1
+	Query: "MSB 145612" ; Times: 2
+	Query: "specificepithet:princeps genus:Ochotona hastissue:1" ; Times: 2
+	Query: "specificepithet:maniculatus genus:Peromyscus locality:New Mexico hastissue:1" ; Times: 1
+	Query: "specificepithet:brevicauda genus:blarina year &gt;= 2007 hastissue:1" ; Times: 1
+	Query: "Euryoryzomys russatus mappable:1" ; Times: 1
+	Query: "MSB 294373" ; Times: 1
+	Query: "genus:castor class:mammalia stateprovince:&#34;maine&#34; institutioncode:MSB" ; Times: 1
+	Query: "MSB 144139" ; Times: 1
+	Query: "Lagidium viscacia" ; Times: 2
+	Query: "202942" ; Times: 1
+	Query: "specificepithet:brevicauda genus:blarina hastissue:1" ; Times: 7
+	Query: "Hylobates lar" ; Times: 1
+	Query: "peromyscus lung" ; Times: 3
+	Query: "&#34;maniculatus&#34; &#34;Wisconsin&#34;" ; Times: 2
+	Query: "specificepithet:CINEREUS genus:SOREX stateprovince:&#34;vermont&#34; institutioncode:MSB" ; Times: 1
+	Query: "specificepithet:conoveri genus:Ctenomys institutioncode:MSB" ; Times: 1
+	Query: "217680" ; Times: 2
+	Query: "Idaho Frozen Tissue Collection 400" ; Times: 1
+	Query: "specificepithet:hudsonius genus:zapus institutioncode:MSB" ; Times: 1
+	Query: "Lasiurus blossevillii mappable:1" ; Times: 1
+	Query: "tamias ochrogenys" ; Times: 1
+	Query: "specificepithet:canadensis genus:castor" ; Times: 1
+	Query: "Gracilinanus microtarsus mappable:1" ; Times: 1
+	Query: "country:Ecuador scientificname:Glossophaga soricina " ; Times: 1
+	Query: "neotamias minimus" ; Times: 2
+	Query: "Cyclopes didactylus mappable:1" ; Times: 1
+	Query: "Monodelphis kunsi mappable:1" ; Times: 1
+	Query: "specificepithet:hudsonius genus:zapus stateprovince:&#34;new hampshire&#34; institutioncode:MSB" ; Times: 1
+	Query: "vormela peregusna" ; Times: 2
+	Query: "genus:tamias class:mammalia stateprovince:&#34;maine&#34; institutioncode:MSB" ; Times: 1
+	Query: "54721" ; Times: 1
+	Query: "camel" ; Times: 1
+	Query: "Microtus chrotorrhinus" ; Times: 1
+	Query: "MSB 144329" ; Times: 2
+	Query: "glaucomys volans" ; Times: 1
+	Query: "MSB 53348" ; Times: 1
+	Query: "Holochilus sciureus mappable:1" ; Times: 1
+	Query: "sorex cinereus year &gt;= 2010 hastissue:1" ; Times: 1
+	Query: "genus:Allactaga preparations:skeleton" ; Times: 3
+	Query: "specificepithet:columbianus genus:Urocitellus" ; Times: 1
+	Query: "MSB 144288" ; Times: 1
+	Query: "arborimus pomo" ; Times: 2
+	Query: "AMNH 12270" ; Times: 1
+	Query: "country:Ecuador scientificname:Phyllotis haggardi " ; Times: 2
+	Query: "Caluromysiops irrupta" ; Times: 4
+	Query: "91493" ; Times: 1
+	Query: "Mountain Lake Biological Station" ; Times: 1
+	Query: "NK 53278" ; Times: 2
+	Query: "Dactylomys boliviensis" ; Times: 1
+	Query: "NK 53277" ; Times: 2
+	Query: "NK 53272" ; Times: 2
+	Query: "specificepithet:rattus genus:Rattus stateprovince:&#34;Hawaii&#34;" ; Times: 1
+	Query: "34885" ; Times: 1
+	Query: "Diphylla ecaudata mappable:1" ; Times: 1
+	Query: "MSB 145401" ; Times: 2
+	Query: "didelphis marsupialis year &gt;= 1970 year &lt;= 2019" ; Times: 2
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;park&#34; stateprovince:&#34;Colorado&#34; hastissue:1" ; Times: 1
+	Query: "bassariscus" ; Times: 1
+	Query: "MSB 144037" ; Times: 2
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;yuma&#34; stateprovince:&#34;Colorado&#34; hastissue:1" ; Times: 1
+	Query: "specificepithet:merriami genus:Tamias" ; Times: 1
+	Query: "Myotis austroriparius" ; Times: 7
+	Query: "14580" ; Times: 1
+	Query: "xanthonotus" ; Times: 1
+	Query: "balantiopteryx" ; Times: 2
+	Query: "specificepithet:maniculatus genus:Peromyscus distance(location,geopoint(47.146846851297866,-101.0677314761445))&lt;100000" ; Times: 1
+	Query: "genus:napaeozapus class:mammalia stateprovince:&#34;maine&#34; institutioncode:MSB" ; Times: 1
+	Query: "dipodomys elator" ; Times: 1
+	Query: "genus:ochotona distance(location,geopoint(39.11607309771916,-120.05379999705497))&lt;49754" ; Times: 1
+	Query: "&#34;Minnesota&#34; &#34;maniculatus&#34;" ; Times: 1
+	Query: "Helarctos malayanus" ; Times: 1
+	Query: "Rana sylvatica hastissue:1" ; Times: 3
+	Query: "peromyscus vntype:specimen (skin whole) basisofrecord:PreservedSpecimen hastissue:1" ; Times: 3
+	Query: "specificepithet:maniculatus genus:peromyscus stateprovince:&#34;Arizona&#34; hastissue:1" ; Times: 2
+	Query: "genus:Mustela haslength:1" ; Times: 1
+	Query: "Lophostoma silvicolum mappable:1" ; Times: 1
+	Query: "Monodelphis dimidiata mappable:1" ; Times: 1
+	Query: "MSB 145714" ; Times: 2
+	Query: "vntype:specimen genus:Peromyscus year &gt;= 2018 basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "MSB 285143" ; Times: 2
+	Query: "didelphis pernigra year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "genus:myotis class:mammalia stateprovince:&#34;vermont&#34; institutioncode:MSB" ; Times: 1
+	Query: "AMNH R-12270" ; Times: 1
+	Query: "Histiotus velatus mappable:1" ; Times: 1
+	Query: "genus:lemur preparations:skeleton" ; Times: 2
+	Query: "amnh 8588" ; Times: 1
+	Query: "specificepithet:cinerea genus:Neotoma stateprovince:&#34;California&#34; hasmass:1" ; Times: 1
+	Query: "class:Mammalia county:&#34;Harney&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;clallam&#34; hastissue:1" ; Times: 1
+	Query: "notiosorex" ; Times: 2
+	Query: "NK 17610" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;Skamania&#34; stateprovince:&#34;Washington&#34; hastissue:1" ; Times: 2
+	Query: "genus:heliosciurus" ; Times: 1
+	Query: "catalognumber:88258" ; Times: 1
+	Query: "country:Ecuador scientificname:Microryzomys altissimus " ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus locality:Portland stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "specificepithet:brevicauda genus:blarina year = 1986 hastissue:1" ; Times: 1
+	Query: "Eptesicus furinalis mappable:1" ; Times: 1
+	Query: "EAR 5147" ; Times: 3
+	Query: "genus:antilocapra stateprovince:&#34;wyoming&#34;" ; Times: 1
+	Query: "Tonatia bidens" ; Times: 1
+	Query: "heteromys nelsoni" ; Times: 1
+	Query: "Spalacopus cyanus mappable:1 year&gt;=1988 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 1
+	Query: "genus:glaucomys stateprovince:&#34;vermont&#34; institutioncode:MSB" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;washakie&#34; stateprovince:&#34;wyoming&#34; hastissue:1" ; Times: 1
+	Query: "Galea spixii mappable:1" ; Times: 1
+	Query: "Nyctinomops macrotis mappable:1" ; Times: 1
+	Query: "Myotis albescens mappable:1" ; Times: 1
+	Query: "juvenil" ; Times: 1
+	Query: "39150" ; Times: 1
+	Query: "24 PERU" ; Times: 1
+	Query: "tamias senex" ; Times: 1
+	Query: "genus: canis mandible" ; Times: 1
+	Query: "278394" ; Times: 1
+	Query: "259851" ; Times: 1
+	Query: "genus:rattus class:mammalia stateprovince:&#34;maine&#34; institutioncode:MSB" ; Times: 1
+	Query: "278493" ; Times: 1
+	Query: "Myotis riparius mappable:1" ; Times: 1
+	Query: "Lonchophylla mordax mappable:1" ; Times: 3
+	Query: "adusta" ; Times: 1
+	Query: "genus:mus preparations:skeleton" ; Times: 1
+	Query: "Dactylomys" ; Times: 1
+	Query: "Chinchillula sahamae" ; Times: 1
+	Query: "catalognumber:47387 institutioncode:MSB" ; Times: 2
+	Query: "specificepithet:brevicauda genus:blarina order:Soricomorpha hastissue:1" ; Times: 1
+	Query: "Tamias bulleri" ; Times: 2
+	Query: "genital" ; Times: 1
+	Query: "Tonatia bidens mappable:1" ; Times: 1
+	Query: "Caluromys lanatus year &gt;= 1965 year &lt;= 2019" ; Times: 2
+	Query: "Oligoryzomys nigripes mappable:1" ; Times: 1
+	Query: "Abrothrix andinus mappable:1 year&gt;=1988 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 2
+	Query: "tonatia" ; Times: 2
+	Query: "thylamys sponsorius year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "Procyon cancrivorus mappable:1" ; Times: 13
+	Query: "&#34;Peromyscus&#34; &#34;Michigan&#34;" ; Times: 2
+	Query: "Lasionycteris noctivagans" ; Times: 1
+	Query: "vank island class:mammalia stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus locality:Rocky county:&#34;Boulder&#34; stateprovince:&#34;Colorado&#34; hastissue:1" ; Times: 1
+	Query: "order:Carnivora county:&#34;nassau&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "536210" ; Times: 1
+	Query: "Akodon azarae mappable:1" ; Times: 1
+	Query: "&#34;Peromyscus&#34; &#34;leucopus&#34; &#34;Illinois&#34; year &gt;= 2000" ; Times: 1
+	Query: "MSB 144409" ; Times: 2
+	Query: "genus:(mustela) stateprovince:(virginia)" ; Times: 1
+	Query: "13329 AMNH" ; Times: 3
+	Query: "0245" ; Times: 1
+	Query: "MSB 144142" ; Times: 1
+	Query: "sorex cinereus stateprovince:&#34;colorado&#34; year &gt;= 2007 institutioncode:MSB hastissue:1" ; Times: 1
+	Query: "genus:Peromyscus catalognumber:63870" ; Times: 1
+	Query: "228123 sorex" ; Times: 1
+	Query: "SNV 190" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;gallatin&#34; stateprovince:&#34;montana&#34; hastissue:1" ; Times: 1
+	Query: "Apodemus agrarius" ; Times: 3
+	Query: "Mazama americana mappable:1" ; Times: 1
+	Query: "Myocastor coypus mappable:1 year&gt;=1988 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 1
+	Query: "NK 56099" ; Times: 2
+	Query: "gracilinanus agilis year &gt;= 1970 year &lt;= 2019" ; Times: 3
+	Query: "MSB 192747" ; Times: 2
+	Query: "MSB 192746" ; Times: 2
+	Query: "MSB 285146" ; Times: 1
+	Query: "nyctinomops aurispinosus" ; Times: 2
+	Query: "specificepithet:coypus continent:america" ; Times: 1
+	Query: "MSB 192749" ; Times: 2
+	Query: "NK 56092" ; Times: 2
+	Query: "specificepithet:Maniculatus genus:Peromyscus county:&#34;Park&#34; stateprovince:&#34;colorado&#34; hastissue:1" ; Times: 1
+	Query: "family:macropodidae preparations:skeleton" ; Times: 1
+	Query: "46899" ; Times: 1
+	Query: "vntype:specimen genus:Peromyscus year &gt;= 2018 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Lepus tolai hasmass:1" ; Times: 1
+	Query: "MSB 144084" ; Times: 2
+	Query: "MSB 144083" ; Times: 2
+	Query: "Siphonaptera" ; Times: 1
+	Query: "Chibchanomys" ; Times: 2
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;lincoln&#34; stateprovince:&#34;wyoming&#34; hastissue:1" ; Times: 1
+	Query: "genus:Peromyscus stateprovince:&#34;Illinois&#34; hastissue:1" ; Times: 1
+	Query: "MSB 76886" ; Times: 1
+	Query: "MSB 155850" ; Times: 7
+	Query: "MSB 151518" ; Times: 1
+	Query: "MSB 285147" ; Times: 1
+	Query: "Macrophyllum macrophyllum mappable:1" ; Times: 1
+	Query: "MSB 151511" ; Times: 2
+	Query: "MSB 151510" ; Times: 2
+	Query: "NK 169178" ; Times: 1
+	Query: "Eumops auripendulus mappable:1" ; Times: 1
+	Query: "LVT 416" ; Times: 1
+	Query: "304603" ; Times: 1
+	Query: "beaty" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus locality:Boise stateprovince:&#34;Idaho&#34;" ; Times: 1
+	Query: "278984" ; Times: 1
+	Query: "Mitkof island order:carnivora stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "(bison)" ; Times: 1
+	Query: "san vito class:mammalia stateprovince:&#34;puntarenas&#34; country:&#34;costa rica&#34; sex:male" ; Times: 1
+	Query: "Tayassu pecari mappable:1" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;tulare&#34; stateprovince:&#34;California&#34; hastissue:1" ; Times: 1
+	Query: "NK 53248" ; Times: 2
+	Query: "EAR 5182" ; Times: 1
+	Query: "thylamys elegans year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "genus:tamiasciurus class:mammalia stateprovince:&#34;maine&#34; institutioncode:MSB" ; Times: 1
+	Query: "Pygoderma bilabiatum mappable:1" ; Times: 1
+	Query: "class:mammalia stateprovince:&#34;maine&#34; institutioncode:MSB" ; Times: 4
+	Query: "Brucepattersonius soricinus mappable:1" ; Times: 1
+	Query: "sciurus carolinensis hastissue:1" ; Times: 3
+	Query: "Myotis septentrionalis" ; Times: 1
+	Query: "Neotamias minimus" ; Times: 2
+	Query: "Oxymycterus delator mappable:1" ; Times: 1
+	Query: "genus:thomomys stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "Cynomops planirostris mappable:1" ; Times: 1
+	Query: "catalognumber:43177 institutioncode:MSB" ; Times: 2
+	Query: "Eumops bonariensis mappable:1" ; Times: 1
+	Query: "Ornithorhynchus" ; Times: 1
+	Query: "Abrothrix andinus mappable:1" ; Times: 1
+	Query: "specificepithet:lepida genus:neotoma county:&#34;kern&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "equus" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;Alaska&#34; country:&#34;United States&#34; hastissue:1" ; Times: 1
+	Query: "Marmosa lepida" ; Times: 2
+	Query: "Histiotus montanus mappable:1" ; Times: 4
+	Query: "Micronycteris hirsuta mappable:1" ; Times: 1
+	Query: "monster" ; Times: 2
+	Query: "sylvatica hastissue:1" ; Times: 1
+	Query: "genus:tamias class:mammalia stateprovince:&#34;vermont&#34; institutioncode:MSB" ; Times: 1
+	Query: "MSB 113859" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 72 (out of 940 download events in this period)
+Total number of records downloaded: 50240
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 24
+	Country: Canada ; Times: 1
+	Country: Australia ; Times: 2
+	Country: Colombia ; Times: 2
+	Country: Mexico ; Times: 7
+	Country: United States ; Times: 29
+	Country: Ethiopia ; Times: 4
+	Country: Peru ; Times: 2
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-31 ; Times: 6
+	Date: 2019-05-09 ; Times: 2
+	Date: 2019-05-08 ; Times: 2
+	Date: 2019-05-07 ; Times: 5
+	Date: 2019-05-06 ; Times: 7
+	Date: 2019-05-03 ; Times: 3
+	Date: 2019-05-02 ; Times: 1
+	Date: 2019-05-01 ; Times: 2
+	Date: 2019-05-25 ; Times: 2
+	Date: 2019-05-27 ; Times: 3
+	Date: 2019-05-26 ; Times: 3
+	Date: 2019-05-21 ; Times: 4
+	Date: 2019-05-20 ; Times: 1
+	Date: 2019-05-23 ; Times: 1
+	Date: 2019-05-22 ; Times: 6
+	Date: 2019-05-29 ; Times: 1
+	Date: 2019-05-28 ; Times: 1
+	Date: 2019-05-10 ; Times: 1
+	Date: 2019-05-11 ; Times: 2
+	Date: 2019-05-13 ; Times: 8
+	Date: 2019-05-14 ; Times: 4
+	Date: 2019-05-15 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "order:Anura" ; Times: 1
+	Query: "IF 396" ; Times: 1
+	Query: "thylamys pallidior year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "Philander opossum year &gt;= 1965 year &lt;= 2019" ; Times: 1
+	Query: "marmosops ocellatus year &gt;= 1965 year &lt;= 2019" ; Times: 1
+	Query: "specificepithet:mexicanus genus:Peromyscus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Sorex sonomae" ; Times: 1
+	Query: "Chinchillula sahamae" ; Times: 2
+	Query: "Graphiurus murinus" ; Times: 2
+	Query: "&#34;Peromyscus&#34; &#34;leucopus&#34; &#34;Michigan&#34; year &gt;= 2000" ; Times: 1
+	Query: "didelphis pernigra year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "marmosops noctivagus year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "thylamys pusillus year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "marmosops impavidus year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "class:Mammalia county:&#34;Harney&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Caluromys lanatus year &gt;= 1965 year &lt;= 2019" ; Times: 1
+	Query: "arborimus pomo" ; Times: 1
+	Query: "thylamys sponsorius year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "&#34;Marmosops dorothea&#34;" ; Times: 1
+	Query: "Urocitellus columbianus" ; Times: 1
+	Query: "class:Mammalia stateprovince:Oregon" ; Times: 1
+	Query: "thylamys venustus year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "Puma concolor" ; Times: 2
+	Query: "country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Caluromysiops irrupta" ; Times: 1
+	Query: "class:Mammalia country:&#34;Colombia&#34;" ; Times: 1
+	Query: "thylamys elegans year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "roan antelope" ; Times: 2
+	Query: "specificepithet:austroriparius genus:Myotis country:&#34;United States&#34; sex:Female" ; Times: 1
+	Query: "sorex palustris" ; Times: 1
+	Query: "specificepithet:latrans genus:canis" ; Times: 1
+	Query: "genus:Vampyrum" ; Times: 1
+	Query: "order:Soricomorpha hastissue:1" ; Times: 1
+	Query: "Glironia venusta" ; Times: 1
+	Query: "sciurus carolinensis hastissue:1" ; Times: 1
+	Query: "&#34;*Urocitellus columbianus&#34;" ; Times: 1
+	Query: "Caenolestes fuliginosus" ; Times: 1
+	Query: "didelphis marsupialis year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "gracilinanus agilis year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "peromyscus vntype:specimen basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Marmosops bishopi" ; Times: 1
+	Query: "Chaetodipus penicillatus" ; Times: 1
+	Query: "Marmosa lepida" ; Times: 1
+	Query: "gracilinanus microtarsus" ; Times: 1
+	Query: "specificepithet:merriami genus:Tamias" ; Times: 1
+	Query: "Myotis austroriparius" ; Times: 1
+	Query: "peromyscus vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "ursus americanus" ; Times: 1
+	Query: "Myocastor coypus" ; Times: 1
+	Query: "specificepithet:bulleri genus:Tamias" ; Times: 1
+	Query: "equus" ; Times: 1
+	Query: "Canis lupus baileyi" ; Times: 1
+	Query: "specificepithet:pardalis genus:leopardus" ; Times: 1
+	Query: "Monodelphis adusta" ; Times: 1
+	Query: "vntype:specimen genus:grus" ; Times: 1
+	Query: "martes americana" ; Times: 1
+	Query: "vntype:specimen genus:Peromyscus year &gt;= 2018 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "diphylla" ; Times: 1
+	Query: "class:Mammalia locality:Big Bend distance(location,geopoint(29.111422091330006,-103.18072768657356))&lt;49192" ; Times: 1
+	Query: "bassariscus astutus" ; Times: 1
+	Query: "sylvatica hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:virginianus genus:bubo year &gt;= 1991 year &lt;= 2000" ; Times: 1
+	Query: "myotis austroriparius" ; Times: 1
+	Query: "class:Mammalia distance(location,geopoint(23.36048311832555,-110.01021818168437))&lt;39962" ; Times: 1
+	Query: "Myrmecophaga tridactyla" ; Times: 1
+	Query: "didelphis albiventris year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "Rana sylvatica hastissue:1" ; Times: 1
+
+
+End of report.
