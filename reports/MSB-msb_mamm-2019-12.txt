@@ -1,0 +1,689 @@
+Report for Institution Code MSB, Resource msb_mamm
+Usage stats for December 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 697
+Number of records retrieved in searches: 9615
+Number of different countries where searches have been originated: 21
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 34
+	Country: United States ; Times: 545
+	Country: Netherlands ; Times: 2
+	Country: Australia ; Times: 1
+	Country: Belgium ; Times: 3
+	Country: Chile ; Times: 17
+	Country: Mexico ; Times: 32
+	Country: Unknown ; Times: 9
+	Country: Nepal ; Times: 5
+	Country: India ; Times: 1
+	Country: Mongolia ; Times: 1
+	Country: France ; Times: 7
+	Country: United Kingdom ; Times: 3
+	Country: Peru ; Times: 6
+	Country: Uruguay ; Times: 2
+	Country: Germany ; Times: 4
+	Country: Colombia ; Times: 3
+	Country: Paraguay ; Times: 1
+	Country: Argentina ; Times: 3
+	Country: New Zealand ; Times: 2
+	Country: Ecuador ; Times: 16
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-25 ; Times: 4
+	Date: 2019-12-24 ; Times: 10
+	Date: 2019-12-27 ; Times: 16
+	Date: 2019-12-26 ; Times: 10
+	Date: 2019-12-21 ; Times: 6
+	Date: 2019-12-20 ; Times: 31
+	Date: 2019-12-23 ; Times: 7
+	Date: 2019-12-22 ; Times: 3
+	Date: 2019-12-29 ; Times: 5
+	Date: 2019-12-28 ; Times: 12
+	Date: 2019-12-18 ; Times: 42
+	Date: 2019-12-19 ; Times: 14
+	Date: 2019-12-10 ; Times: 41
+	Date: 2019-12-11 ; Times: 50
+	Date: 2019-12-12 ; Times: 25
+	Date: 2019-12-13 ; Times: 53
+	Date: 2019-12-14 ; Times: 1
+	Date: 2019-12-15 ; Times: 8
+	Date: 2019-12-16 ; Times: 9
+	Date: 2019-12-17 ; Times: 16
+	Date: 2019-12-30 ; Times: 15
+	Date: 2019-12-31 ; Times: 37
+	Date: 2019-12-09 ; Times: 28
+	Date: 2019-12-08 ; Times: 11
+	Date: 2019-12-07 ; Times: 8
+	Date: 2019-12-06 ; Times: 45
+	Date: 2019-12-05 ; Times: 32
+	Date: 2019-12-04 ; Times: 47
+	Date: 2019-12-03 ; Times: 64
+	Date: 2019-12-02 ; Times: 28
+	Date: 2019-12-01 ; Times: 19
+
+List of queries that retrieved data from the resource: 
+	Query: "241211" ; Times: 1
+	Query: "specificepithet:gracilis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "dipodomys microps" ; Times: 1
+	Query: "specificepithet:frenata genus:Mustela county:&#34;Doña Ana&#34;" ; Times: 1
+	Query: "231176" ; Times: 1
+	Query: "country:Ecuador scientificname:Thomasomys cinnameus " ; Times: 2
+	Query: "specificepithet:maniculatus genus:Peromyscus locality:Farmington county:&#34;San Juan&#34; stateprovince:&#34;New Mexico&#34; hastissue:1" ; Times: 1
+	Query: "specificepithet:lepida genus:neotoma county:&#34;imperial&#34; stateprovince:&#34;california&#34; institutioncode:MSB" ; Times: 1
+	Query: "genus:Myotis locality:Pecos National Park county:&#34;San Miguel&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "class:Mammalia institutioncode:MSB" ; Times: 1
+	Query: "specificepithet:niger genus:sciurus stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "244584" ; Times: 1
+	Query: "241679" ; Times: 1
+	Query: "55764" ; Times: 1
+	Query: "241676" ; Times: 1
+	Query: "241912" ; Times: 1
+	Query: "241914" ; Times: 2
+	Query: "241454" ; Times: 1
+	Query: "241322" ; Times: 1
+	Query: "nyctinomops macrotis" ; Times: 1
+	Query: "Mustela year:2010" ; Times: 2
+	Query: "241329" ; Times: 1
+	Query: "58319" ; Times: 1
+	Query: "genus:Myotis county:&#34;San Miguel&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 2
+	Query: "Didelphis Virginiana stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "167135" ; Times: 1
+	Query: "Owl skull" ; Times: 3
+	Query: "class:Mammalia stateprovince:&#34;New York&#34; country:&#34;United States&#34; hastissue:1" ; Times: 3
+	Query: "specificepithet:Maniculatus genus:Peromyscus locality:Ft Larned county:&#34;Pawnee&#34; stateprovince:&#34;Kansas&#34; hastissue:1" ; Times: 1
+	Query: "MSB 211149" ; Times: 2
+	Query: "specificepithet:cursor genus:Akodon" ; Times: 1
+	Query: "2013-1064" ; Times: 1
+	Query: "242524" ; Times: 1
+	Query: "242523" ; Times: 1
+	Query: "county:&#34;Lane&#34; stateprovince:&#34;Oregon&#34; year &lt;= 1950" ; Times: 1
+	Query: "241525" ; Times: 1
+	Query: "lasiurus seminolus" ; Times: 1
+	Query: "Sphiggurus" ; Times: 1
+	Query: "genus:Eptesicus county:&#34;Los Angeles&#34;" ; Times: 1
+	Query: "NK 96067" ; Times: 1
+	Query: "240919" ; Times: 1
+	Query: "242201" ; Times: 1
+	Query: "240925" ; Times: 1
+	Query: "242204" ; Times: 1
+	Query: "242205" ; Times: 1
+	Query: "specificepithet:maniculatus genus:peromyscus county:&#34;salt lake&#34; stateprovince:&#34;utah&#34; hastissue:1" ; Times: 1
+	Query: "242063" ; Times: 1
+	Query: "242064" ; Times: 1
+	Query: "227015" ; Times: 1
+	Query: "brucei" ; Times: 2
+	Query: "genus:ailurus" ; Times: 1
+	Query: "namaquensis" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;California&#34; hastissue:1" ; Times: 1
+	Query: "MSB 238175" ; Times: 2
+	Query: "208083" ; Times: 1
+	Query: "141431" ; Times: 1
+	Query: "specificepithet:audubonii genus:sylvilagus county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:MSB" ; Times: 1
+	Query: "AMNH 21199" ; Times: 1
+	Query: "242446" ; Times: 1
+	Query: "242447" ; Times: 1
+	Query: "Crocuta crocuta" ; Times: 1
+	Query: "tcwc" ; Times: 1
+	Query: "242448" ; Times: 1
+	Query: "242463" ; Times: 1
+	Query: "242122" ; Times: 1
+	Query: "specificepithet:femorosaccus order:Chiroptera stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:EUMETOPIAS stateprovince:&#34;california&#34;" ; Times: 2
+	Query: "MSB 84837" ; Times: 1
+	Query: "NK 96763" ; Times: 1
+	Query: "specificepithet:peromyscus maniculatus hastissue:1" ; Times: 3
+	Query: "catalognumber:101288 institutioncode:MSB" ; Times: 1
+	Query: "specificepithet:maniculatus genus:peromyscus county:&#34;Coconino&#34; stateprovince:&#34;Arizona&#34; hastissue:1" ; Times: 1
+	Query: "241816" ; Times: 1
+	Query: "specificepithet:mexicana genus:Neotoma year &gt;= 2018 year &lt;= 2019" ; Times: 1
+	Query: "locality:six rivers county:&#34;Humboldt&#34;" ; Times: 1
+	Query: "catalognumber:36799" ; Times: 1
+	Query: "pero" ; Times: 1
+	Query: "dipodomys stephensi" ; Times: 2
+	Query: "50129" ; Times: 2
+	Query: "13208" ; Times: 1
+	Query: "241030" ; Times: 1
+	Query: "241369" ; Times: 1
+	Query: "241241" ; Times: 1
+	Query: "NK 160526" ; Times: 1
+	Query: "241491" ; Times: 1
+	Query: "241718" ; Times: 1
+	Query: "genus:Taxidea institutioncode:MSB hastissue:1" ; Times: 2
+	Query: "&#34;synaptomys cooperi&#34; vntype:specimen stateprovince:&#34;maine&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "241364" ; Times: 1
+	Query: "specificepithet:townsendii genus:lepus basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "lynx rufus" ; Times: 1
+	Query: "Timm" ; Times: 1
+	Query: "bald eagle" ; Times: 1
+	Query: "241394" ; Times: 1
+	Query: "241393" ; Times: 1
+	Query: "puma concolor" ; Times: 3
+	Query: "13110" ; Times: 3
+	Query: "myotis austroriparius" ; Times: 1
+	Query: "240860" ; Times: 1
+	Query: "panthera uncia" ; Times: 3
+	Query: "208078" ; Times: 1
+	Query: "specificepithet:crinitus genus:peromyscus county:&#34;imperial&#34; stateprovince:&#34;california&#34; institutioncode:MSB" ; Times: 1
+	Query: "country:Ecuador scientificname:Cryptotis montivaga " ; Times: 1
+	Query: "MSB 74965" ; Times: 2
+	Query: "242045" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;Montana&#34; hastissue:1" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;New York&#34; hastissue:1" ; Times: 1
+	Query: "catalognumber:1129" ; Times: 1
+	Query: "241401" ; Times: 1
+	Query: "axis" ; Times: 1
+	Query: "catalognumber:249005 institutioncode:MSB" ; Times: 1
+	Query: "hyoid" ; Times: 1
+	Query: "THYLAMYS ELEGANS" ; Times: 15
+	Query: "156384" ; Times: 1
+	Query: "specificepithet:megacephalus country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "125787" ; Times: 1
+	Query: "242416" ; Times: 1
+	Query: "specificepithet:Peromyscus maniculatus hastissue:1" ; Times: 1
+	Query: "NK 95111" ; Times: 1
+	Query: "specificepithet:maniculatus genus:peromyscus county:&#34;lassen county&#34; stateprovince:&#34;california&#34; hastissue:1" ; Times: 4
+	Query: "Trichechus manatus mappable:1" ; Times: 2
+	Query: "160714" ; Times: 1
+	Query: "leishmania" ; Times: 1
+	Query: "country:Ecuador scientificname:Akodon mollis " ; Times: 3
+	Query: "675180" ; Times: 1
+	Query: "country:Ecuador scientificname:Akodon aerosus " ; Times: 1
+	Query: "country:Ecuador scientificname:Thomasomys aureus " ; Times: 1
+	Query: "vntype:specimen locality:Greenland" ; Times: 2
+	Query: "207569" ; Times: 1
+	Query: "224542" ; Times: 1
+	Query: "207567" ; Times: 1
+	Query: "11719" ; Times: 1
+	Query: "MSB 51132" ; Times: 1
+	Query: "241906" ; Times: 1
+	Query: "catalognumber:230671 institutioncode:MSB" ; Times: 1
+	Query: "hedgehog" ; Times: 1
+	Query: "53319" ; Times: 1
+	Query: "MSB 58325" ; Times: 1
+	Query: "ctenomys" ; Times: 1
+	Query: "catalognumber:248766 institutioncode:MSB" ; Times: 4
+	Query: "MSB 58328" ; Times: 1
+	Query: "147931" ; Times: 1
+	Query: "locality:&#34;Hemet Lake&#34; county:&#34;Riverside&#34;" ; Times: 1
+	Query: "specificepithet:Peromyscus maniculatus" ; Times: 2
+	Query: "SP 3030" ; Times: 1
+	Query: "specificepithet:parva genus:Cryptotis institutioncode:MSB hastissue:1" ; Times: 1
+	Query: "242020" ; Times: 1
+	Query: "110738" ; Times: 1
+	Query: "catalognumber:11941 institutioncode:MSB" ; Times: 1
+	Query: "18569" ; Times: 1
+	Query: "239423" ; Times: 1
+	Query: "240798" ; Times: 1
+	Query: "241614" ; Times: 1
+	Query: "specificepithet:femorosaccus order:Chiroptera" ; Times: 1
+	Query: "204230" ; Times: 1
+	Query: "Mazama americana" ; Times: 1
+	Query: "specificepithet:maniculatus genus:peromyscus stateprovince:&#34;arizona&#34; hastissue:1" ; Times: 1
+	Query: "NK 96791" ; Times: 1
+	Query: "bulleri country:&#34;mexico&#34;" ; Times: 1
+	Query: "241196" ; Times: 1
+	Query: "genus:ailurus country:&#34;United States&#34;" ; Times: 4
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;Lassen&#34; stateprovince:&#34;California&#34; hastissue:1" ; Times: 1
+	Query: "Lycaon pictus" ; Times: 1
+	Query: "catalognumber:101900 institutioncode:MSB" ; Times: 1
+	Query: "241103" ; Times: 1
+	Query: "224539" ; Times: 1
+	Query: "241844" ; Times: 1
+	Query: "241840" ; Times: 1
+	Query: "NK 160518" ; Times: 1
+	Query: "241337" ; Times: 1
+	Query: "nematode" ; Times: 1
+	Query: "UIMNH" ; Times: 1
+	Query: "32093" ; Times: 1
+	Query: "155405" ; Times: 1
+	Query: "175564 Peromyscus" ; Times: 1
+	Query: "liver spleen kidney heart muscle lung ovary" ; Times: 1
+	Query: "specificepithet:parryii genus:Urocitellus" ; Times: 1
+	Query: "241682" ; Times: 1
+	Query: "NK 95354" ; Times: 1
+	Query: "20195" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;Arizona&#34; hastissue:1" ; Times: 2
+	Query: "ovary martes" ; Times: 2
+	Query: "227820" ; Times: 1
+	Query: "county:&#34;calaveras&#34;" ; Times: 1
+	Query: "specificepithet:lineatus genus:Chaetodipus" ; Times: 1
+	Query: "young 1932" ; Times: 1
+	Query: "catalognumber:164755" ; Times: 1
+	Query: "243137" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "242518" ; Times: 1
+	Query: "specificepithet:guttatus year &gt;= 1980 month &gt;= 6 month &lt;= 7 hastissue:1" ; Times: 1
+	Query: "monster" ; Times: 1
+	Query: "242516" ; Times: 1
+	Query: "242517" ; Times: 1
+	Query: "catalognumber:40050 institutioncode:MSB" ; Times: 2
+	Query: "stateprovince:Azuay class:Mammalia " ; Times: 1
+	Query: "248487" ; Times: 1
+	Query: "country:Ecuador scientificname:Thomasomys caudivarius " ; Times: 1
+	Query: "241260" ; Times: 1
+	Query: "241532" ; Times: 1
+	Query: "catalognumber:247005 institutioncode:MSB" ; Times: 1
+	Query: "24368" ; Times: 2
+	Query: "NK 96072" ; Times: 1
+	Query: "240958" ; Times: 1
+	Query: "242357" ; Times: 1
+	Query: "242603" ; Times: 1
+	Query: "200175" ; Times: 1
+	Query: "154973" ; Times: 1
+	Query: "139834" ; Times: 1
+	Query: "SERVAL" ; Times: 1
+	Query: "specificepithet:putorius genus:spilogale institutioncode:MSB" ; Times: 1
+	Query: "242855" ; Times: 1
+	Query: "241895" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;Texas&#34; hastissue:1" ; Times: 1
+	Query: "microtus chrotorrhinus" ; Times: 16
+	Query: "59361" ; Times: 1
+	Query: "NK 106178" ; Times: 1
+	Query: "242107" ; Times: 1
+	Query: "order:Chiroptera county:&#34;Bernalillo&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 8
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;north carolina&#34; hastissue:1" ; Times: 1
+	Query: "242109" ; Times: 1
+	Query: "MSB 83399" ; Times: 1
+	Query: "genus:Myotis county:&#34;Culberson&#34; stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "phyllotis darwini" ; Times: 1
+	Query: "specificepithet:dispar genus:Sorex" ; Times: 1
+	Query: "specificepithet:maniculatus genus:peromyscus county:&#34;Taos&#34; stateprovince:&#34;New Mexico&#34; hastissue:1" ; Times: 1
+	Query: "vntype:specimen genus:chironectes" ; Times: 1
+	Query: "order:Chiroptera locality:Pecos National Park county:&#34;San Miguel&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 2
+	Query: "241802" ; Times: 1
+	Query: "242108" ; Times: 1
+	Query: "241807" ; Times: 1
+	Query: "241809" ; Times: 1
+	Query: "88850" ; Times: 1
+	Query: "239121" ; Times: 1
+	Query: "genus:canis stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "genus:Reithrodontomys stateprovince:&#34;Baja California&#34;" ; Times: 2
+	Query: "lagurus" ; Times: 1
+	Query: "catalognumber:66209 institutioncode:MSB" ; Times: 1
+	Query: "specificepithet:maniculatus genus:peromyscus county:&#34;el paso&#34; stateprovince:&#34;texas&#34; hastissue:1" ; Times: 1
+	Query: "nyctinomops femorosaccus" ; Times: 1
+	Query: "country:Ecuador scientificname:Dinomys branickii " ; Times: 2
+	Query: "14153" ; Times: 1
+	Query: "243173" ; Times: 1
+	Query: "L. R. Wolfe" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;El paso&#34; hastissue:1" ; Times: 1
+	Query: "NK 27606" ; Times: 1
+	Query: "241908" ; Times: 1
+	Query: "241651" ; Times: 1
+	Query: "241871" ; Times: 1
+	Query: "68443" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/MSB:Mamm:56979?seid=1643089&#34; OR &#34;urn:catalog:CM:Herps:116520&#34;" ; Times: 1
+	Query: "241795" ; Times: 1
+	Query: "204411" ; Times: 1
+	Query: "NK 95677" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;arizona&#34; hastissue:1" ; Times: 1
+	Query: "msb 87484" ; Times: 1
+	Query: "33534" ; Times: 1
+	Query: "oligoryzomys flavescens" ; Times: 1
+	Query: "215898" ; Times: 1
+	Query: "241902" ; Times: 1
+	Query: "puma" ; Times: 1
+	Query: "AMNH 12449" ; Times: 1
+	Query: "catalognumber:216148 institutioncode:MSB" ; Times: 3
+	Query: "AMNH 12445" ; Times: 1
+	Query: "241937" ; Times: 1
+	Query: "AMNH 12446" ; Times: 1
+	Query: "lycalopex" ; Times: 1
+	Query: "nk 17807" ; Times: 3
+	Query: "242314" ; Times: 1
+	Query: "242252" ; Times: 1
+	Query: "242318" ; Times: 1
+	Query: "catalognumber:139025" ; Times: 1
+	Query: "Reithrodontomys mexicanus" ; Times: 1
+	Query: "242254" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;Nevada&#34; hastissue:1" ; Times: 1
+	Query: "specificepithet:taxus genus:Taxidea institutioncode:MSB hastissue:1" ; Times: 2
+	Query: "specificepithet:Maniculatus genus:Peromyscus county:&#34;Gallatin&#34; stateprovince:&#34;Montana&#34; hastissue:1" ; Times: 1
+	Query: "skunk" ; Times: 1
+	Query: "MSB 70383" ; Times: 2
+	Query: "Holochilus" ; Times: 2
+	Query: "224701" ; Times: 1
+	Query: "catalognumber:248005 institutioncode:MSB" ; Times: 1
+	Query: "catalognumber:106704 institutioncode:MSB" ; Times: 1
+	Query: "country:Ecuador scientificname:Neusticomys monticolus " ; Times: 2
+	Query: "241552" ; Times: 1
+	Query: "genus:Tadarida county:&#34;Culberson&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Transandinomys talamancae " ; Times: 1
+	Query: "vntype:specimen specificepithet:tenellus genus:Sorex country:&#34;United States&#34;" ; Times: 1
+	Query: "catalognumber:125049 institutioncode:MSB" ; Times: 1
+	Query: "lepidoptera" ; Times: 1
+	Query: "78651" ; Times: 2
+	Query: "242650" ; Times: 1
+	Query: "mammal vntype:specimen (new york) hastissue:1" ; Times: 1
+	Query: "78659" ; Times: 1
+	Query: "242553" ; Times: 1
+	Query: "Leptailurus serval" ; Times: 2
+	Query: "vulpes zerda liver" ; Times: 1
+	Query: "124577" ; Times: 1
+	Query: "genus:Myotis locality:Pecos county:&#34;San Miguel&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "genus:Bassariscus" ; Times: 2
+	Query: "241057" ; Times: 1
+	Query: "Histiotus" ; Times: 5
+	Query: "catalognumber:66181 institutioncode:MSB" ; Times: 2
+	Query: "msb 262229" ; Times: 1
+	Query: "catalognumber:71812" ; Times: 1
+	Query: "specificepithet:putorius genus:SPilogale" ; Times: 3
+	Query: "country:Ecuador scientificname:Thomasomys hudsoni " ; Times: 1
+	Query: "catalognumber:71814" ; Times: 1
+	Query: "242031" ; Times: 1
+	Query: "242037" ; Times: 1
+	Query: "frederick island" ; Times: 2
+	Query: "55084" ; Times: 1
+	Query: "255898" ; Times: 1
+	Query: "NK 95622" ; Times: 1
+	Query: "52713" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 8
+	Query: "nyctinomops aurispinosus" ; Times: 2
+	Query: "genus:vulpes haslifestage:1 hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "country:Ecuador scientificname:Caenolestes fuliginosus " ; Times: 1
+	Query: "241936" ; Times: 1
+	Query: "241939" ; Times: 1
+	Query: "specificepithet:maniculatus genus:peromyscus county:&#34;El Paso&#34; stateprovince:&#34;Texas&#34; hastissue:1" ; Times: 1
+	Query: "109195" ; Times: 1
+	Query: "224529" ; Times: 1
+	Query: "241116" ; Times: 1
+	Query: "204409" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;Idaho&#34; hastissue:1" ; Times: 1
+	Query: "Lepus townsendii stateprovince:&#34;Nebraska&#34; startdayofyear &lt;= 1970" ; Times: 1
+	Query: "specificepithet:maniculatus genus:peromyscus county:&#34;Lassen&#34; stateprovince:&#34;California&#34; hastissue:1" ; Times: 1
+	Query: "241306" ; Times: 1
+	Query: "233094" ; Times: 1
+	Query: "233097" ; Times: 1
+	Query: "(Bald eagle)" ; Times: 6
+	Query: "23783" ; Times: 1
+	Query: "207439" ; Times: 1
+	Query: "NK 95691" ; Times: 1
+	Query: "241944" ; Times: 1
+	Query: "241945" ; Times: 1
+	Query: "241943" ; Times: 1
+	Query: "37484" ; Times: 2
+	Query: "vntype:specimen specificepithet:townsendii genus:lepus year &lt;= 2018 month &lt;= 12 enddayofyear &lt;= 8" ; Times: 1
+	Query: "240636" ; Times: 1
+	Query: "Sapo" ; Times: 2
+	Query: "specificepithet:rufus genus:Canis year &gt;= 1400 year &lt;= 1910" ; Times: 2
+	Query: "ovary mustelidae" ; Times: 1
+	Query: "241424" ; Times: 1
+	Query: "54011" ; Times: 1
+	Query: "genus:vulpes haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "11270." ; Times: 1
+	Query: "396684" ; Times: 1
+	Query: "242265" ; Times: 1
+	Query: "207539" ; Times: 1
+	Query: "1161489" ; Times: 1
+	Query: "NK 96045" ; Times: 1
+	Query: "bumblebee" ; Times: 1
+	Query: "260973" ; Times: 1
+	Query: "56609" ; Times: 1
+	Query: "242009" ; Times: 1
+	Query: "mustela nigripes" ; Times: 2
+	Query: "specificepithet:pallidior genus:Thylamys" ; Times: 3
+	Query: "ovary carnivora" ; Times: 1
+	Query: "specificepithet:noctivagans genus:Lasionycteris stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Sigmodon peruanus " ; Times: 1
+	Query: "specificepithet:striatus genus:Tamias hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "gag" ; Times: 1
+	Query: "91317" ; Times: 1
+	Query: "91315" ; Times: 1
+	Query: "91314" ; Times: 1
+	Query: "227082" ; Times: 1
+	Query: "234782" ; Times: 1
+	Query: "vntype:specimen specificepithet:townsendii genus:lepus year &lt;= 2018" ; Times: 1
+	Query: "242504" ; Times: 1
+	Query: "TOLYPEUTES" ; Times: 1
+	Query: "242464" ; Times: 1
+	Query: "lepus alleni" ; Times: 1
+	Query: "franklinii franklinii" ; Times: 1
+	Query: "58113" ; Times: 1
+	Query: "catalognumber:111941 institutioncode:MSB" ; Times: 2
+	Query: "lepus tolai" ; Times: 1
+	Query: "recordedby:Geluso" ; Times: 3
+	Query: "49481" ; Times: 2
+	Query: "242486" ; Times: 1
+	Query: "242485" ; Times: 1
+	Query: "Abrothrix andinus" ; Times: 1
+	Query: "aplodontia rufa" ; Times: 1
+	Query: "vntype:specimen specificepithet:maculatum genus:Euderma" ; Times: 1
+	Query: "myotis melanorhinus" ; Times: 1
+	Query: "liver spleen kidney muscle heart lung" ; Times: 1
+	Query: "oligoryzomys chacoensis" ; Times: 1
+	Query: "vntype:specimen genus:phyllotis family:Cricetidae" ; Times: 1
+	Query: "241019" ; Times: 1
+	Query: "myotis thysanodes" ; Times: 1
+	Query: "203515" ; Times: 1
+	Query: "14865" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "AMNH 21190" ; Times: 1
+	Query: "213997" ; Times: 1
+	Query: "NK 27583" ; Times: 1
+	Query: "catalognumber:233347 institutioncode:MSB" ; Times: 2
+	Query: "242087" ; Times: 1
+	Query: "country:Ecuador scientificname:Glossophaga soricina " ; Times: 3
+	Query: "241864" ; Times: 1
+	Query: "canis rufus" ; Times: 1
+	Query: "241866" ; Times: 1
+	Query: "ovary mammalia" ; Times: 1
+	Query: "msb 87485" ; Times: 1
+	Query: "138423 Microtus" ; Times: 1
+	Query: "lemmus nigripes" ; Times: 3
+	Query: "241904" ; Times: 1
+	Query: "class:Mammalia basisofrecord:PreservedSpecimen distance(location,geopoint(42.576666008679524,-118.57975172678323))&lt;34361" ; Times: 1
+	Query: "Microtus chrotorrhinus" ; Times: 8
+	Query: "country:&#34;India&#34; hastissue:1" ; Times: 1
+	Query: "NK 95436" ; Times: 1
+	Query: "pika nevada" ; Times: 1
+	Query: "Spilogale putorius" ; Times: 2
+	Query: "country:Ecuador scientificname:Phyllotis haggardi " ; Times: 2
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;Box Elder&#34; stateprovince:&#34;Utah&#34; hastissue:1" ; Times: 2
+	Query: "242309" ; Times: 1
+	Query: "myotis volans" ; Times: 1
+	Query: "205068" ; Times: 1
+	Query: "genus:zapus specificepithet:hudsonius stateprovince:(minnesota OR new mexico)" ; Times: 1
+	Query: "MSB 144216" ; Times: 1
+	Query: "genus:Odobenus" ; Times: 1
+	Query: "spilogale putorius" ; Times: 2
+	Query: "163509" ; Times: 1
+	Query: "242538" ; Times: 1
+	Query: "240953" ; Times: 1
+	Query: "241514" ; Times: 1
+	Query: "paridae spleen" ; Times: 1
+	Query: "17045" ; Times: 1
+	Query: "Mephitis mephitis stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "willardi mexico" ; Times: 1
+	Query: "27933" ; Times: 1
+	Query: "NK 96879" ; Times: 1
+	Query: "marmota monax" ; Times: 1
+	Query: "124580" ; Times: 1
+	Query: "specificepithet:sylvatica genus:Rana hastissue:1" ; Times: 1
+	Query: "catalognumber:163690" ; Times: 1
+	Query: "stateprovince:&#34;Nebraska&#34; recordedby:Geluso" ; Times: 3
+	Query: "116149" ; Times: 1
+	Query: "catalognumber:137772 institutioncode:MSB" ; Times: 1
+	Query: "244653" ; Times: 1
+	Query: "country:Ecuador scientificname:Microryzomys altissimus " ; Times: 1
+	Query: "167134" ; Times: 1
+	Query: "MSB 262229" ; Times: 1
+	Query: "Tonatia bidens" ; Times: 2
+	Query: "vntype:specimen specificepithet:curtatus genus:Lemmiscus stateprovince:&#34;Nevada&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "23496" ; Times: 1
+	Query: "vntype:specimen specificepithet:townsendii genus:lepus" ; Times: 1
+	Query: "specificepithet:sylvatica genus:Rana stateprovince:&#34;Alaska&#34; hastissue:1" ; Times: 1
+	Query: "Peromyscus leucopus Minnesota" ; Times: 1
+	Query: "country:Ecuador scientificname:Nephelomys albigularis " ; Times: 1
+	Query: "specificepithet:parva genus:Cryptotis hastissue:1" ; Times: 1
+	Query: "pika" ; Times: 2
+	Query: "28549" ; Times: 1
+	Query: "specificepithet:maniculatus genus:peromyscus county:&#34;cassia&#34; stateprovince:&#34;idaho&#34; hastissue:1" ; Times: 1
+	Query: "catalognumber:111940 institutioncode:MSB" ; Times: 1
+	Query: "207438" ; Times: 1
+	Query: "polar bear" ; Times: 2
+	Query: "204414" ; Times: 1
+	Query: "241120" ; Times: 1
+	Query: "204412" ; Times: 1
+	Query: "manis pentadactyla" ; Times: 5
+	Query: "Tonatia" ; Times: 1
+	Query: "specificepithet:townsendii genus:lepus year &lt;= 2018 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "MSB 55764" ; Times: 1
+	Query: "AMNH 386" ; Times: 3
+	Query: "255565" ; Times: 1
+	Query: "specificepithet:maniculatus genus:peromyscus county:&#34;yavapai&#34; stateprovince:&#34;arizona&#34; hastissue:1" ; Times: 1
+	Query: "vulpes zerda" ; Times: 1
+	Query: "&#34;Synaptomys cooperi&#34; vntype:specimen stateprovince:&#34;New York&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "242499" ; Times: 1
+	Query: "county:&#34;rowan&#34; stateprovince:&#34;Kentucky&#34;" ; Times: 8
+	Query: "specificepithet:fuscus genus:Eptesicus stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "321200" ; Times: 1
+	Query: "240896" ; Times: 1
+	Query: "241380" ; Times: 1
+	Query: "241384" ; Times: 1
+	Query: "stateprovince:&#34;New Mexico&#34; (Peromyscus maniculatus) hastissue:1" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;kansas&#34;" ; Times: 1
+	Query: "class:mammalia stateprovince:&#34;New York&#34; basisofrecord:PreservedSpecimen hastissue:1" ; Times: 2
+	Query: "specificepithet:lupus genus:Canis year &gt;= 1400 year &lt;= 1910" ; Times: 3
+	Query: "catalognumber:37671 institutioncode:MSB" ; Times: 2
+	Query: "224868" ; Times: 1
+	Query: "Neusticomys" ; Times: 3
+	Query: "241411" ; Times: 1
+	Query: "159630" ; Times: 1
+	Query: "243684" ; Times: 1
+	Query: "NK 17807" ; Times: 1
+	Query: "NK 95971" ; Times: 1
+	Query: "specificepithet:micropus genus:Loxodontomys" ; Times: 1
+	Query: "242279" ; Times: 1
+	Query: "242278" ; Times: 1
+	Query: "catalognumber:326128 institutioncode:MSB" ; Times: 1
+	Query: "specificepithet:maniculatus genus:peromyscus county:&#34;Salt Lake&#34; stateprovince:&#34;Utah&#34; hastissue:1" ; Times: 1
+	Query: "didelphis marsupialis" ; Times: 1
+	Query: "Chibchanomys" ; Times: 2
+	Query: "Peropteryx macrotis" ; Times: 1
+	Query: "76706" ; Times: 1
+	Query: "recordedby:Leonard Scott" ; Times: 1
+	Query: "242018" ; Times: 1
+	Query: "genus:Condylura" ; Times: 2
+	Query: "genus:Histiotus institutioncode:MSB" ; Times: 3
+	Query: "242014" ; Times: 1
+	Query: "Head Tail hasmass:1 haslength:1" ; Times: 1
+	Query: "99728" ; Times: 1
+	Query: "ovary liver spleen kidney heart muscle lung" ; Times: 2
+	Query: "catalognumber:143804" ; Times: 1
+	Query: "242088" ; Times: 1
+	Query: "242089" ; Times: 1
+	Query: "NK 105928" ; Times: 1
+	Query: "NK 96571" ; Times: 1
+	Query: "242706" ; Times: 1
+	Query: "abrothrix longipilis" ; Times: 1
+	Query: "Perognathus flavescens" ; Times: 2
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;Utah&#34; hastissue:1" ; Times: 1
+	Query: "242497" ; Times: 1
+	Query: "242496" ; Times: 1
+	Query: "genus:Neotoma year &gt;= 2018" ; Times: 1
+	Query: "NK 105407" ; Times: 1
+	Query: "241989" ; Times: 1
+	Query: "catalognumber:101290 institutioncode:MSB" ; Times: 1
+	Query: "specificepithet:elegans genus:Thylamys" ; Times: 1
+	Query: "locality:six rivers" ; Times: 1
+	Query: "locality:Dos Palmas county:&#34;Riverside&#34;" ; Times: 1
+	Query: "genus:Vulpes stateprovince:&#34;IDAHO&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 62 (out of 596 download events in this period)
+Total number of records downloaded: 13983
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Colombia ; Times: 2
+	Country: Mexico ; Times: 11
+	Country: Nepal ; Times: 1
+	Country: Mongolia ; Times: 1
+	Country: United States ; Times: 37
+	Country: Chile ; Times: 4
+	Country: Germany ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Paraguay ; Times: 1
+	Country: Argentina ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-27 ; Times: 2
+	Date: 2019-12-26 ; Times: 3
+	Date: 2019-12-20 ; Times: 1
+	Date: 2019-12-31 ; Times: 1
+	Date: 2019-12-02 ; Times: 8
+	Date: 2019-12-04 ; Times: 8
+	Date: 2019-12-18 ; Times: 2
+	Date: 2019-12-19 ; Times: 2
+	Date: 2019-12-06 ; Times: 2
+	Date: 2019-12-17 ; Times: 1
+	Date: 2019-12-09 ; Times: 6
+	Date: 2019-12-08 ; Times: 4
+	Date: 2019-12-10 ; Times: 5
+	Date: 2019-12-11 ; Times: 1
+	Date: 2019-12-05 ; Times: 1
+	Date: 2019-12-13 ; Times: 4
+	Date: 2019-12-03 ; Times: 1
+	Date: 2019-12-15 ; Times: 3
+	Date: 2019-12-16 ; Times: 2
+	Date: 2019-12-12 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Condylura" ; Times: 2
+	Query: "class:Mammalia basisofrecord:PreservedSpecimen distance(location,geopoint(42.576666008679524,-118.57975172678323))&lt;34361" ; Times: 1
+	Query: "lepus tolai" ; Times: 1
+	Query: "marmota monax" ; Times: 1
+	Query: "nyctinomops femorosaccus" ; Times: 1
+	Query: "leopardus wiedii" ; Times: 2
+	Query: "class:Mammalia stateprovince:&#34;New York&#34; country:&#34;United States&#34; hastissue:1" ; Times: 1
+	Query: "genus:canis stateprovince:&#34;Louisiana&#34;" ; Times: 2
+	Query: "Abrothrix andinus" ; Times: 1
+	Query: "genus:vulpes haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "genus:vulpes haslifestage:1 hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:longicaudatus genus:Oligoryzomys" ; Times: 1
+	Query: "del puerto canyon" ; Times: 1
+	Query: "specificepithet:dispar genus:Sorex" ; Times: 1
+	Query: "myotis melanorhinus" ; Times: 1
+	Query: "myotis volans" ; Times: 1
+	Query: "oligoryzomys chacoensis" ; Times: 2
+	Query: "vntype:specimen genus:phyllotis family:Cricetidae" ; Times: 1
+	Query: "specificepithet:lineatus genus:Chaetodipus" ; Times: 3
+	Query: "THYLAMYS ELEGANS" ; Times: 2
+	Query: "specificepithet:rufus genus:Canis year &gt;= 1400 year &lt;= 1910" ; Times: 1
+	Query: "myotis thysanodes" ; Times: 1
+	Query: "genus:Odobenus" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "Sphaeronycteris" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "class:mammalia stateprovince:&#34;New York&#34; basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Lepus townsendii stateprovince:&#34;Nebraska&#34; startdayofyear &lt;= 1970" ; Times: 1
+	Query: "Head Tail hasmass:1 haslength:1" ; Times: 1
+	Query: "abrothrix longipilis" ; Times: 1
+	Query: "aplodontia rufa" ; Times: 1
+	Query: "phyllotis darwini" ; Times: 1
+	Query: "Perognathus flavescens" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "nyctinomops macrotis" ; Times: 1
+	Query: "oligoryzomys flavescens" ; Times: 1
+	Query: "specificepithet:striatus genus:Tamias hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "lynx rufus" ; Times: 1
+	Query: "Timm" ; Times: 1
+	Query: "specificepithet:elegans genus:Thylamys" ; Times: 1
+	Query: "specificepithet:pallidior genus:Thylamys" ; Times: 2
+	Query: "myotis yumanensis" ; Times: 1
+	Query: "Lycaon pictus" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "specificepithet:micropus genus:Loxodontomys" ; Times: 1
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "canis rufus" ; Times: 1
+	Query: "specificepithet:taxus genus:Taxidea institutioncode:MSB hastissue:1" ; Times: 2
+	Query: "myotis austroriparius" ; Times: 1
+	Query: "fish vntype:specimen (new york) hastissue:1" ; Times: 1
+	Query: "Panthera leo" ; Times: 2
+	Query: "manis pentadactyla" ; Times: 1
+
+
+End of report.
