@@ -1,0 +1,377 @@
+Report for Institution Code MSB, Resource msb_mamm
+Usage stats for June 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 618
+Number of records retrieved in searches: 19911
+Number of different countries where searches have been originated: 19
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Brazil ; Times: 20
+	Country: Italy ; Times: 1
+	Country: Ireland ; Times: 4
+	Country: Mexico ; Times: 60
+	Country: Unknown ; Times: 3
+	Country: Poland ; Times: 1
+	Country: Nepal ; Times: 1
+	Country: India ; Times: 12
+	Country: Singapore ; Times: 2
+	Country: Peru ; Times: 6
+	Country: South Africa ; Times: 1
+	Country: United States ; Times: 408
+	Country: Guatemala ; Times: 1
+	Country: United Kingdom ; Times: 56
+	Country: Colombia ; Times: 7
+	Country: Switzerland ; Times: 1
+	Country: Argentina ; Times: 5
+	Country: Bolivia ; Times: 27
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-18 ; Times: 2
+	Date: 2020-06-30 ; Times: 2
+	Date: 2020-06-15 ; Times: 5
+	Date: 2020-06-14 ; Times: 6
+	Date: 2020-06-17 ; Times: 27
+	Date: 2020-06-16 ; Times: 13
+	Date: 2020-06-11 ; Times: 44
+	Date: 2020-06-10 ; Times: 127
+	Date: 2020-06-13 ; Times: 6
+	Date: 2020-06-12 ; Times: 45
+	Date: 2020-06-08 ; Times: 62
+	Date: 2020-06-27 ; Times: 3
+	Date: 2020-06-28 ; Times: 6
+	Date: 2020-06-07 ; Times: 3
+	Date: 2020-06-20 ; Times: 6
+	Date: 2020-06-21 ; Times: 2
+	Date: 2020-06-22 ; Times: 2
+	Date: 2020-06-23 ; Times: 2
+	Date: 2020-06-24 ; Times: 1
+	Date: 2020-06-26 ; Times: 1
+	Date: 2020-06-09 ; Times: 28
+	Date: 2020-06-06 ; Times: 16
+	Date: 2020-06-29 ; Times: 1
+	Date: 2020-06-04 ; Times: 90
+	Date: 2020-06-05 ; Times: 14
+	Date: 2020-06-02 ; Times: 47
+	Date: 2020-06-03 ; Times: 37
+	Date: 2020-06-01 ; Times: 20
+
+List of queries that retrieved data from the resource: 
+	Query: "order:Lagomorpha stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "Rutilus rutilus" ; Times: 9
+	Query: "catalognumber:113678" ; Times: 1
+	Query: "genus:bunomys country:indonesia" ; Times: 2
+	Query: "Bassariscus astutus flavus locality:edwards county:&#34;llano&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "258276" ; Times: 1
+	Query: "catalognumber:288868" ; Times: 1
+	Query: "37841" ; Times: 1
+	Query: "Ursus maritimus" ; Times: 2
+	Query: "catalognumber:168016" ; Times: 1
+	Query: "Oryctolagus cuniculus" ; Times: 5
+	Query: "Bald Eagle" ; Times: 1
+	Query: "specificepithet:arenarius genus:geomys county:&#34;el paso&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "catalognumber:178321" ; Times: 1
+	Query: "glironia" ; Times: 1
+	Query: "country:Ecuador scientificname:Transandinomys talamancae " ; Times: 1
+	Query: "catalognumber:258138" ; Times: 1
+	Query: "TCWC" ; Times: 3
+	Query: "catalognumber:163086" ; Times: 1
+	Query: "catalognumber:163087" ; Times: 1
+	Query: "Bassariscus astutus flavus locality:graford county:&#34;palo pinto&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "catalognumber:53248" ; Times: 1
+	Query: "catalognumber:61239" ; Times: 1
+	Query: "catalognumber:288874" ; Times: 1
+	Query: "Macaca mulatta" ; Times: 6
+	Query: "revelo country:&#34;ecuador&#34;" ; Times: 1
+	Query: "Canis latrans" ; Times: 1
+	Query: "catalognumber:126793" ; Times: 1
+	Query: "59011" ; Times: 1
+	Query: "coendou" ; Times: 1
+	Query: "locality:Del Puerto Canyon stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Idionycteris phyllotis" ; Times: 2
+	Query: "catalognumber: 3742" ; Times: 1
+	Query: "country:Ecuador scientificname:Marmosa simonsi " ; Times: 1
+	Query: "Eptesicus fuscus continent:North America (skin OR fur AND United States OR USA) year &gt;= 1960 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:41469" ; Times: 1
+	Query: "Nasua narica" ; Times: 1
+	Query: "country:Ecuador scientificname:Thomasomys hudsoni " ; Times: 3
+	Query: "catalognumber:55845" ; Times: 1
+	Query: "catalognumber:55841" ; Times: 1
+	Query: "Bassariscus astutus flavus locality:llano county:&#34;llano&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "stateprovince:&#34;Maine&#34; (neovison vison)" ; Times: 4
+	Query: "catalognumber:98948" ; Times: 1
+	Query: "catalognumber:70280" ; Times: 1
+	Query: "specificepithet:cursor genus:Akodon" ; Times: 11
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 16
+	Query: "catalognumber:163090" ; Times: 1
+	Query: "Microtus miurus" ; Times: 1
+	Query: "Dactylomys" ; Times: 20
+	Query: "catalognumber:173950" ; Times: 1
+	Query: "catalognumber:175341" ; Times: 1
+	Query: "bullfrog" ; Times: 1
+	Query: "Dasyprocta punctata" ; Times: 1
+	Query: "(864764)" ; Times: 1
+	Query: "harpia" ; Times: 1
+	Query: "catalognumber:174856" ; Times: 1
+	Query: "catalognumber:4018" ; Times: 1
+	Query: "lion" ; Times: 3
+	Query: "genus:Ctenomys country:&#34;Argentina&#34;" ; Times: 2
+	Query: "bobcat" ; Times: 2
+	Query: "canadensis Texas" ; Times: 2
+	Query: "genus:Mustela specificepithet:nigripes" ; Times: 1
+	Query: "stateprovince:&#34;Maine&#34; (Castor canadensis) institutioncode: MSB" ; Times: 1
+	Query: "order:Soricomorpha stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "specificepithet:mogollonensis genus:microtus county:&#34;catron&#34; stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "puma" ; Times: 1
+	Query: "Mustela nigripes" ; Times: 2
+	Query: "Atqasuk" ; Times: 2
+	Query: "&#34;Mephitis macroura&#34; &#34;New Mexico&#34;" ; Times: 1
+	Query: "Procyon lotor stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "21.7.1.9" ; Times: 1
+	Query: "genus:myodes stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "stateprovince:&#34;Maine&#34; (Ondatra zibethicus) institutioncode: MSB" ; Times: 1
+	Query: "100499" ; Times: 1
+	Query: "las nubes" ; Times: 1
+	Query: "21.7.1.9." ; Times: 1
+	Query: "icr" ; Times: 1
+	Query: "Lemur" ; Times: 1
+	Query: "Tabasco" ; Times: 3
+	Query: "catalognumber:109713" ; Times: 1
+	Query: "monster" ; Times: 1
+	Query: "Procyon lotor fuscipes stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "catalognumber:148251" ; Times: 1
+	Query: "Cynomys gunnisoni" ; Times: 2
+	Query: "Bassariscus astutus flavus county:&#34;llano&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Sirenia" ; Times: 1
+	Query: "Pipistrellus hesperus texas" ; Times: 3
+	Query: "&#34;Spilogale gracilis&#34; &#34;New Mexico&#34;" ; Times: 3
+	Query: "catalognumber:316689" ; Times: 1
+	Query: "Euderma maculatum" ; Times: 2
+	Query: "catalognumber:316685" ; Times: 1
+	Query: "catalognumber:316686" ; Times: 1
+	Query: "catalognumber:316687" ; Times: 1
+	Query: "catalognumber:19611" ; Times: 1
+	Query: "specificepithet:trowbridgii genus:sorex county:&#34;humboldt&#34; hastissue:1" ; Times: 1
+	Query: "catalognumber:211069" ; Times: 1
+	Query: "atqasuk microtus" ; Times: 1
+	Query: "Panthera uncia" ; Times: 1
+	Query: "Bullfrog" ; Times: 1
+	Query: "catalognumber:105376" ; Times: 1
+	Query: "catalognumber:144379" ; Times: 1
+	Query: "AMNH 260229" ; Times: 1
+	Query: "canada goose" ; Times: 1
+	Query: "sus scrofa" ; Times: 1
+	Query: "specificepithet:frenata genus:Mustela hastissue:1" ; Times: 1
+	Query: "catalognumber: 146659" ; Times: 1
+	Query: "mountain lion" ; Times: 1
+	Query: "AMNH 261221" ; Times: 1
+	Query: "class:mammalia (10058)" ; Times: 2
+	Query: "MSB 67278" ; Times: 1
+	Query: "Bassariscus astutus flavus stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 7
+	Query: "hypsignathus" ; Times: 1
+	Query: "Bassariscus astutus flavus county:&#34;mitchell&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "catalognumber:229747" ; Times: 1
+	Query: "Bassariscus astutus flavus locality:frog branch county:&#34;palo pinto&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "catalognumber:148194" ; Times: 1
+	Query: "93995" ; Times: 1
+	Query: "catalognumber:163045" ; Times: 1
+	Query: "specificepithet:mollis stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "chiroptera daviesi" ; Times: 4
+	Query: "Eptesicus fuscus (skin) year &gt;= 1960 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:mollis genus:Urocitellus" ; Times: 1
+	Query: "21719" ; Times: 2
+	Query: "Microtus mexicanus" ; Times: 2
+	Query: "catalognumber:316691" ; Times: 1
+	Query: "igor castro institutioncode:MSB" ; Times: 1
+	Query: "dactylomys" ; Times: 1
+	Query: "Sus scrofa" ; Times: 6
+	Query: "Bassariscus astutus flavus county:&#34;palo pinto&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "Neotoma stephensi" ; Times: 2
+	Query: "genus:Ctenomys" ; Times: 1
+	Query: "Oxymycterus hucucha" ; Times: 3
+	Query: "Lasiurus borealis (skin) AND (Mexico) year &gt;= 1960 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Chinchilla chinchilla" ; Times: 3
+	Query: "Lasiurus borealis (skin OR fur) year &gt;= 1960 year &lt;= 2020 basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "bos gaurus" ; Times: 2
+	Query: "grizzly bear" ; Times: 1
+	Query: "genus:bunomys" ; Times: 12
+	Query: "catalognumber:53419" ; Times: 1
+	Query: "Pongo abelii" ; Times: 1
+	Query: "100399" ; Times: 2
+	Query: "catalognumber: 49140" ; Times: 1
+	Query: "vntype:specimen genus:Mus country:&#34;Brazil&#34;" ; Times: 1
+	Query: "AMNH 23215" ; Times: 1
+	Query: "catalognumber:45880 institutioncode:MSB hastissue:1" ; Times: 1
+	Query: "prairie dog" ; Times: 1
+	Query: "Neotoma lepida" ; Times: 28
+	Query: "ailurus fulgens" ; Times: 10
+	Query: "country:Ecuador scientificname:Proechimys decumanus " ; Times: 1
+	Query: "Tolypeutes matacus" ; Times: 1
+	Query: "specificepithet:mollis genus:urocitellus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "82441" ; Times: 1
+	Query: "catalognumber:36168" ; Times: 2
+	Query: "Bassariscus astutus flavus locality:rock creek county:&#34;palo pinto&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "bald eagle" ; Times: 2
+	Query: "scalopus aquaticus" ; Times: 5
+	Query: "catalognumber:236202" ; Times: 1
+	Query: "locality:Cuatro cienegas stateprovince:&#34;Coahuila&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Neotamias cinereicollis" ; Times: 4
+	Query: "catalognumber:163114" ; Times: 1
+	Query: "catalognumber:122181" ; Times: 1
+	Query: "lontra" ; Times: 1
+	Query: "(AF119279)" ; Times: 1
+	Query: "genus:Neofelis" ; Times: 1
+	Query: "(10058)" ; Times: 1
+	Query: "schmidtorum" ; Times: 1
+	Query: "bull frog" ; Times: 1
+	Query: "alces alces" ; Times: 2
+	Query: "Bassariscus astutus flavus county:&#34;Lubbock&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:mollis genus:Urocitellus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Lasiurus borealis (skin) year &gt;= 1960 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:novemcinctus genus:dasypus stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "Nasua nasua" ; Times: 3
+	Query: "Homo sapiens" ; Times: 18
+	Query: "mustela asia" ; Times: 2
+	Query: "genus:mus specificepithet:caroli" ; Times: 2
+	Query: "catalognumber:168331" ; Times: 1
+	Query: "nasua nasua" ; Times: 1
+	Query: "catalognumber: 135267" ; Times: 1
+	Query: "Eptesicus fuscus (skin) year &gt;= 1960 year &lt;= 2020" ; Times: 6
+	Query: "genus:(mustela) stateprovince:(virginia)" ; Times: 1
+	Query: "Lasiurus borealis (skin OR fur AND United States OR USA) year &gt;= 1960 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "american beaver" ; Times: 1
+	Query: "Lasiurus borealis continent:North America (skin OR fur AND United States OR USA) year &gt;= 1960 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "country:Ecuador scientificname:Dinomys branickii " ; Times: 4
+	Query: "black bear" ; Times: 1
+	Query: "catalognumber:208464" ; Times: 1
+	Query: "catalognumber:173758" ; Times: 1
+	Query: "umiat" ; Times: 4
+	Query: "230140" ; Times: 1
+	Query: "dasyprocta punctata" ; Times: 1
+	Query: "Galenomys" ; Times: 4
+	Query: "catalognumber:163103" ; Times: 1
+	Query: "MSB 236435" ; Times: 2
+	Query: "Cavia tschudii" ; Times: 1
+	Query: "bunomys penitus" ; Times: 16
+	Query: "genus:maxomys" ; Times: 2
+	Query: "bunomys" ; Times: 108
+	Query: "Bassariscus astutus flavus locality:waco county:&#34;palo pinto&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Odocoileus virginianus texana stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Soricidae stateprovince:&#34;Baja California&#34;" ; Times: 1
+	Query: "Myotis lucifugus (skin) year &gt;= 1960 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:316725" ; Times: 1
+	Query: "penitus" ; Times: 1
+	Query: "RT 318" ; Times: 1
+	Query: "catalognumber:57338" ; Times: 1
+	Query: "myotis leibii" ; Times: 2
+	Query: "12575 AMNH" ; Times: 1
+	Query: "&#34;harpia&#34;" ; Times: 1
+	Query: "genus:bunomys specificepithet:penitus" ; Times: 4
+	Query: "specificepithet:trowbridgii genus:sorex hastissue:1" ; Times: 2
+	Query: "stateprovince:&#34;Maine&#34; (Ondatra zibethicus)" ; Times: 6
+	Query: "Geomys arenarius" ; Times: 7
+	Query: "catalognumber: 196268" ; Times: 1
+	Query: "Bos taurus" ; Times: 6
+	Query: "country:Ecuador scientificname:Caenolestes fuliginosus " ; Times: 2
+	Query: "Reithrodontomys montanus" ; Times: 2
+	Query: "catalognumber:232850" ; Times: 1
+	Query: "paruromys" ; Times: 2
+	Query: "catalognumber: 61436" ; Times: 1
+	Query: "catalognumber: 152184" ; Times: 1
+	Query: "stateprovince:&#34;Maine&#34; (Castor canadensis)" ; Times: 11
+	Query: "country:Ecuador scientificname:Akodon mollis " ; Times: 2
+	Query: "country:Ecuador scientificname:Glossophaga soricina " ; Times: 3
+	Query: "distance(location,geopoint(33.529,-105.694))&lt;2000" ; Times: 1
+	Query: "Pecari tajacu angulatus stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 3
+	Query: "Brachylagus idahoensis" ; Times: 5
+	Query: "catalognumber:25187" ; Times: 1
+	Query: "RT 286" ; Times: 2
+	Query: "steelhead" ; Times: 1
+	Query: "Myotis lucifugus continent:North America (skin OR fur AND United States OR USA) year &gt;= 1960 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Lasiurus blossevillii" ; Times: 3
+	Query: "Myotis occultus" ; Times: 2
+	Query: "Cervus elaphus" ; Times: 6
+	Query: "Bassariscus astutus flavus locality:N bank county:&#34;palo pinto&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "catalognumber: 147946" ; Times: 1
+	Query: "Bassaricyon" ; Times: 1
+	Query: "genus:myodes county:&#34;catron&#34; stateprovince:&#34;new mexico&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 52 (out of 474 download events in this period)
+Total number of records downloaded: 30947
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: Mexico ; Times: 1
+	Country: Poland ; Times: 2
+	Country: Nepal ; Times: 1
+	Country: India ; Times: 1
+	Country: United States ; Times: 36
+	Country: Colombia ; Times: 4
+	Country: Bolivia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-24 ; Times: 1
+	Date: 2020-06-08 ; Times: 4
+	Date: 2020-06-09 ; Times: 3
+	Date: 2020-06-06 ; Times: 4
+	Date: 2020-06-02 ; Times: 6
+	Date: 2020-06-04 ; Times: 12
+	Date: 2020-06-05 ; Times: 2
+	Date: 2020-06-11 ; Times: 6
+	Date: 2020-06-03 ; Times: 7
+	Date: 2020-06-01 ; Times: 5
+	Date: 2020-06-07 ; Times: 1
+	Date: 2020-06-10 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Dactylomys" ; Times: 2
+	Query: "specificepithet:novemcinctus genus:dasypus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Bassariscus astutus flavus stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "american beaver" ; Times: 1
+	Query: "Peromyscus leucopus" ; Times: 4
+	Query: "bullfrog" ; Times: 1
+	Query: "Dasyprocta punctata" ; Times: 1
+	Query: "order:Lagomorpha stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "Eptesicus fuscus (skin) year &gt;= 1960 year &lt;= 2020" ; Times: 1
+	Query: "Eptesicus fuscus (skin) year &gt;= 1960 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "white tailed deer" ; Times: 1
+	Query: "chiroptera daviesi" ; Times: 1
+	Query: "Lasiurus borealis continent:North America (skin OR fur AND United States OR USA) year &gt;= 1960 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vicugna vicugna" ; Times: 1
+	Query: "Procyon lotor fuscipes stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "muskrat" ; Times: 1
+	Query: "Nasua narica" ; Times: 1
+	Query: "dasyprocta punctata" ; Times: 1
+	Query: "Cavia tschudii" ; Times: 2
+	Query: "Myotis lucifugus (skin) year &gt;= 1960 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "grizzly bear" ; Times: 1
+	Query: "bull frog" ; Times: 1
+	Query: "stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "family:Soricidae stateprovince:&#34;Baja California&#34;" ; Times: 1
+	Query: "nasua nasua" ; Times: 1
+	Query: "Florida" ; Times: 1
+	Query: "ailurus fulgens" ; Times: 1
+	Query: "Tolypeutes matacus" ; Times: 1
+	Query: "Eptesicus fuscus continent:North America (skin OR fur AND United States OR USA) year &gt;= 1960 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:mollis genus:urocitellus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "bald eagle" ; Times: 1
+	Query: "scalopus aquaticus" ; Times: 3
+	Query: "atqasuk microtus" ; Times: 2
+	Query: "Panthera uncia" ; Times: 1
+	Query: "Pecari tajacu angulatus stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "salmoninae" ; Times: 1
+	Query: "order:Soricomorpha stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "bunomys" ; Times: 2
+	Query: "specificepithet:floridanus genus:sylvilagus country:&#34;united states&#34;" ; Times: 1
+	Query: "Myotis lucifugus continent:North America (skin OR fur AND United States OR USA) year &gt;= 1960 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "raccoon" ; Times: 1
+	Query: "Vicugna vicugna" ; Times: 1
+	Query: "Bassaricyon" ; Times: 1
+
+
+End of report.
